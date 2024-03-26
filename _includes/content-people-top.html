@@ -1,0 +1,40 @@
+<div>
+  <div class="uk-card">
+    <div class="uk-card-media-top">
+      {% if person.image %}
+        <a href="{{ person.url | relative_url }}">
+          <img
+               class="img-rounded img-responsive"
+               src="{{ person.image }}"
+               alt="{{ person.title }}"
+               {% comment %}
+                width="270"
+                height="360"
+               {% endcomment %}
+               >
+      </a>
+      {% endif %}
+    </div>
+    <div class="uk-card-body">
+      {% comment %}
+      <!-- <div class="uk-text-uppercase article-title-font card-categories">
+        <a class="link-primary" href="/category/">Artifical Intelligence</a>
+      </div> -->
+      {% endcomment %}
+      <h3 class="card-title-xsmall article-title-font">
+        <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
+      </h3>
+      <div class="content-secondary">{{ person.bio }}</div>
+      {% comment %}
+      <!-- <div class="uk-text-uppercase article-title-font card-categories">
+        <a class="link-primary" href="{{ person.department }}">{{ person.department }}</a>
+      </div> -->
+      {% endcomment %}
+      <div class="card-meta">
+        <b><a href="{{ person.email | prepend: 'mailto:'}}">{{person.email}}</a></b>
+        <!-- <br>
+        <b>{{- person.building }} {{ person.room -}}</b> -->
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,38 @@
+---
+layout: null
+---
+[
+  {% for person in site.people %}
+    {% if person.active %}
+      {
+        "title"    : "{{ person.title | escape }}",
+        "tags"     : "{{ person.email }}",
+        "url"      : "{{ site.baseurl }}{{ person.url }}"
+      } {% unless forloop.last %},{% endunless %}
+    {% endif %}
+  {% endfor %}
+  
+  {% for page in site.pages %}
+   {
+     {% if page.title != nil %}
+        "title"    : "{{ page.title | escape }}",
+        "category" : "{{ page.category }}",
+        "tags"     : "{{ page.tags | join: ', ' }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "date"     : "{{ page.date | date: "%B %-d %Y"}}"
+     {% endif %}
+   } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% for post in site.posts %}
+    {
+      {% if post.include_in_search %}
+        "title"    : "{{ post.title | escape }}",
+        "category" : "{{ post.category }}",
+        "tags"     : "{{ post.tags | join: ', ' }}",
+        "url"      : "{{ site.baseurl }}{{ post.url }}",
+        "date"     : "{{ post.date | date: "%B %-d %Y"}}"
+      {% endif %}
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

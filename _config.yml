@@ -1,0 +1,152 @@
+# Welcome to Plus!
+#
+# This config file affects your whole blog.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
+
+# Site settings
+title:              Machine Perception and Cognitive Robotics Laboratory
+description:        Florida Atlantic University
+url:                https://mpcrlab.com # Site base hostname & protocol, e.g. http://example.com
+baseurl:            # Site subpath, e.g. /blog
+repository:         # stephenhoover.github.io/MPCR/
+
+logo_image:
+  dark:             #CCSBS-mark-2-Cropped-to-Content.svg # CCSBS-mark-2.png # upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
+  light:            # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
+
+permalink:          /news/:day-:short_month-:year-:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+date_format:        "%B %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+uploads:            /uploads/ # Path to post content assets directory i.e post images, pdfs etc
+paginate:           7 # Number of posts displayed on blog page
+paginate_path:      "/news/page-:num/" # Blog path
+sitemap:            /sitemap.xml
+RSS:                /feed.xml
+
+Primary-Color-FAU-Blue:     \#0b3d69
+Secondary-Color-FAU-Red:    \#c52730
+Secondary-Color-FAU-Grey:   \#b0b1b3
+Secondary-Color-FAU-Black:  \#2c2e35
+
+donate:             /gifts/ # https://fauf.fau.edu/science/
+apply:              /degree-programs/
+footer:             logo-owl-color.svg # Default footer image settings
+
+# navbar settings
+navbar_primary:
+  sticky:           false
+  social:           false
+  search:           true
+
+# Social share buttons
+social_share:
+  twitter:          false
+  facebook:         false
+  linkedin:         false
+  pinterest:        false
+  reddit:           false
+
+# Social networks
+social_networks:
+  email:
+  website:
+  facebook:         https://www.facebook.com/FloridaAtlantic
+  github:           https://github.com/MPCRlab
+  reddit:
+  instagram:        https://instagram.com/FloridaAtlantic
+  linkedin:
+  twitter:          https://twitter.com/FloridaAtlantic
+  vimeo:            
+  youtube:          https://www.youtube.com/floridaatlanticu
+
+# Strings
+strings:
+  author_by:        By
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-toc
+  - jekyll-target-blank
+
+whitelist:
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - CHANGELOG
+  - LICENSE
+  - Support.pdf
+  - README
+  - /docs
+  - /_projects
+
+sass:
+  style:            compressed
+
+# collections:
+collections:
+  people:
+    output: true
+  category:
+    output: true
+  projects:
+    output: false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      sidebar: left
+  # _authors
+  # - scope:
+  #     path: ""
+  #     type: authors
+  #   values:
+  #     layout: author
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: author
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: projects
+  # _category
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: category
+
+google_analytics:   # Google analytics code, get your code here https://www.google.com/analytics/
+disqus:
+  shortname:        # Disqus comments shortname, requires Disqus account https://disqus.com/
+instagram_accesstoken:

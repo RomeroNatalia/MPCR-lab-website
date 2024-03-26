@@ -1,0 +1,79 @@
+# Navbar menu navigation links
+left:
+
+center:
+  - title: Home
+    url: /
+    dropdown:
+      - title: Make a Gift
+        url: /gifts/
+
+  - title: News
+    url: /news/
+
+  - title: About
+    url: /about/
+
+  - title: People
+    url: /people/members
+    dropdown:
+      - title: Active Members
+        url: /people/members
+      - title: Former Members
+        url: /people/former-members/
+
+  # - title: Events
+  #   dropdown:
+  #     - title: Welcome to the Deep Learning and AI Summer Boot Camp
+  #       url: /shortcourse22
+  #     - title: Journal Club
+  #       url: /journal-club/
+  #     - title: Society of Industrial and Applied Mathematics (SIAM)
+  #       url: http://www.math.fau.edu/siam/index.php/
+  #     - title: Neuroscience Seminar
+  #       url: https://www.fau.edu/ibrain/neuroscience-lecture-series/
+  #     - title: Neuroscience Student Organization (NSO)
+  #       url: https://www.fau.edu/ibrain/institute-graduate-students/
+  #   url: /shortcourse22
+
+  - title: Blog
+    url: https://futuremind.ai/
+
+  - title: Contact
+    url: /contact/
+
+
+  # - title: Research
+  #   # url: /research/
+  #   dropdown:
+  #     - title: Laboratories
+  #       url: /laboratories/
+  #     - title: Sponsored Research
+  #       url: /sponsored-research/
+  #     - title: Publications
+  #       url: /publications/
+      # - title: Facilities
+      #   url: /facilities/
+      # - title: Partner Institutes
+      #   url: /partner-institutes/
+
+  # - title: Ph.D. Program
+  #   url: /phd-program/
+  #   dropdown:
+  #     - title: Call for Applications
+  #       url: /phd-program/
+  #     - title: Degree Requirements
+  #       url: /degree-requirements/
+
+  # - title: Resources
+  #   dropdown:
+  #     - title: Logos
+  #       url: /logos
+  #     - title: Plan of Study Template
+  #       url: /degree-requirements/#plan-of-study
+  #     - title: Letterhead
+  #       url: /letterhead
+
+right:
+    # - title: Donate
+    #   url: /donate/

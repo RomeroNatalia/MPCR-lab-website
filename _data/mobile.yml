@@ -1,0 +1,35 @@
+# Mobile menu navigation links
+
+- title: Home
+  url: /
+
+- title: News
+  url: /news/
+
+- title: About
+  url: /about/
+
+- title: Members
+  url: /people/members/
+
+- title: Contact
+  url: /contact/
+
+- title: Degree Programs
+  url: /phd-program/
+
+- title: Donate
+  url: /gifts/
+
+# - title: Former Members
+# url: /people/former-members/
+
+# - title: Events
+#   url: /shortcourse22
+
+# - title: Publications
+#   url: /publications/
+
+# - title: Sponsored Research
+#   url: /sponsored-research/
+

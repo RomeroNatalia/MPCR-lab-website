@@ -1,0 +1,28 @@
+<div class="widget">
+  <div class="uk-margin">
+    <a class="uk-logo">
+      <img
+        src="{{ site.uploads | absolute_url }}logos/MPCR-White.svg"
+        alt="{{ site.title }}"
+        style = "width: 100%">
+    </a>
+  </div>
+  {% if include.content %}
+    <div class="uk-margin">
+      {{ include.content }}
+    </div>
+  {% endif %}
+  <!-- {% if site.description %}
+    <div class="uk-margin copyright">{{ site.description }}</div>
+  {% endif %} -->
+
+  <p>Copyright © 2014 - {{ site.time | date: "%Y" }}. Florida Atlantic University</p>
+
+  {% if site.social_networks %}
+    <div class="uk-margin">
+      <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-flex-left@m">
+        {% include social-networks.html %}
+      </div>
+    </div>
+  {% endif %}
+</div>

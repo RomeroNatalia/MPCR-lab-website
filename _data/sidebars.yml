@@ -1,0 +1,69 @@
+# Page sidebar widgets
+page:
+  - widget: toc
+    title: TABLE OF CONTENTS
+
+  # - widget: recent
+  #   title: RECENT ARTICLES
+  #   count: 8
+
+  # - widget: categories
+  #   title: CATEGORIES
+  #   count: 5
+  #
+  # - widget: authors
+  #   title: CONTRIBUTORS
+  #   count: 5
+
+# Footer sidebar widgets
+footer:
+  # - widget: categories
+  #   title: CATEGORIES
+  #   count: 5
+  #
+  # - widget: authors
+  #   title: CONTRIBUTORS
+  #   count: 5
+
+  - widget: recent
+    title: RECENT NEWS
+    count: 4
+
+  - widget: links
+    title: CAMPUSES
+    links:
+      - title: "Boca Raton"
+        url: https://www.fau.edu/about/boca-raton.php
+      - title: "Dania Beach"
+        url: https://www.fau.edu/broward/about/dania-beach/
+      - title: "Davie"
+        url: https://www.fau.edu/broward/about/davie/
+      - title: "Fort Lauderdale"
+        url: https://www.fau.edu/broward/about/fort-lauderdale/
+      - title: "Harbor Branch"
+        url: https://www.fau.edu/hboi/
+      - title: "Jupiter"
+        url: https://www.fau.edu/jupiter/
+
+  - widget: links
+    title: QUICK LINKS
+    links:
+      - title: "Contact Us"
+        url: https://www.fau.edu/about/contact/
+      # - title: "Privacy Policy"
+      #   url: https:www.fau.edu/privacypolicy.php
+      - title: "University Regulations and Policies"
+        url: https://www.fau.edu/policies/policiesregulations.php
+      - title: "Employment Opportunities"
+        url: https://www.fau.edu/hr/
+      - title: "Emergency Information"
+        url: https://www.fau.edu/admin/EmergencyInformation.php
+      - title: "Get Help"
+        url: http://onestop.fau.edu/
+      - title: "Report a Concern"
+        url: https://www.fau.edu/report/
+      - title: "Sitemap"
+        url: /sitemap.xml
+  - widget: about
+    content:  Florida Atlantic University embodies a culture of strategic and collaborative community engagement that results in mutual benefit to the institution and the diverse internal and external communities that it serves.
+    copyright: true
