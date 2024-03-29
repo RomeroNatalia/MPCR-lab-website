@@ -17,7 +17,7 @@ staff:          false
 student:        true
 campus:         Boca Raton
 github:         https://github.com/StephenHoover
-google-scholar: https://scholar.google.com/citations?user=a2lv0lMAAAAJ&hl=en&oi=ao
+google-scholar: # https://scholar.google.com/citations?user=a2lv0lMAAAAJ&hl=en&oi=ao
 instagram:      # https://www.instagram.com/
 linkedin:       # https://www.linkedin.com/
 twitter:        # https://twitter.com/
@@ -41,7 +41,6 @@ Boca Raton, FL 33431-0991
 * Ph.D., Complex Systems and Brain Sciences, Florida Atlantic University, In Progress
 * M.S., Artificial Intelligence, Florida Atlantic University, 2023
 * B.S. (Hons.), Mathematics, Florida Atlantic University, 2020  
-* [**View Stephen's CV**]({{ page.CV }})  
 
 # Research Interests
 * Artificial Intelligence Safety and Control
@@ -62,10 +61,6 @@ Boca Raton, FL 33431-0991
 * [**Electronic Frontier Foundation (EFF)**](https://www.eff.org/)
 * [**Society of Industrial and Applied Mathematics (SIAM)**][siam]
 * [**Calyx Institute**](https://calyxinstitute.org/)
-
-
-# Publications
-[**Google Scholar Profile**]({{ page.google-scholar }})
 
 {% include slideshow.html %}
 
