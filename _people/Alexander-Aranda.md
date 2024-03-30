@@ -8,7 +8,7 @@ website:        https://arand013.github.io/Portfolio/
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
 building:       # S.E. Wimberly Library
 room:           # Sandbox
-active:         true
+active:         false
 alumni:         false
 contact:        false
 faculty:        false

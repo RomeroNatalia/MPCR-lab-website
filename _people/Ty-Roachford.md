@@ -4,9 +4,9 @@ username:       Ty-Roachford
 image:          /uploads/avatars/Ty-Roachford.jpg
 bio:            Ph.D. Student <br> Brain Institute Fellow (NGP)
 email:          troachford2013@fau.edu
-building:       Behvaioral Sciences (BS-12) # S.E. Wimberly Library
-room:           Room 408 # Sandbox
-active:         true
+building:       # Behvaioral Sciences (BS-12) # S.E. Wimberly Library
+room:           # Room 408 # Sandbox
+active:         false
 alumni:         false
 contact:        false
 faculty:        false
@@ -29,8 +29,10 @@ Stiles-Nicholson Brain Institute
 Center for Complex Systems and Brain Sciences  
 777 Glades Road  
 Boca Raton, FL 33431-0991  
+{% if page.building %}
 {{ page.building }}  
 {{ page.room }}  
+{% endif %}
 [{{ page.email }}](mailto:{{ page.email }})  
 
 # Education

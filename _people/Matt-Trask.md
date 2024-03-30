@@ -6,7 +6,7 @@ bio:            Community Member
 email:          mtrask2018@fau.edu  #
 website:        #
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         true
+active:         false
 alumni:         true
 contact:        false
 faculty:        false

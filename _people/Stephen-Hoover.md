@@ -3,13 +3,13 @@ title:          Stephen H. Hoover
 username:       Stephen-Hoover
 image:          /uploads/avatars/Stephen-Hoover.jpeg
 bio:            Ph.D. Student <br> Brain Institute Fellow (GNTP)
-CV:             https://www.stephenhoover.org/documents/Stephen_Hoover_CV.pdf
+CV:             # 
 email:          shoover2016@fau.edu
 website:        https://www.stephenhoover.org
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
 building:       Behvaioral Sciences (BS-12) #S.E. Wimberly Library
 room:           Room 408 # Sandbox
-active:         true
+active:         false
 alumni:         true
 contact:        false
 faculty:        false
