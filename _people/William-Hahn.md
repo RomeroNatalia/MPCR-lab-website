@@ -9,12 +9,12 @@ github:         https://github.com/williamedwardhahn # https://github.com/
 building:       # 
 room:           # 
 active:         false
-alumni:         true
+alumni:         false
 contact:        false
 faculty:        false
 staff:          false
 student:        false
-director:       true
+director:       false # true
 instagram:      # https://www.instagram.com/
 linkedin:       # https://www.linkedin.com/
 twitter:        # https://twitter.com/
