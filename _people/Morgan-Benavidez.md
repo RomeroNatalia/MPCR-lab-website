@@ -8,7 +8,7 @@ website:        #
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
 building:       Behavioral Sciences (BS-12) # S.E. Wimberly Library
 room:           Room 408 # Sandbox 
-active:         true
+active:         false
 alumni:         true
 contact:        false
 faculty:        false

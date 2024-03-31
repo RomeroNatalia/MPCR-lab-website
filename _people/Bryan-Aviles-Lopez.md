@@ -8,7 +8,7 @@ website:        # https://v-macri.web.app
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
 building:       S.E. Wimberly Library
 room:           Sandbox
-active:         true
+active:         false
 alumni:         true
 contact:        false
 faculty:        false
