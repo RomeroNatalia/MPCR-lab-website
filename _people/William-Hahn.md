@@ -8,13 +8,10 @@ website:        https://www.mpcrlab.com
 github:         https://github.com/williamedwardhahn # https://github.com/
 building:       # 
 room:           # 
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        false
-director:       false # true
+active:         true  # false # changed per Elan's request
+contact:        false # false # changed per Elan's request
+faculty:        true  # false # changed per Elan's request
+director:       true
 instagram:      # https://www.instagram.com/
 linkedin:       # https://www.linkedin.com/
 twitter:        # https://twitter.com/
