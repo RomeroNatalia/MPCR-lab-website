@@ -47,8 +47,8 @@ Boca Raton, FL 33431-0991
 * M.A., Rutgers University, New Brunswick
 
 # Research Interests
-* Perception and learning
-* Deep Learning
+* Deep Learning/Ai
+* Foundations of Langauge and Cognition
 * Embedded computational neural models
 
 # Research Description
