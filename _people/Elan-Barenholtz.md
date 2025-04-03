@@ -5,7 +5,7 @@ image:          /uploads/avatars/Elan-Barenholtz.jpg
 bio:            Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Associate Director of the Center for Future Mind # Co-Director
 email:          elan.barenholtz@fau.edu
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-website:        https://mpcrlab.com
+website:        https://barenholtz.ai
 campus:         Boca Raton
 building:       Behavioral Sciences (BS-12)
 room:           Room 212
