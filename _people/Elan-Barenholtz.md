@@ -2,7 +2,7 @@
 title:          Elan Barenholtz, Ph.D.
 username:       Elan-Barenholtz
 image:          /uploads/avatars/Elan-Barenholtz.jpg
-bio:            Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Associate Director of the Center for Future Mind # Co-Director
+bio:            Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Associate Director of the Center for the Future Mind # Co-Director
 email:          elan.barenholtz@fau.edu
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
 website:        https://barenholtz.ai
