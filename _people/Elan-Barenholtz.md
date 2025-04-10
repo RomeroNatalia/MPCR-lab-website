@@ -35,7 +35,7 @@ images:
 # Contact Information
 Department of Psychology  
 Center for Complex Systems and Brain Sciences  
-Center for Future Mind  
+Center for the Future Mind  
 777 Glades Road  
 Boca Raton, FL 33431-0991  
 {{ page.building }}  
