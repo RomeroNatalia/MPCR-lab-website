@@ -13,7 +13,7 @@ faculty:        true
 director:       true
 ---
 instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/in/romeronatalia/
+linkedin:       https://www.linkedin.com/in/romeronatalia/
 
 
 images:
@@ -45,6 +45,15 @@ Boca Raton, FL 33431-0991
 * Human-Machine Interaction
 
 
+# MPCR Lab Summer Short Course
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2kyPou_FFn0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Faculty Vignette
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wsQRZCwCyKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Slideshow
+{% include slideshow.html %}
 
 
 
