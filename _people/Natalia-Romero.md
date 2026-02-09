@@ -34,9 +34,9 @@ Boca Raton, FL 33431-0991
 [{{ page.email }}](mailto:{{ page.email }})  
 
 # Education
-* Ph.D., Complex Systems and Brain Sciences, Florida Atlantic University, 2016  
-* Gradaute Coursework, University of North Carolina at Greensboro  
-* B.S., Physics and Mathematics, Guilford College, 2008
+* Ph.D., Physics-Complex Systems, Florida Atlantic University  
+* M.S., Physics, Florida Atlantic University
+* B.S., Ciencias Fisicas, Universidad de Buenos Aires.
 
 # Research Interests
 * Complex Social Systems
