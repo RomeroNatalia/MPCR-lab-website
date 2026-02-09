@@ -10,6 +10,8 @@ room:           #
 active:         true  
 contact:        false
 faculty:        true 
+staff:          true
+student:        false
 director:       true
 ---
 instagram:      # https://www.instagram.com/
