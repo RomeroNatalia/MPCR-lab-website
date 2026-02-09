@@ -1,7 +1,7 @@
 ---
 title:          Natalia Romero, Ph.D.
 username:       Natalia-Romero
-%image:          /uploads/avatars/natalia.JPG
+image:          /uploads/avatars/natalia.JPG
 bio:            Chief Program Strategy Officer <br> CO-Principal Investigator <br> 
 website:        https://www.mpcrlab.com
 github:         https://github.com/romeronatalia # https://github.com/
