@@ -40,7 +40,8 @@ Boca Raton, FL 33431-0991
 # Research Interests
 * Complex Social Systems
 * Computational Neuroscience
-* Learnign Analytics
+* Learning Analytics
+* Human-Machine Interaction
 
 
 
