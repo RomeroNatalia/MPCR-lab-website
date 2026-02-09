@@ -1,16 +1,18 @@
+yaml
 ---
 title:          Natalia Romero, Ph.D.
 username:       Natalia-Romero
-image:          /uploads/avatars/natalia.JPG
+image:          /uploads/avatars/natalia.jpeg
 bio:            Chief Program Strategy Officer <br> CO-Principal Investigator <br> 
 website:        https://www.mpcrlab.com
 github:         https://github.com/romeronatalia # https://github.com/
 building:       # 
 room:           # 
-active:         true  # false # changed per Elan's request
-contact:        false # false # changed per Elan's request
-faculty:        true  # false # changed per Elan's request
+active:         true  
+contact:        false
+faculty:        true 
 director:       true
+---
 instagram:      # https://www.instagram.com/
 linkedin:       # https://www.linkedin.com/in/romeronatalia/
 
