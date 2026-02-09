@@ -21,3 +21,32 @@ images:
   - path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
 
 video:   https://www.youtube-nocookie.com/embed/2kyPou_FFn0
+
+---
+# Contact Information
+Machine Perception and Cognitive Robotics  
+Center for Complex Systems and Brain Sciences  
+777 Glades Road  
+Boca Raton, FL 33431-0991  
+{{ page.building }}  
+{{ page.room }}  
+[{{ page.email }}](mailto:{{ page.email }})  
+
+# Education
+* Ph.D., Complex Systems and Brain Sciences, Florida Atlantic University, 2016  
+* Gradaute Coursework, University of North Carolina at Greensboro  
+* B.S., Physics and Mathematics, Guilford College, 2008
+
+# Research Interests
+* Complex Social Systems
+* Computational Neuroscience
+* Learnign Analytics
+
+
+
+
+
+
+
+[1]: https://www.uba.ar
+[2]: https://mpcrlab.com
