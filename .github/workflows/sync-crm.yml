@@ -1,0 +1,64 @@
+name: Sync CRM Data
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily 6AM UTC
+  workflow_dispatch:       # Manual trigger
+  repository_dispatch:
+    types: [crm-sync]     # CRM webhook trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install python-frontmatter requests
+
+      - name: Fetch CRM JSON data
+        run: |
+          mkdir -p _data
+          curl -sf "${{ secrets.CRM_URL }}/api/people.json" -o _data/people.json
+          curl -sf "${{ secrets.CRM_URL }}/api/projects.json" -o _data/projects.json
+          curl -sf "${{ secrets.CRM_URL }}/api/news.json" -o _data/news.json
+          curl -sf "${{ secrets.CRM_URL }}/api/publications.json" -o _data/publications.json
+
+      - name: Sync CRM to Jekyll markdown
+        run: |
+          # Clone the CRM repo to get the sync script
+          git clone --depth 1 https://github.com/${{ secrets.CRM_REPO || 'mpcrlab/mpcr-crm' }}.git /tmp/mpcr-crm 2>/dev/null || true
+
+          # If CRM repo is available, run the full markdown sync
+          if [ -f /tmp/mpcr-crm/scripts/sync_to_website.py ]; then
+            # Write fetched JSON to a temp output dir for the sync script
+            mkdir -p /tmp/crm-output
+            cp _data/people.json /tmp/crm-output/
+            cp _data/projects.json /tmp/crm-output/
+            cp _data/news.json /tmp/crm-output/
+
+            python /tmp/mpcr-crm/scripts/sync_to_website.py . \
+              --output-dir /tmp/crm-output
+          else
+            echo "CRM sync script not available, skipping markdown sync"
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "MPCR CRM Bot"
+          git config user.email "crm-bot@mpcrlab.com"
+          git add _data/ _people/ _projects/ _posts/
+          if git diff --cached --quiet; then
+            echo "No changes to sync"
+          else
+            git commit -m "Sync data from CRM $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -6,10 +6,10 @@ title: Home
 redirect_from:
   - /index.php
 images:
-  - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
-  - path: /uploads/news-pictures/Warwick_Pic_62.JPG
-  - path: /uploads/news-pictures/astro-image-4.jpg
   - path: /uploads/news-pictures/2023-Spring-Sandbox-Grand-Opening.JPG
+  - path: /uploads/news-pictures/astro-image-4.jpg
+  - path: /uploads/news-pictures/Warwick_Pic_62.JPG
+  - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
 ---
 
 <!-- {% include section-slideshow.html %} -->

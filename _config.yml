@@ -90,7 +90,6 @@ exclude:
   - Support.pdf
   - README
   - /docs
-  - /_projects
 
 sass:
   style:            compressed
@@ -102,7 +101,7 @@ collections:
   category:
     output: true
   projects:
-    output: false
+    output: true
 
 # Defaults
 defaults:
