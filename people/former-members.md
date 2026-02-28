@@ -14,10 +14,18 @@ redirect_from:
 
 <div class="uk-container uk-margin-medium-bottom">
   <div class="uk-child-width-1-4@s uk-child-width uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
-    {% for person in site.people %}
+    {% if site.data.people %}
+      {% for person in site.data.people %}
+        {% if person.active != true %}
+          {% include content-people-top-data.html %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for person in site.people %}
         {% if person.active != true %}
           {% include content-people-top.html %}
         {% endif %}
-    {% endfor %}
+      {% endfor %}
+    {% endif %}
   </div>
 </div>

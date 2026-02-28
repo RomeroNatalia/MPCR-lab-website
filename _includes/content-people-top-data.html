@@ -1,0 +1,26 @@
+<div>
+  <div class="uk-card">
+    <div class="uk-card-media-top">
+      {% if person.image %}
+        <a href="/people/{{ person.slug }}/">
+          <img
+               class="img-rounded img-responsive"
+               src="{{ person.image }}"
+               alt="{{ person.title }}"
+               >
+      </a>
+      {% endif %}
+    </div>
+    <div class="uk-card-body">
+      <h3 class="card-title-xsmall article-title-font">
+        <a href="/people/{{ person.slug }}/">{{ person.title }}</a>
+      </h3>
+      <div class="content-secondary">{{ person.bio }}</div>
+      <div class="card-meta">
+        {% if person.email and person.email != "" %}
+        <b><a href="mailto:{{ person.email }}">{{ person.email }}</a></b>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

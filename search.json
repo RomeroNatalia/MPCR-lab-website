@@ -2,15 +2,27 @@
 layout: null
 ---
 [
-  {% for person in site.people %}
-    {% if person.active %}
-      {
-        "title"    : "{{ person.title | escape }}",
-        "tags"     : "{{ person.email }}",
-        "url"      : "{{ site.baseurl }}{{ person.url }}"
-      } {% unless forloop.last %},{% endunless %}
-    {% endif %}
-  {% endfor %}
+  {% if site.data.people %}
+    {% for person in site.data.people %}
+      {% if person.active %}
+        {
+          "title"    : "{{ person.title | escape }}",
+          "tags"     : "{{ person.email }}",
+          "url"      : "{{ site.baseurl }}/people/{{ person.slug }}/"
+        } {% unless forloop.last %},{% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    {% for person in site.people %}
+      {% if person.active %}
+        {
+          "title"    : "{{ person.title | escape }}",
+          "tags"     : "{{ person.email }}",
+          "url"      : "{{ site.baseurl }}{{ person.url }}"
+        } {% unless forloop.last %},{% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
   
   {% for page in site.pages %}
    {
