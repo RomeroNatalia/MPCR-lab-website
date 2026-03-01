@@ -9,11 +9,11 @@ description: Compressed Inference focuses on developing techniques to run large 
   AI models on edge devices, mobile platforms, and embedded systems.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Compressed-Inference.svg
 instagram: ''
 linkedin: ''
 members: []
-project_leader: ''
+project_leader: Ganesh-Shiwakoti
 room: ''
 tags:
 - development

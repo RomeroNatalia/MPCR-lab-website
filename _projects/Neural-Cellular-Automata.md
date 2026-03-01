@@ -9,7 +9,7 @@ description: Neural Cellular Automata combines the simplicity of cellular automa
   and adaptive self-repairing systems.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Neural-Cellular-Automata.svg
 instagram: ''
 linkedin: ''
 members: []

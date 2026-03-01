@@ -11,6 +11,9 @@ github: https://github.com/mishakmak
 image: /uploads/avatars/Misha-Klopuah.JPG
 instagram: ''
 linkedin: ''
+project_slugs:
+- Forth-for-OISC
+- One-Instruction-Set-Computer-OISC
 room: Sandbox
 staff: false
 student: true

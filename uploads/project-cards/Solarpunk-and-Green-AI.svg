@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5a2d2d;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0a0a1a;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="url(#bg)"/>
+  <circle cx="23" cy="123" r="43" fill="white" opacity="0.08"/>
+    <circle cx="180" cy="68" r="40" fill="white" opacity="0.1"/>
+    <circle cx="65" cy="24" r="45" fill="white" opacity="0.12"/>
+    <circle cx="139" cy="187" r="39" fill="white" opacity="0.14"/>
+    <circle cx="177" cy="23" r="37" fill="white" opacity="0.16"/>
+    <circle cx="125" cy="17" r="25" fill="white" opacity="0.18"/>
+    
+  <text x="200" y="90" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="white" opacity="0.3">GA</text>
+  <text x="200" y="130" text-anchor="middle" font-family="sans-serif" font-size="16" fill="white" opacity="0.7">Green AI</text>
+</svg>

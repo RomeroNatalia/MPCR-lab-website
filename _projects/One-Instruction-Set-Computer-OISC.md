@@ -9,10 +9,11 @@ description: This project explores the One Instruction Set Computer (OISC) model
   power of simplicity in computer architecture.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/One-Instruction-Set-Computer-OISC.svg
 instagram: ''
 linkedin: ''
-members: []
+members:
+- Misha-Klopukh
 project_leader: ''
 room: ''
 tags:

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5c1a3a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0a0a1a;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="url(#bg)"/>
+  <circle cx="52" cy="68" r="32" fill="white" opacity="0.08"/>
+    <circle cx="72" cy="140" r="52" fill="white" opacity="0.1"/>
+    <circle cx="204" cy="5" r="24" fill="white" opacity="0.12"/>
+    <circle cx="213" cy="87" r="33" fill="white" opacity="0.14"/>
+    <circle cx="116" cy="72" r="56" fill="white" opacity="0.16"/>
+    <circle cx="132" cy="64" r="32" fill="white" opacity="0.18"/>
+    
+  <text x="200" y="90" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="white" opacity="0.3">OS</text>
+  <text x="200" y="130" text-anchor="middle" font-family="sans-serif" font-size="16" fill="white" opacity="0.7">AI OS</text>
+</svg>

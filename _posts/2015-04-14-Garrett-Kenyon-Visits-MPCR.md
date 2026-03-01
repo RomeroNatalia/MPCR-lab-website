@@ -1,6 +1,6 @@
 ---
 author: Andrew-Fraieli
-categories: []
+categories: null
 hidden: false
 image: /news-pictures/Garrett-Kenyon-Visits-MPCR.jpg
 tags: []

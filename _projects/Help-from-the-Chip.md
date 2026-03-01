@@ -9,7 +9,7 @@ description: Help from the Chip explores hardware-accelerated computing and spec
   for optimal performance.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Help-from-the-Chip.svg
 instagram: ''
 linkedin: ''
 members: []

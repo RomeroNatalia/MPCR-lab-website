@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d2d5a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0a0a1a;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="url(#bg)"/>
+  <circle cx="140" cy="2" r="40" fill="white" opacity="0.08"/>
+    <circle cx="173" cy="21" r="33" fill="white" opacity="0.1"/>
+    <circle cx="213" cy="89" r="33" fill="white" opacity="0.12"/>
+    <circle cx="153" cy="156" r="53" fill="white" opacity="0.14"/>
+    <circle cx="197" cy="82" r="57" fill="white" opacity="0.16"/>
+    <circle cx="38" cy="96" r="58" fill="white" opacity="0.18"/>
+    
+  <text x="200" y="90" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="white" opacity="0.3">So</text>
+  <text x="200" y="130" text-anchor="middle" font-family="sans-serif" font-size="16" fill="white" opacity="0.7">Solresol LLM</text>
+</svg>

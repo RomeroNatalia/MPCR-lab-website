@@ -1,34 +1,31 @@
 ---
-title:          Stephen H. Hoover
-username:       Stephen-Hoover
-image:          /uploads/avatars/Stephen-Hoover.jpeg
-bio:            Ph.D. Student <br> Brain Institute Fellow (GNTP)
-CV:             # 
-email:          shoover2016@fau.edu
-website:        https://www.stephenhoover.org
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       Behvaioral Sciences (BS-12) #S.E. Wimberly Library
-room:           Room 408 # Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-campus:         Boca Raton
-github:         https://github.com/StephenHoover
-google-scholar: # https://scholar.google.com/citations?user=a2lv0lMAAAAJ&hl=en&oi=ao
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/channel/UC3KK7qUYLiBDouEVMxEDpAg # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Brain Institute Fellow (GNTP)
+building: Behvaioral Sciences (BS-12)
+contact: false
+director: false
+email: shoover2016@fau.edu
+faculty: false
+github: https://github.com/StephenHoover
+image: /uploads/avatars/Stephen-Hoover.jpeg
 images:
-  - path: /uploads/news-pictures/2022-Stephen-SIAM.jpg
-  - path: /uploads/news-pictures/2021-Stephen-AGI.jpg
-  - path: /uploads/news-pictures/2018-Apr-28-Stephen-Hoover-UGROYA-Group.JPG
-  - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
-  - path: /uploads/news-pictures/2018-Apr-DD-MPCR-Wave-Awards-2018.JPG
+- path: /uploads/news-pictures/2022-Stephen-SIAM.jpg
+- path: /uploads/news-pictures/2021-Stephen-AGI.jpg
+- path: /uploads/news-pictures/2018-Apr-28-Stephen-Hoover-UGROYA-Group.JPG
+- path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
+- path: /uploads/news-pictures/2018-Apr-DD-MPCR-Wave-Awards-2018.JPG
+instagram: ''
+linkedin: ''
+room: Room 408
+staff: false
+student: true
+title: Stephen H. Hoover
+twitter: ''
+username: Stephen-Hoover
+vimeo: ''
+website: https://www.stephenhoover.org
+youtube: ''
 ---
 
 # Contact Information

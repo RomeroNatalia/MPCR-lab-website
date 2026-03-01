@@ -8,7 +8,7 @@ description: 'Evaluation of ChatGPT: Uncovering Visuospatial Learning Capabiliti
   and Advancements from Version 3.5 to 4.0'
 email: ''
 github: ''
-image: /uploads/news-pictures/FAU-background.png
+image: /uploads/project-cards/Visuospatial-Learning- Capabilities-of-LLMs.svg
 instagram: ''
 linkedin: ''
 members: []

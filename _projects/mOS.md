@@ -9,7 +9,7 @@ description: mOS is a custom operating system designed specifically for ESP32 mi
   hardware.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/mOS.svg
 instagram: ''
 linkedin: ''
 members: []

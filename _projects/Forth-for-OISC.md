@@ -10,10 +10,11 @@ description: This project explores the synergy between Forth—a compact, stack-
   emerge from a single, underlying operation.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Forth-for-OISC.svg
 instagram: ''
 linkedin: ''
-members: []
+members:
+- Misha-Klopukh
 project_leader: ''
 room: ''
 tags:

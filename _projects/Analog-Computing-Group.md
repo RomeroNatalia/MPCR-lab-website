@@ -9,7 +9,7 @@ description: The Analog Computing Group revisits analog computing techniques for
   analog-digital architectures for AI and scientific computing.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Analog-Computing-Group.svg
 instagram: ''
 linkedin: ''
 members: []

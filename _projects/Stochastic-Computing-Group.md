@@ -9,7 +9,7 @@ description: The Stochastic Computing Group explores computing with probabilisti
   computing is acceptable.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Stochastic-Computing-Group.svg
 instagram: ''
 linkedin: ''
 members: []

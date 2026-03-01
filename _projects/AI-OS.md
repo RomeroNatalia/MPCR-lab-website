@@ -10,7 +10,7 @@ description: The AI OS lab project aims to revolutionize traditional operating s
   for future AI environments.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/AI-OS.svg
 instagram: ''
 linkedin: ''
 members: []

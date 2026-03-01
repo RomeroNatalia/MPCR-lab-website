@@ -9,7 +9,7 @@ description: Solarpunk and Green AI focuses on sustainable computing and energy-
   footprint of AI research and deployment.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Solarpunk-and-Green-AI.svg
 instagram: ''
 linkedin: ''
 members: []

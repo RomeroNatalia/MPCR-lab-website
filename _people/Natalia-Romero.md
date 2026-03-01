@@ -1,24 +1,28 @@
 ---
-active: true
+active: false
 alumni: false
-bio: Computer Vision
+bio: ''
 building: ''
 contact: false
 director: false
-email: gshiwakoti2022@fau.edu
+email: ''
 faculty: false
 github: ''
 image: ''
 instagram: ''
 linkedin: ''
 project_slugs:
-- Compressed-Inference
+- AIClassroom
+research_interests:
+- AI
+- multi-agent systems
+- education technology
 room: ''
 staff: false
-student: true
-title: Ganesh Shiwakoti
+student: false
+title: Natalia Romero
 twitter: ''
-username: Ganesh-Shiwakoti
+username: Natalia-Romero
 vimeo: ''
 website: ''
 youtube: ''

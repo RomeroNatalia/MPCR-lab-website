@@ -9,7 +9,7 @@ description: Hyperdimensional Computing explores brain-inspired computing paradi
   and cognitive computing using hyperdimensional vector symbolic architectures.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Hyperdimensional-Computing.svg
 instagram: ''
 linkedin: ''
 members: []

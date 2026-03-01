@@ -10,7 +10,7 @@ description: DigitalOffice is an advanced multi-agent system powered by large la
   organizational efficiency, workflow automation, and autonomous team collaboration.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/DigitalOffice.svg
 instagram: ''
 linkedin: ''
 members: []

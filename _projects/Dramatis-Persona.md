@@ -11,7 +11,7 @@ collaborators: []
 description: Absorbing and Mirroring Personalities of Users of Large Language Models
 email: rmatic2018@fau.edu
 github: ''
-image: /uploads/news-pictures/FAU-background.png
+image: /uploads/project-cards/Dramatis-Persona.svg
 instagram: ''
 linkedin: ''
 members: []

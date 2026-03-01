@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a2d5a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0a0a1a;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="url(#bg)"/>
+  <circle cx="71" cy="124" r="51" fill="white" opacity="0.08"/>
+    <circle cx="193" cy="19" r="53" fill="white" opacity="0.1"/>
+    <circle cx="49" cy="27" r="29" fill="white" opacity="0.12"/>
+    <circle cx="189" cy="11" r="49" fill="white" opacity="0.14"/>
+    <circle cx="59" cy="184" r="39" fill="white" opacity="0.16"/>
+    <circle cx="140" cy="197" r="40" fill="white" opacity="0.18"/>
+    
+  <text x="200" y="90" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="white" opacity="0.3">DO</text>
+  <text x="200" y="130" text-anchor="middle" font-family="sans-serif" font-size="16" fill="white" opacity="0.7">Digital Office</text>
+</svg>

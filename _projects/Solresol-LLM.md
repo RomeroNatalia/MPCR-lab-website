@@ -9,7 +9,7 @@ description: This project focuses on Solresol—a unique constructed language th
   on this musical language to enable AI communication through music.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Solresol-LLM.svg
 instagram: ''
 linkedin: ''
 members: []

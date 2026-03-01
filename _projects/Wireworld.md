@@ -9,7 +9,7 @@ description: Wireworld is a cellular automaton particularly suited to simulating
   educational tool for digital logic and computer architecture.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Wireworld.svg
 instagram: ''
 linkedin: ''
 members: []

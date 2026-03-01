@@ -8,7 +8,7 @@ collaborators: []
 description: ''
 email: shoover2016@fau.edu
 github: ''
-image: /uploads/news-pictures/FAU-background.png
+image: /uploads/project-cards/AI-Red-Team.svg
 instagram: ''
 linkedin: ''
 members: []

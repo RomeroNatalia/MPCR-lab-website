@@ -10,7 +10,7 @@ description: AgentLife is an innovative lab project that merges the principles o
   dynamics, and complex adaptive systems in a digital environment.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/AgentLife-Artificial-Life-Meets-Agent-LLMs.svg
 instagram: ''
 linkedin: ''
 members: []

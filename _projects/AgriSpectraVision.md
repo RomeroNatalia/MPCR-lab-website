@@ -6,7 +6,7 @@ description: The AgriSpectraVision project addresses the pressing challenge of o
   crop management in modern agriculture
 email: ''
 github: ''
-image: /uploads/news-pictures/FAU-background.png
+image: /uploads/project-cards/AgriSpectraVision.svg
 instagram: ''
 linkedin: ''
 members: []

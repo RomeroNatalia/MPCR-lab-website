@@ -9,7 +9,7 @@ description: The Cognitive Radio lab project explores the next generation of wir
   adjust their transmission parameters in real time using AI.
 email: ''
 github: https://github.com/hahnlab
-image: ''
+image: /uploads/project-cards/Cognitive-Radio-Intelligent-Communication.svg
 instagram: ''
 linkedin: ''
 members: []
