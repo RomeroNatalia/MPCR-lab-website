@@ -2,14 +2,14 @@
 active: true
 building: ''
 collaborators: []
-description: Hyperdimensional Computing explores brain-inspired computing paradigms
-  using high-dimensional vector representations. This approach mimics how the brain
-  processes information through distributed patterns rather than precise numerical
-  values. The project investigates applications in pattern recognition, machine learning,
-  and cognitive computing using hyperdimensional vector symbolic architectures.
+description: Hyperdimensional Computing encodes information as high-dimensional binary
+  vectors—inspired by how the brain represents concepts—to perform classification,
+  reasoning, and associative memory in a single mathematical framework. The approach
+  is lightweight, noise-tolerant, and naturally parallel, offering a practical alternative
+  to deep learning for resource-constrained and real-time applications.
 email: ''
 github: ''
-image: ''
+image: /uploads/project-cards/Hyperdimensional-Computing.svg
 instagram: ''
 linkedin: ''
 members: []
@@ -23,5 +23,3 @@ vimeo: ''
 website: ''
 youtube: ''
 ---
-
-Brain-inspired computing with high-dimensional vector representations

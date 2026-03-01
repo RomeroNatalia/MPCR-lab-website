@@ -2,14 +2,14 @@
 active: true
 building: ''
 collaborators: []
-description: Solarpunk and Green AI focuses on sustainable computing and energy-efficient
-  AI systems. The project explores energy harvesting techniques, low-power machine
-  learning algorithms, and environmentally conscious AI design. By combining solarpunk
-  aesthetics with practical green computing, this initiative aims to reduce the carbon
-  footprint of AI research and deployment.
+description: Solarpunk and Green AI explores sustainable, off-grid computing powered
+  by solar energy harvesting and ultra-low-power hardware. The project builds autonomous
+  systems—ESP32 nodes, solar panels, and energy-aware software—that run AI workloads
+  on harvested power alone, proving that intelligent systems don't require industrial-scale
+  infrastructure.
 email: ''
 github: ''
-image: ''
+image: /uploads/project-cards/Solarpunk-and-Green-AI.svg
 instagram: ''
 linkedin: ''
 members: []
@@ -23,5 +23,3 @@ vimeo: ''
 website: ''
 youtube: ''
 ---
-
-Sustainable AI with energy harvesting and low-power ML

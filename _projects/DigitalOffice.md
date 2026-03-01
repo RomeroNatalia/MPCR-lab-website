@@ -2,15 +2,14 @@
 active: true
 building: ''
 collaborators: []
-description: DigitalOffice is an advanced multi-agent system powered by large language
-  models (LLMs), designed to simulate a fully functional and productive software development
-  company. The system consists of AI-driven agents, each representing different roles
-  within an organization, collaborating in real-time to manage projects, develop software,
-  and optimize workflows. This simulation provides a unique testbed for AI-driven
-  organizational efficiency, workflow automation, and autonomous team collaboration.
+description: DigitalOffice is a multi-agent system where LLM-powered agents fill the
+  roles of a software company—product manager, developer, code reviewer, tester, and
+  project lead—collaborating through structured workflows to produce working software.
+  The project studies how agent teams self-organize, delegate, and resolve conflicts
+  when given real engineering tasks.
 email: ''
 github: ''
-image: ''
+image: /uploads/project-cards/DigitalOffice.svg
 instagram: ''
 linkedin: ''
 members: []
@@ -24,5 +23,3 @@ vimeo: ''
 website: ''
 youtube: ''
 ---
-
-Multi-agent LLM system simulating software development company

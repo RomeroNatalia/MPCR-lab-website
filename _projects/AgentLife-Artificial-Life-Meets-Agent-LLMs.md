@@ -2,15 +2,14 @@
 active: true
 building: ''
 collaborators: []
-description: AgentLife is an innovative lab project that merges the principles of
-  artificial life with the cutting-edge capabilities of agent-based large language
-  models (LLMs). In this project, autonomous digital agents—powered by LLMs—populate
-  a simulated ecosystem, interact using natural language, and evolve behaviors over
-  time. This synthesis offers a dynamic platform to explore emergent behaviors, evolutionary
-  dynamics, and complex adaptive systems in a digital environment.
+description: AgentLife builds multi-agent ecosystems where LLM-powered agents interact,
+  compete, cooperate, and evolve. Drawing on artificial life principles, the project
+  studies emergent behavior in populations of autonomous agents—exploring how complex
+  social dynamics, specialization, and collective intelligence arise from simple rules
+  and open-ended interaction.
 email: ''
 github: ''
-image: ''
+image: /uploads/project-cards/AgentLife-Artificial-Life-Meets-Agent-LLMs.svg
 instagram: ''
 linkedin: ''
 members: []
@@ -24,5 +23,3 @@ vimeo: ''
 website: ''
 youtube: ''
 ---
-
-Exploring emergent behaviors in LLM-powered artificial life simulation

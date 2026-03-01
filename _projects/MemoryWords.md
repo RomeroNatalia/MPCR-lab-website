@@ -2,12 +2,11 @@
 active: true
 building: ''
 collaborators: []
-description: This project explores the synergy between Forth—a compact, stack-based
-  programming language—and the One Instruction Set Computer (OISC), a model that achieves
-  Turing-completeness with a single instruction. The initiative challenges traditional
-  computing paradigms by implementing Forth's high-level constructs on an extremely
-  minimalist hardware model, illustrating how expressive programming languages can
-  emerge from a single, underlying operation.
+description: 'MemoryWords is an original programming language and computing system
+  built on a single instruction: memory copy (M[j] = M[i]). From this one primitive,
+  a complete stack-based language emerges—with compiler, interpreter, and over 1,900
+  defined words—running on x86, ESP32, FPGA, and in the browser. The project explores
+  what happens when you strip computing to its absolute minimum.'
 email: ''
 github: ''
 image: /uploads/project-cards/MemoryWords.svg
@@ -25,5 +24,3 @@ vimeo: ''
 website: ''
 youtube: ''
 ---
-
-Implementing Forth on OISC architecture

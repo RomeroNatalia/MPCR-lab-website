@@ -2,14 +2,13 @@
 active: true
 building: ''
 collaborators: []
-description: Compressed Inference focuses on developing techniques to run large AI
-  models on resource-constrained devices. The project explores model compression,
-  quantization, pruning, and knowledge distillation to reduce model size and computational
-  requirements while maintaining accuracy. This enables deployment of sophisticated
-  AI models on edge devices, mobile platforms, and embedded systems.
+description: Compressed Inference develops quantization, pruning, and distillation
+  techniques that shrink large AI models by orders of magnitude while preserving accuracy.
+  The goal is practical deployment—making state-of-the-art language and vision models
+  run on hardware they were never designed for.
 email: ''
 github: ''
-image: ''
+image: /uploads/project-cards/Compressed-Inference.svg
 instagram: ''
 linkedin: ''
 members: []
@@ -23,5 +22,3 @@ vimeo: ''
 website: ''
 youtube: ''
 ---
-
-Model compression and optimization for edge AI deployment
