@@ -7,7 +7,7 @@ contact: false
 director: false
 email: ''
 faculty: false
-github: https://github.com/rachelw0ng
+github: ''
 image: /uploads/avatars/Rachel-Wong.jpg
 instagram: ''
 linkedin: ''

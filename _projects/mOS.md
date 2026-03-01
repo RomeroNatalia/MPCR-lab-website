@@ -2,14 +2,14 @@
 active: true
 building: ''
 collaborators: []
-description: mOS is a minimal operating system for ESP32 microcontrollers built on
-  the MemoryWords (MW) computing system—a one-instruction architecture where all computation
-  reduces to memory copy. Running a Forth-like language on a single OISC primitive,
-  mOS brings the MW stack to embedded hardware, providing an interactive runtime that
-  fits in kilobytes.
+description: mOS is a custom operating system designed specifically for ESP32 microcontrollers.
+  This project aims to provide a lightweight, efficient OS tailored for embedded systems
+  and IoT applications. By optimizing for the ESP32's architecture, mOS enables advanced
+  multitasking, resource management, and real-time capabilities on resource-constrained
+  hardware.
 email: ''
-github: https://github.com/hahnlab
-image: /uploads/project-cards/mOS.svg
+github: ''
+image: ''
 instagram: ''
 linkedin: ''
 members: []

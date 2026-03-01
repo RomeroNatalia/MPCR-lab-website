@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: High School Student <br> Went to Stanford University to earn a B.S. in Computer
   Science
 building: ''
@@ -8,7 +8,7 @@ contact: false
 director: false
 email: rjcaste@stanford.edu
 faculty: false
-github: https://github.com/rodrigo-castellon
+github: ''
 image: /uploads/avatars/Rodrigo-Castellon.JPG
 instagram: ''
 linkedin: ''

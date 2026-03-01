@@ -10,7 +10,7 @@ faculty: false
 github: ''
 image: /uploads/avatars/Evan-Clark.jpg
 instagram: ''
-linkedin: https://www.linkedin.com/in/evan-clark
+linkedin: ''
 room: ''
 staff: false
 student: true

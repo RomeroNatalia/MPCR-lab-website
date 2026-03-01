@@ -1,13 +1,13 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: High School Student
 building: ''
 contact: false
 director: false
 email: Jay2003@me.com
 faculty: false
-github: https://github.com/JayRGopal
+github: ''
 image: /uploads/avatars/Jay-Gopal.jpeg
 instagram: ''
 linkedin: ''

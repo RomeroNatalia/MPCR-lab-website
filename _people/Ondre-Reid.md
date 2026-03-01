@@ -10,7 +10,7 @@ faculty: false
 github: ''
 image: /uploads/avatars/Ondre-Reid.JPG
 instagram: ''
-linkedin: https://www.linkedin.com/in/arahd/
+linkedin: ''
 room: ''
 staff: false
 student: true
@@ -18,7 +18,7 @@ title: Ondre Reid
 twitter: ''
 username: Ondre-Reid
 vimeo: ''
-website: http://arahd.com/
+website: ''
 youtube: ''
 ---
 

@@ -1,6 +1,6 @@
 ---
-active: false
-alumni: true
+active: true
+alumni: false
 bio: Director of Community Engagement
 building: ''
 contact: false
@@ -10,7 +10,7 @@ faculty: false
 github: ''
 image: /uploads/avatars/Scott-Field.jpg
 instagram: ''
-linkedin: https://www.linkedin.com/in/scottafield
+linkedin: ''
 room: ''
 staff: false
 student: false

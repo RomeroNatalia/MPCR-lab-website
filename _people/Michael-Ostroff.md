@@ -21,7 +21,7 @@ twitter: ''
 username: Michael-Ostroff
 vimeo: ''
 website: ''
-youtube: https://www.youtube.com/@PerpetualScience
+youtube: ''
 ---
 
 # Contact Information

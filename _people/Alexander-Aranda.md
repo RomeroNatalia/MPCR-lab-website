@@ -1,16 +1,16 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: Undergraduate Student
 building: ''
 contact: false
 director: false
 email: arandaa2022@fau.edu
 faculty: false
-github: https://github.com/arand013
+github: ''
 image: /uploads/avatars/Alexander-Aranda.jpeg
 instagram: ''
-linkedin: https://www.linkedin.com/in/alexander-aranda1of1/
+linkedin: ''
 room: ''
 staff: false
 student: true
@@ -18,7 +18,7 @@ title: Alexander Aranda
 twitter: ''
 username: Alexander-Aranda
 vimeo: ''
-website: https://arand013.github.io/Portfolio/
+website: ''
 youtube: ''
 ---
 

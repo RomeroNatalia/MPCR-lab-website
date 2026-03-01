@@ -1,6 +1,6 @@
 ---
-active: false
-alumni: true
+active: true
+alumni: false
 bio: Ph.D. Student <br> Research Assistant <br> Brain Institute Fellow (NGP)
 building: Behvaioral Sciences (BS-12)
 contact: false
@@ -15,10 +15,10 @@ room: Room 408
 staff: false
 student: true
 title: Daniel Van Zant
-twitter: https://twitter.com/Daniel_Van_Zant
+twitter: ''
 username: Daniel-Van-Zant
 vimeo: ''
-website: https://www.danielvanzant.com
+website: ''
 youtube: ''
 ---
 

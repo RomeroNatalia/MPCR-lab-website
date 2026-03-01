@@ -9,9 +9,9 @@ active: true
 building: S.E. Wimberly Library
 collaborators: []
 description: Absorbing and Mirroring Personalities of Users of Large Language Models
-email: rmatic2018@fau.edu
+email: ''
 github: ''
-image: /uploads/project-cards/Dramatis-Persona.svg
+image: /uploads/news-pictures/FAU-background.png
 instagram: ''
 linkedin: ''
 members: []

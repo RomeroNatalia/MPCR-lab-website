@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: Undergraduate Student
 building: S.E. Wimberly Library
 contact: false

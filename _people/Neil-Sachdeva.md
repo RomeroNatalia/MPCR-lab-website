@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: High School Student <br> Went to Yale to earn a B.S. in Computer Science
 building: ''
 contact: false
@@ -10,7 +10,7 @@ faculty: false
 github: ''
 image: /uploads/avatars/Neil-Sachdeva.png
 instagram: ''
-linkedin: https://www.linkedin.com/in/neil-sachdeva-221393177
+linkedin: ''
 room: ''
 staff: false
 student: true

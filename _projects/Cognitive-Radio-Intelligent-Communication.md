@@ -2,14 +2,14 @@
 active: true
 building: ''
 collaborators: []
-description: Cognitive Radio combines software-defined radio with machine learning
-  to build wireless systems that sense, learn, and adapt to their electromagnetic
-  environment in real time. Using AI-driven spectrum analysis, the project develops
-  radios that autonomously find open frequencies, avoid interference, and optimize
-  transmission—making communication more efficient and resilient.
+description: The Cognitive Radio lab project explores the next generation of wireless
+  communication systems. It leverages smart, adaptable radio technology to dynamically
+  sense and utilize available frequency spectrums. This approach addresses challenges
+  such as spectrum scarcity and interference by allowing devices to intelligently
+  adjust their transmission parameters in real time using AI.
 email: ''
-github: https://github.com/hahnlab
-image: /uploads/project-cards/Cognitive-Radio-Intelligent-Communication.svg
+github: ''
+image: ''
 instagram: ''
 linkedin: ''
 members: []

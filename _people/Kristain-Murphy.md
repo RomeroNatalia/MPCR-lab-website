@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: Master's Student
 building: ''
 contact: false
@@ -12,7 +12,7 @@ image: /uploads/avatars/Kristian-Murphy.JPG
 images:
 - path: /uploads/news-pictures/2023-Spring-Kristain-at-Grand-Opening.JPG
 instagram: ''
-linkedin: https://www.linkedin.com/in/kristian-murphy-fau/
+linkedin: ''
 room: ''
 staff: false
 student: true
@@ -20,7 +20,7 @@ title: Kristian Murphy
 twitter: ''
 username: Kristian-Murphy
 vimeo: ''
-website: https://www.linkedin.com/in/kristian-murphy-fau/
+website: ''
 youtube: ''
 ---
 

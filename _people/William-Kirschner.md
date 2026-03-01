@@ -1,13 +1,13 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: High School Student
 building: ''
 contact: false
 director: false
 email: ''
 faculty: false
-github: https://github.com/WilliamKirschner
+github: ''
 image: /uploads/avatars/William-Kirschner.jpeg
 instagram: ''
 linkedin: ''
@@ -18,7 +18,7 @@ title: William Kirschner
 twitter: ''
 username: William-Kirschner
 vimeo: ''
-website: http://www.williamakirschner.com/
+website: ''
 youtube: ''
 ---
 

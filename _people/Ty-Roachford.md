@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: Ph.D. Student <br> Brain Institute Fellow (NGP)
 building: ''
 contact: false
@@ -20,7 +20,7 @@ title: Ty Roachford
 twitter: ''
 username: Ty-Roachford
 vimeo: ''
-website: https://www.tyfoodsforthought.com
+website: ''
 youtube: ''
 ---
 

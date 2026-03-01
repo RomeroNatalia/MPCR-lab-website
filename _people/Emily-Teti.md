@@ -7,7 +7,7 @@ contact: false
 director: false
 email: estark2017@fau.edu
 faculty: false
-github: https://github.com/estark-mpcr
+github: ''
 image: /uploads/avatars/Emily-Teti.JPG
 instagram: ''
 linkedin: ''

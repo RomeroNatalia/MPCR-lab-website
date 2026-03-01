@@ -10,7 +10,7 @@ faculty: false
 github: ''
 image: /uploads/avatars/Dimitri-Falco.jpg
 instagram: ''
-linkedin: https://www.linkedin.com/in/dimitri-falco-phd-87494a32
+linkedin: ''
 room: ''
 staff: false
 student: true

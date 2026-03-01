@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: ''
 building: ''
 contact: false
@@ -19,6 +19,6 @@ title: Public Affairs
 twitter: ''
 username: Public-Affairs
 vimeo: ''
-website: https://www.fau.edu/public-affairs/
+website: ''
 youtube: ''
 ---

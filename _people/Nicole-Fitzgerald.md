@@ -8,10 +8,10 @@ contact: false
 director: false
 email: nicole.ftzgrld@gmail.com
 faculty: false
-github: https://github.com/nfitzz
+github: ''
 image: /uploads/avatars/Nicole-Fitzgerald.jpg
 instagram: ''
-linkedin: https://www.linkedin.com/in/nicoledfitzgerald/
+linkedin: ''
 room: ''
 staff: false
 student: true

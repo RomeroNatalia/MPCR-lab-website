@@ -7,7 +7,7 @@ contact: false
 director: false
 email: posei2020@fau.edu
 faculty: false
-github: https://github.com/estark-mpcr
+github: ''
 image: /uploads/avatars/Claudius-Osei.jpg
 images:
 - path: /uploads/news-pictures/2023-Spring-Claudius-at-Grand-Opening.JPG

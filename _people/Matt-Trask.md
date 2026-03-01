@@ -7,7 +7,7 @@ contact: false
 director: false
 email: mtrask2018@fau.edu
 faculty: false
-github: https://github.com/MattsterMPCR
+github: ''
 image: /uploads/avatars/Matt-Trask.jpg
 images:
 - path: /uploads/news-pictures/2023-Spring-Michael-and-Brandon.JPG

@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: Affiliate Researcher
 building: ''
 contact: false

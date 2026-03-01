@@ -1,6 +1,6 @@
 ---
-active: false
-alumni: true
+active: true
+alumni: false
 bio: Ph.D. Student
 building: S.E. Wimberly Library
 contact: false
@@ -18,7 +18,7 @@ title: Richard Matic
 twitter: ''
 username: Richard-Matic
 vimeo: ''
-website: http://richardmatic.me/
+website: ''
 youtube: ''
 ---
 

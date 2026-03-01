@@ -2,14 +2,14 @@
 active: true
 building: ''
 collaborators: []
-description: Wireworld uses a minimal cellular automaton—just four states and simple
-  neighbor rules—as a substrate for emergent computation. The project explores how
-  complex logic gates, circuits, and ultimately entire computers arise from these
-  elementary rules, studying computation as a physical phenomenon that self-organizes
-  from local interactions.
+description: Wireworld is a cellular automaton particularly suited to simulating electronic
+  logic circuits. This project explores using Wireworld as a platform for understanding
+  computation at a fundamental level, designing logic gates, and creating complex
+  computational structures. The simplicity of Wireworld's rules makes it an excellent
+  educational tool for digital logic and computer architecture.
 email: ''
-github: https://github.com/hahnlab
-image: /uploads/project-cards/Wireworld.svg
+github: ''
+image: ''
 instagram: ''
 linkedin: ''
 members: []

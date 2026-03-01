@@ -8,10 +8,10 @@ contact: false
 director: false
 email: michael@kleiman.me
 faculty: false
-github: https://github.com/mjkleiman
+github: ''
 image: /uploads/avatars/Michael-Kleiman.jpg
 instagram: ''
-linkedin: https://www.linkedin.com/in/mjkleiman/
+linkedin: ''
 room: ''
 staff: false
 student: true
@@ -19,7 +19,7 @@ title: Michael Kleiman, Ph.D.
 twitter: ''
 username: Michael-Kleiman
 vimeo: ''
-website: https://michael.kleiman.me
+website: ''
 youtube: ''
 ---
 

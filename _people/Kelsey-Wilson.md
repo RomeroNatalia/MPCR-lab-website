@@ -11,7 +11,7 @@ faculty: false
 github: ''
 image: /uploads/avatars/Kelsey-Wilson.jpg
 instagram: ''
-linkedin: https://www.linkedin.com/in/kelseywilson0826
+linkedin: ''
 room: ''
 staff: false
 student: true

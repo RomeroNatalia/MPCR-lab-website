@@ -1,6 +1,6 @@
 ---
-active: false
-alumni: true
+active: true
+alumni: false
 bio: Computer Vision
 building: ''
 contact: false

@@ -4,13 +4,11 @@ PIs:
 active: true
 building: S.E. Wimberly Library
 collaborators: []
-description: This project investigates how large language models perceive and reason
-  about spatial relationships, geometry, and visual structure. Through systematic
-  evaluation and benchmark design, we probe the boundaries of LLM spatial intelligence
-  and develop methods to extend their visuospatial capabilities.
+description: 'Evaluation of ChatGPT: Uncovering Visuospatial Learning Capabilities
+  and Advancements from Version 3.5 to 4.0'
 email: ''
 github: ''
-image: /uploads/project-cards/Visuospatial-Learning- Capabilities-of-LLMs.svg
+image: /uploads/news-pictures/FAU-background.png
 instagram: ''
 linkedin: ''
 members: []

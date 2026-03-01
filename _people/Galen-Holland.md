@@ -18,7 +18,7 @@ title: Galen Holland
 twitter: ''
 username: Galen-Holland
 vimeo: ''
-website: https://www.galenholland.com/
+website: ''
 youtube: ''
 ---
 

@@ -1,13 +1,13 @@
 ---
-active: false
-alumni: true
+active: true
+alumni: false
 bio: Undergraduate Student
 building: S.E. Wimberly Library
 contact: false
 director: false
 email: mklopukh2019@fau.edu
 faculty: false
-github: https://github.com/mishakmak
+github: ''
 image: /uploads/avatars/Misha-Klopuah.JPG
 instagram: ''
 linkedin: ''

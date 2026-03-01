@@ -7,7 +7,7 @@ contact: false
 director: false
 email: diego.jerez1251@gmail.com
 faculty: false
-github: https://github.com/DiegoJerez
+github: ''
 image: /uploads/avatars/Diego-Jerez.JPG
 instagram: ''
 linkedin: ''

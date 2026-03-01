@@ -7,18 +7,18 @@ contact: false
 director: false
 email: ''
 faculty: false
-github: https://github.com/regynald
+github: ''
 image: /uploads/avatars/Regynald-Augustin.jpeg
 instagram: ''
-linkedin: https://www.linkedin.com/in/regynald
+linkedin: ''
 room: ''
 staff: false
 student: true
 title: Regynald Augustin
-twitter: https://twitter.com/negroprogrammer
+twitter: ''
 username: Regynald-Augustin
 vimeo: ''
-website: https://medium.com/@regynald
+website: ''
 youtube: ''
 ---
 

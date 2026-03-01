@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: Ph.D. Student <br> Research Assistant <br> Went to Corteva Agriscience as a Data
   Scientist
 building: S.E. Wimberly Library
@@ -26,7 +26,7 @@ twitter: ''
 username: Paul-Morris
 vimeo: ''
 website: ''
-youtube: https://www.youtube.com/@paulmorris7024
+youtube: ''
 ---
 
 # Contact Information

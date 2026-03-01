@@ -7,7 +7,7 @@ contact: false
 director: false
 email: mteti@fau.edu
 faculty: false
-github: https://github.com/MichaelTeti
+github: ''
 image: /uploads/avatars/Michael-Teti.jpg
 images:
 - path: /uploads/news-pictures/MPCR-Photo-007.JPG
@@ -25,7 +25,7 @@ title: Michael Teti, Ph.D.
 twitter: ''
 username: Michael-Teti
 vimeo: ''
-website: https://mtetiresearch.com
+website: ''
 youtube: ''
 ---
 

@@ -7,7 +7,7 @@ contact: false
 director: false
 email: ''
 faculty: false
-github: https://github.com/stephanieLewkowitz
+github: ''
 image: /uploads/avatars/Stephanie-Lewkowitz.png
 instagram: ''
 linkedin: ''

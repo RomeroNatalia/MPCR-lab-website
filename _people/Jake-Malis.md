@@ -1,16 +1,16 @@
 ---
 active: false
-alumni: true
+alumni: false
 bio: High School Student
 building: ''
 contact: false
 director: false
 email: jake.malis@pinecrest.edu
 faculty: false
-github: https://github.com/jakemalis
+github: ''
 image: /uploads/avatars/Jake-Malis.jpg
 instagram: ''
-linkedin: https://www.linkedin.com/in/jake-malis-064477176/
+linkedin: ''
 room: ''
 staff: false
 student: true

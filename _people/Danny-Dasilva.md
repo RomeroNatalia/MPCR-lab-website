@@ -10,7 +10,7 @@ faculty: false
 github: ''
 image: /uploads/avatars/Danny-Dasilva.png
 instagram: ''
-linkedin: https://www.linkedin.com/in/danny-dasilva-126a15170
+linkedin: ''
 room: ''
 staff: false
 student: true

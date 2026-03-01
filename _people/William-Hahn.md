@@ -8,7 +8,7 @@ contact: false
 director: true
 email: ''
 faculty: true
-github: https://github.com/williamedwardhahn
+github: ''
 image: /uploads/avatars/William-Hahn.JPG
 images:
 - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
@@ -26,7 +26,7 @@ username: William-E-Hahn
 video: https://www.youtube-nocookie.com/embed/2kyPou_FFn0
 vimeo: ''
 website: https://www.mpcrlab.com
-youtube: https://www.youtube.com/channel/UCqQp_UbQCP8r-l76DrRV99A
+youtube: ''
 ---
 
 # Contact Information
