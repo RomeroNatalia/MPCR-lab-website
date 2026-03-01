@@ -1,22 +1,25 @@
 ---
-title:          Dimitri Falco, Ph.D.
-username:       DimitriFalco
-image:          /uploads/avatars/Dimitri-Falco.jpg
-bio:            Ph.D. Student <br> Went to NovoDynamics as a Machine Learning Scientist / Engineer
-email:          dimfalco@gmail.com
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-website:        # https://mysite.com
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/dimitri-falco-phd-87494a32
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Went to NovoDynamics as a Machine Learning Scientist / Engineer
+building: ''
+contact: false
+director: false
+email: dimfalco@gmail.com
+faculty: false
+github: ''
+image: /uploads/avatars/Dimitri-Falco.jpg
+instagram: ''
+linkedin: https://www.linkedin.com/in/dimitri-falco-phd-87494a32
+room: ''
+staff: false
+student: true
+title: Dimitri Falco, Ph.D.
+twitter: ''
+username: DimitriFalco
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

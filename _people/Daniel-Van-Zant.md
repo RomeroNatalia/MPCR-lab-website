@@ -1,24 +1,25 @@
 ---
-title:          Daniel Van Zant
-username:       Daniel-Van-Zant
-image:          /uploads/avatars/Daniel-Van-Zant.jpeg #Daniel-Van-Zant
-bio:            Ph.D. Student <br> Research Assistant <br> Brain Institute Fellow (NGP)
-email:          dvanzant2022@fau.edu
-building:       Behvaioral Sciences (BS-12) # S.E. Wimberly Library
-room:           Room 408 # Sandbox
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-website:        https://www.danielvanzant.com # https://mysite.com
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        https://twitter.com/Daniel_Van_Zant # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: false
+bio: Ph.D. Student <br> Research Assistant <br> Brain Institute Fellow (NGP)
+building: Behvaioral Sciences (BS-12)
+contact: false
+director: false
+email: dvanzant2022@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Daniel-Van-Zant.jpeg
+instagram: ''
+linkedin: ''
+room: Room 408
+staff: false
+student: true
+title: Daniel Van Zant
+twitter: https://twitter.com/Daniel_Van_Zant
+username: Daniel-Van-Zant
+vimeo: ''
+website: https://www.danielvanzant.com
+youtube: ''
 ---
 
 # Contact Information

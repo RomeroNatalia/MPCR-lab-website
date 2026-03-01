@@ -1,28 +1,27 @@
 ---
-title:          Subhosit Ray
-username:       Subhosit-Ray
-image:          /uploads/avatars/Subhosit-Ray.jpg
-bio:            Ph.D. Student
-email:          rays2016@fau.edu
-website:        
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-campus:         Boca Raton
-active:         true
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         #
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: true
+bio: Ph.D. Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: rays2016@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Subhosit-Ray.jpg
 images:
-  - path: /uploads/news-pictures/2023-Spring-Jennifer-and-Subhosit.JPG
+- path: /uploads/news-pictures/2023-Spring-Jennifer-and-Subhosit.JPG
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Subhosit Ray
+twitter: ''
+username: Subhosit-Ray
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

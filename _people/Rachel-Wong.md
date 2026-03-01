@@ -1,23 +1,25 @@
 ---
-title:          Rachel Wong
-username:       Rachel-Wong
-image:          /uploads/avatars/Rachel-Wong.jpg
-bio:            Master's Student
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/rachelw0ng # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Master's Student
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: https://github.com/rachelw0ng
+image: /uploads/avatars/Rachel-Wong.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Rachel Wong
+twitter: ''
+username: Rachel-Wong
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 <!-- # Contact Information

@@ -1,23 +1,25 @@
 ---
-title:          Stephanie Lewkowitz
-username:       Stephanie-Lewkowitz
-image:          /uploads/avatars/Stephanie-Lewkowitz.png
-bio:            Magic Leap Deep Learning Developer
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        false
-github:         https://github.com/stephanieLewkowitz # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Magic Leap Deep Learning Developer
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: https://github.com/stephanieLewkowitz
+image: /uploads/avatars/Stephanie-Lewkowitz.png
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: false
+title: Stephanie Lewkowitz
+twitter: ''
+username: Stephanie-Lewkowitz
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Education

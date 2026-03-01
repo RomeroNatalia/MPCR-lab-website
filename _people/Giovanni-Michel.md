@@ -1,26 +1,28 @@
 ---
-title:          Giovanni Michel
-username:       Giovanni-Michel
-image:          /uploads/avatars/Giovanni-Michel.jpg
-bio:            Master's Student <br> Went to Los Alamos National Laboratory <br> Northwestern University Ph.D. program in Electrical Engineering
-email:          giovannimich2020@fau.edu #
-website:        #
-laboratory:     
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/logicwic # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Master's Student <br> Went to Los Alamos National Laboratory <br> Northwestern
+  University Ph.D. program in Electrical Engineering
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: giovannimich2020@fau.edu
+faculty: false
+github: https://github.com/logicwic
+image: /uploads/avatars/Giovanni-Michel.jpg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Giovanni Michel
+twitter: ''
+username: Giovanni-Michel
+vimeo: ''
+website: ''
+youtube: ''
 ---
+
 # Contact Information  
 Department of Electrical Engineering and Computer Science  
 777 Glades Road  

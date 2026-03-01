@@ -1,23 +1,25 @@
 ---
-title:          Evan Clark
-username:       Evan Clark
-image:          /uploads/avatars/Evan-Clark.jpg
-bio:            Master's Student <br> Went to Mount Sinai Medical Center
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         #
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/evan-clark
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Master's Student <br> Went to Mount Sinai Medical Center
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: ''
+image: /uploads/avatars/Evan-Clark.jpg
+instagram: ''
+linkedin: https://www.linkedin.com/in/evan-clark
+room: ''
+staff: false
+student: true
+title: Evan Clark
+twitter: ''
+username: Evan Clark
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 <!-- # Contact Information

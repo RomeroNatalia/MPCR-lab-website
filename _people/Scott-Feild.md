@@ -1,23 +1,25 @@
 ---
-title:          Scott Field
-username:       Scott-Field
-image:          /uploads/avatars/Scott-Field.jpg
-bio:            Director of Community Engagement
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        false
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/scottafield
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: false
+bio: Director of Community Engagement
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: ''
+image: /uploads/avatars/Scott-Field.jpg
+instagram: ''
+linkedin: https://www.linkedin.com/in/scottafield
+room: ''
+staff: false
+student: false
+title: Scott Field
+twitter: ''
+username: Scott-Field
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Education
@@ -72,4 +74,3 @@ Provide perspective and insight, community connections, develop public-private p
 * Treasurer, 2013-2014, Realtors Commercial Alliance, Palm Beach County
 * Director, 2011- 2022, Realtors Commercial Alliance, Palm Beach County
 * 2005 Project LEAP Leadership Program Graduate, Realtors Association of the Palm Beaches
-

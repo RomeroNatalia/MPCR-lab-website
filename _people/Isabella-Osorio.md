@@ -1,25 +1,25 @@
 ---
-title:          Isabella V. Osorio
-username:       Isabella-Osorio
-image:          /uploads/avatars/Isabella-Osorio.jpg
-bio:            Undergraduate Student
-email:          isabella.osorio@ufl.edu
-website:        # 
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       # S.E. Wimberly Library
-room:           # Sandbox
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # 
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: false
+bio: Undergraduate Student
+building: ''
+contact: false
+director: false
+email: isabella.osorio@ufl.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Isabella-Osorio.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Isabella V. Osorio
+twitter: ''
+username: Isabella-Osorio
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

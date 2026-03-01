@@ -1,27 +1,27 @@
 ---
-title:          Ty Roachford
-username:       Ty-Roachford
-image:          /uploads/avatars/Ty-Roachford.jpg
-bio:            Ph.D. Student <br> Brain Institute Fellow (NGP)
-email:          troachford2013@fau.edu
-building:       # Behvaioral Sciences (BS-12) # S.E. Wimberly Library
-room:           # Room 408 # Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-website:        https://www.tyfoodsforthought.com # https://mysite.com
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
+active: false
+alumni: false
+bio: Ph.D. Student <br> Brain Institute Fellow (NGP)
+building: ''
+contact: false
+director: false
+email: troachford2013@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Ty-Roachford.jpg
 images:
-  - path: /uploads/news-pictures/2023-Spring-Ty.JPG
+- path: /uploads/news-pictures/2023-Spring-Ty.JPG
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Ty Roachford
+twitter: ''
+username: Ty-Roachford
+vimeo: ''
+website: https://www.tyfoodsforthought.com
+youtube: ''
 ---
 
 # Contact Information

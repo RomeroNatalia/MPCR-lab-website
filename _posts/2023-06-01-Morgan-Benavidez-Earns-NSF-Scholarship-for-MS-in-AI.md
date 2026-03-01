@@ -1,18 +1,18 @@
 ---
-title: "Congratulations Morgan Benavidez on Earning a National Science Foundation (NSF) Scholarship for his M.S. in AI at FAU"
-image: news-pictures/MS-in-AI-NSF-S-Stem-Scholars.jpg #news-pictures/2023-AI-Science-and-Medicine.svg
-categories: [Education, Awards]
-tags: [AI, EECS, Mentorship, NSF, Award] # Searchable Terms #featured
-include_in_search: false
-hidden: false # Hides from News Feed useful for direct links only
-featured: false
 author: Stephen-Hoover
-images:
-  - path: /uploads/news-pictures/2022-Fall-Morgan-Benavidez.jpg
-  - path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-01.jpeg
-  - path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-02.jpeg
-  - path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-03.jpeg
-   
+categories:
+- Education
+- Awards
+hidden: false
+image: news-pictures/MS-in-AI-NSF-S-Stem-Scholars.jpg
+tags:
+- AI
+- EECS
+- Mentorship
+- NSF
+- Award
+title: Congratulations Morgan Benavidez on Earning a National Science Foundation (NSF)
+  Scholarship for his M.S. in AI at FAU
 ---
 
 <blockquote>

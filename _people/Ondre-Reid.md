@@ -1,27 +1,29 @@
 ---
-title:          Ondre Reid
-username:       Ondre-Reid
-image:          /uploads/avatars/Ondre-Reid.JPG
-bio:            Undergraduate Student
-email:          oreid2016@fau.edu #
-website:        http://arahd.com/ #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/arahd/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student
+building: ''
+contact: false
+director: false
+email: oreid2016@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Ondre-Reid.JPG
+instagram: ''
+linkedin: https://www.linkedin.com/in/arahd/
+room: ''
+staff: false
+student: true
+title: Ondre Reid
+twitter: ''
+username: Ondre-Reid
+vimeo: ''
+website: http://arahd.com/
+youtube: ''
 ---
 
 <!-- # Contact Information
 [{{ page.email }}](mailto:{{ page.email }})   -->
 
 # Education
-* B.S., Neuroscience & Behavior, Florida Atlantic University  
+* B.S., Neuroscience & Behavior, Florida Atlantic University

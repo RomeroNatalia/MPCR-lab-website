@@ -1,29 +1,27 @@
 ---
-title:          Eren Akgunduz
-username:       Eren-Akgunduz
-image:          /uploads/avatars/Eren-Akgunduz.jpg # /uploads/avatars/Eren-Akgunduz 
-bio:            Master's Student
-email:          eakgunduz2016@fau.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
-
+active: false
+alumni: false
+bio: Master's Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: eakgunduz2016@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Eren-Akgunduz.jpg
 images:
-  - path: /uploads/news-pictures/2023-Spring-Eren-at-Grand-Opening.JPG
+- path: /uploads/news-pictures/2023-Spring-Eren-at-Grand-Opening.JPG
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Eren Akgunduz
+twitter: ''
+username: Eren-Akgunduz
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

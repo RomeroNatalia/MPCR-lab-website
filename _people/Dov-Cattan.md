@@ -1,25 +1,25 @@
 ---
-title:          Dov Cattan
-username:       Dov-Cattan
-image:          /uploads/avatars/Dov-Cattan.jpeg
-bio:            Master's Student
-email:          dcattan2019@fau.edu # dov@mpcrlab.com
-website:        
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: false
+bio: Master's Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: dcattan2019@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Dov-Cattan.jpeg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Dov Cattan
+twitter: ''
+username: Dov-Cattan
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information
@@ -32,4 +32,4 @@ Boca Raton, FL 33431-0991
 
 # Education
 * M.S. in Computer Engineering, Florida Atlantic University (In progress)  
-* B.S. in Computer Engineering, Florida Atlantic University, 2023  
+* B.S. in Computer Engineering, Florida Atlantic University, 2023

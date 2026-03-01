@@ -1,23 +1,26 @@
 ---
-title:          Tony Stracuzzi
-username:       Tony-Stracuzzi
-image:          /uploads/avatars/Tony-Stracuzzi.jpg
-bio:            Undergraduate Student <br> Went to Nova Southeastern University to earn a M.S. in Counseling
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to Nova Southeastern University to earn a M.S.
+  in Counseling
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: ''
+image: /uploads/avatars/Tony-Stracuzzi.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Tony Stracuzzi
+twitter: ''
+username: Tony-Stracuzzi
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

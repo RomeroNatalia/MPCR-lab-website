@@ -1,20 +1,23 @@
 ---
-title:  The AgriSpectraVision project addresses the pressing challenge of optimizing crop management in modern agriculture
-PIs:
-        #- William-E-Hahn
-        
-image:          /uploads/news-pictures/FAU-background.png 
-email:          # flastYYYY@fau.edu 
-website:        # 
-building:       S.E. Wimberly Library 
-room:           Sandbox 
-github:         # https://github.com/ 
-instagram:      # https://www.instagram.com/ 
-linkedin:       # https://www.linkedin.com/ 
-twitter:        # https://twitter.com/ 
-vimeo:          # https://vimeo.com/ 
-youtube:        # https://www.youtube.com/ 
-active:         true
+active: true
+building: S.E. Wimberly Library
+collaborators: []
+description: The AgriSpectraVision project addresses the pressing challenge of optimizing
+  crop management in modern agriculture
+email: ''
+github: ''
+image: /uploads/news-pictures/FAU-background.png
+instagram: ''
+linkedin: ''
+members: []
+project_leader: ''
+room: Sandbox
+tags: []
+title: AgriSpectraVision
+twitter: ''
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

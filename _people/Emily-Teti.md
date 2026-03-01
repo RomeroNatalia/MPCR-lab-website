@@ -1,28 +1,25 @@
 ---
-title:          Emily Teti, Ph.D.
-username:       Emily-Teti
-image:          /uploads/avatars/Emily-Teti.JPG
-bio:            Ph.D. Student <br> Lab Manager <br> Went to Los Alamos National Lab
-email:          estark2017@fau.edu
-website:        
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-campus:         Boca Raton
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/estark-mpcr # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-redirect_from:
-  - people/Emily-Stark/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Lab Manager <br> Went to Los Alamos National Lab
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: estark2017@fau.edu
+faculty: false
+github: https://github.com/estark-mpcr
+image: /uploads/avatars/Emily-Teti.JPG
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Emily Teti, Ph.D.
+twitter: ''
+username: Emily-Teti
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

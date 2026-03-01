@@ -1,10 +1,12 @@
 ---
-title: Congratulations to Dr. Emily Teti, Ph.D.
-image: /avatars/Emily-Teti.JPG
-categories: [Graduates]
-tags: [Graduates]
-hidden: false # Hides from News Feed useful for direct links only
 author: Stephen-Hoover
+categories:
+- Graduates
+hidden: false
+image: /avatars/Emily-Teti.JPG
+tags:
+- Graduates
+title: Congratulations to Dr. Emily Teti, Ph.D.
 ---
 
 Congratulations to Dr. Emily Teti for successfully defending her dissertation on "*The non-Riemannian nature of perceptual color space*".

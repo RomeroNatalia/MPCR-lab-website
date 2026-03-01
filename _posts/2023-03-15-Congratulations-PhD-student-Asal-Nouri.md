@@ -1,14 +1,16 @@
 ---
-title: Congratulations to Ph.D. student Asal Nouri on winning a Postdoctoral Fellowship!
-image: avatars/Asal-Nouri.jpg
-categories: [Graduates, Awards]
-tags: [Graduates, Awards]
-hidden: false # Hides from News Feed useful for direct links only
 author: Susan-Schneider
-
-images:
-  - path: /uploads/news-pictures/2023-Spring-Asal-Nouri.jpg
+categories:
+- Graduates
+- Awards
+hidden: false
+image: avatars/Asal-Nouri.jpg
+tags:
+- Graduates
+- Awards
+title: Congratulations to Ph.D. student Asal Nouri on winning a Postdoctoral Fellowship!
 ---
+
 Congratulations to [Asal Nouri][Asal], a Ph.D. student in Complex Systems and Brain Sciences at the MPCR Lab, for winning a [College of Science (CoS) Jumpstart Postdoctoral Fellowship](http://www.science.fau.edu/postdoc-program/index.php) at the [Gruber Sandbox](https://www.fau.edu/sandbox/) for our upcoming team work on *['Rebooting Social Media']()* with Drs. Chad Forbes, Garrett Mindt, Steven Gubka, and others! 
 
 Lots at amazing projects to read about below!

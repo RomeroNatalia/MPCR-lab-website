@@ -1,26 +1,27 @@
 ---
-title:          Matt Trask
-username:       Matt-Trask
-image:          /uploads/avatars/Matt-Trask.jpg
-bio:            Community Member
-email:          mtrask2018@fau.edu  #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/MattsterMPCR # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
+active: false
+alumni: true
+bio: Community Member
+building: ''
+contact: false
+director: false
+email: mtrask2018@fau.edu
+faculty: false
+github: https://github.com/MattsterMPCR
+image: /uploads/avatars/Matt-Trask.jpg
 images:
-  - path: /uploads/news-pictures/2023-Spring-Michael-and-Brandon.JPG
+- path: /uploads/news-pictures/2023-Spring-Michael-and-Brandon.JPG
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Matt Trask
+twitter: ''
+username: Matt-Trask
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 <!-- # Contact Information

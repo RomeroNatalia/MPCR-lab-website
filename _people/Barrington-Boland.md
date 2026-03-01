@@ -1,25 +1,25 @@
 ---
-title:          Barrington A. Boland 
-username:       Barrington-Boland 
-image:          /uploads/avatars/Barrington-Boland.jpeg
-bio:            Undergraduate Student
-email:          bboland2017@fau.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: bboland2017@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Barrington-Boland.jpeg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Barrington A. Boland
+twitter: ''
+username: Barrington-Boland
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

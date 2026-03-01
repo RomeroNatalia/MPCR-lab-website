@@ -1,23 +1,26 @@
 ---
-title:          Nicole Fitzgerald
-username:       Nicole-Fitzgerald
-image:          /uploads/avatars/Nicole-Fitzgerald.jpg
-bio:            Undergraduate Student <br> Went onto pursue a Ph.D. in Epidemiology at the University of Florida
-email:          nicole.ftzgrld@gmail.com
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/nfitzz # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/nicoledfitzgerald/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went onto pursue a Ph.D. in Epidemiology at the University
+  of Florida
+building: ''
+contact: false
+director: false
+email: nicole.ftzgrld@gmail.com
+faculty: false
+github: https://github.com/nfitzz
+image: /uploads/avatars/Nicole-Fitzgerald.jpg
+instagram: ''
+linkedin: https://www.linkedin.com/in/nicoledfitzgerald/
+room: ''
+staff: false
+student: true
+title: Nicole Fitzgerald
+twitter: ''
+username: Nicole-Fitzgerald
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

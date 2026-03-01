@@ -1,10 +1,12 @@
 ---
-title: Congratulations to Dr. Dimitri Falco, Ph.D.
-image: /avatars/Dimitri-Falco.jpg
-categories: [Graduates]
-tags: [Graduates]
-hidden: false
 author: Stephen-Hoover
+categories:
+- Graduates
+hidden: false
+image: /avatars/Dimitri-Falco.jpg
+tags:
+- Graduates
+title: Congratulations to Dr. Dimitri Falco, Ph.D.
 ---
 
 Congratulations to Dr. Dimitri Falco who successfully defended his Ph.D. in Complex Systems and Brain Sciences in August. Dimitri’s dissertation was completed under the guidance of Dr. Steven Bressler and entitled "A comparison of task-relevant node identification techniques and their impact on network inferences: Group-aggregated subject-specific and voxel wise approaches".

@@ -1,10 +1,10 @@
 ---
-title: Neuroscientist Garrett Kenyon Visits the MPCR Lab at FAU
-image: /news-pictures/Garrett-Kenyon-Visits-MPCR.jpg
-categories: # [Outreach, Education]
-tags:
-hidden: false
 author: Andrew-Fraieli
+categories: []
+hidden: false
+image: /news-pictures/Garrett-Kenyon-Visits-MPCR.jpg
+tags: []
+title: Neuroscientist Garrett Kenyon Visits the MPCR Lab at FAU
 ---
 
 On Tuesday April 19th, Garrett Kenyon, a neuroscientist at the Santa Fe Institute and researcher in the [Petavision research project][petavision-link], visited the crowded Machine Perception and Cognitive Robotics lab at Florida Atlantic University's Boca Raton campus.

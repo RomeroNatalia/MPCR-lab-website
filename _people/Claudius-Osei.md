@@ -1,31 +1,30 @@
 ---
-title:          Claudius Osei
-username:       Claudius-Osei
-image:          /uploads/avatars/Claudius-Osei.jpg
-bio:            Ph.D. Student <br> Brain Institute Fellow (GNTP)
-email:          posei2020@fau.edu
-website:        
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-campus:         Boca Raton
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/estark-mpcr # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Brain Institute Fellow (GNTP)
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: posei2020@fau.edu
+faculty: false
+github: https://github.com/estark-mpcr
+image: /uploads/avatars/Claudius-Osei.jpg
 images:
-  - path: /uploads/news-pictures/2023-Spring-Claudius-at-Grand-Opening.JPG
-  - path: /uploads/news-pictures/from-football-to-neuroscience-mc-01.png
-  - path: /uploads/news-pictures/football-banner-1920x800-lc.png
-  - path: /uploads/news-pictures/3mT-osei.jpg
+- path: /uploads/news-pictures/2023-Spring-Claudius-at-Grand-Opening.JPG
+- path: /uploads/news-pictures/from-football-to-neuroscience-mc-01.png
+- path: /uploads/news-pictures/football-banner-1920x800-lc.png
+- path: /uploads/news-pictures/3mT-osei.jpg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Claudius Osei
+twitter: ''
+username: Claudius-Osei
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

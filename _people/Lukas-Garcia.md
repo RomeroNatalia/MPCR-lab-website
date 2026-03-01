@@ -1,23 +1,25 @@
 ---
-title:          Lukas Garcia
-username:       Lukas-Garcia
-image:          /uploads/avatars/Lukas-Garcia.jpg
-bio:            Undergraduate Student <br> Went to Oracle
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to Oracle
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: ''
+image: /uploads/avatars/Lukas-Garcia.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Lukas Garcia
+twitter: ''
+username: Lukas-Garcia
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 <!-- # Contact Information

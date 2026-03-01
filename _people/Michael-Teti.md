@@ -1,35 +1,32 @@
 ---
-title:          Michael Teti, Ph.D.
-username:       Michael-Teti
-image:          /uploads/avatars/Michael-Teti.jpg
-bio:            Founder <br> Ph.D. Student <br> Went to Los Alamos National Laboratory
-email:          mteti@fau.edu
-website:        https://mtetiresearch.com
-CV:             #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-campus:         Boca Raton
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/MichaelTeti # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
+active: false
+alumni: true
+bio: Founder <br> Ph.D. Student <br> Went to Los Alamos National Laboratory
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: mteti@fau.edu
+faculty: false
+github: https://github.com/MichaelTeti
+image: /uploads/avatars/Michael-Teti.jpg
 images:
-  - path: /uploads/news-pictures/MPCR-Photo-007.JPG
-  - path: /uploads/news-pictures/MPCR-Fall-2017-014.JPG
-  - path: /uploads/news-pictures/MPCR-Fall-2017-026.jpg
-  - path: /uploads/news-pictures/MPCR-Fall-2017-018.JPG
-  - path: /uploads/news-pictures/MPCR-Photo-032.JPG
-  - path: /uploads/news-pictures/MPCR-Photo-004.JPG
+- path: /uploads/news-pictures/MPCR-Photo-007.JPG
+- path: /uploads/news-pictures/MPCR-Fall-2017-014.JPG
+- path: /uploads/news-pictures/MPCR-Fall-2017-026.jpg
+- path: /uploads/news-pictures/MPCR-Fall-2017-018.JPG
+- path: /uploads/news-pictures/MPCR-Photo-032.JPG
+- path: /uploads/news-pictures/MPCR-Photo-004.JPG
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Michael Teti, Ph.D.
+twitter: ''
+username: Michael-Teti
+vimeo: ''
+website: https://mtetiresearch.com
+youtube: ''
 ---
 
 # Contact Information

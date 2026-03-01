@@ -1,21 +1,25 @@
 ---
-title:          Good Posture Application
 PIs:
-  -             Elan Barenholtz, Ph.D.
-  -             William E.Hahn, Ph.D.
-
-image:          /logos/MPCR-Black.svg # default path /uploads/
-email:          
-website:        
-building:       
-room:           
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-active:         false
+- Elan Barenholtz, Ph.D.
+- William E.Hahn, Ph.D.
+active: false
+building: ''
+collaborators: []
+description: ''
+email: ''
+github: ''
+image: /logos/MPCR-Black.svg
+instagram: ''
+linkedin: ''
+members: []
+project_leader: ''
+room: ''
+tags: []
+title: Analysis of Motor Redundancy
+twitter: ''
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information
@@ -26,4 +30,4 @@ Center for Complex Systems and Brain Sciences
 Boca Raton, FL 33431-0991  
 {{ page.building }}  
 {{ page.room }}  
-[{{ page.email }}](mailto:{{ page.email }})  
+[{{ page.email }}](mailto:{{ page.email }})

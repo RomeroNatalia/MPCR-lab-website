@@ -1,37 +1,32 @@
 ---
-title:          Elan Barenholtz, Ph.D.
-username:       Elan-Barenholtz
-image:          /uploads/avatars/Elan-Barenholtz.jpg
-bio:            Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Associate Director of the Center for the Future Mind # Co-Director
-email:          elan.barenholtz@fau.edu
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-website:        https://barenholtz.ai
-campus:         Boca Raton
-building:       Behavioral Sciences (BS-12)
-room:           Room 212
-active:         true
-alumni:         false
-contact:        true
-faculty:        true
-staff:          false
-student:        false
-director:       true
-github:         # https://github.com/
-google-scholar: https://scholar.google.com/citations?user=2grAjZsAAAAJ&hl=en&oi=ao
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
-redirect_from:
-  - people/bio/Elan-Barenholtz
-
+active: true
+alumni: false
+bio: Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Associate
+  Director of the Center for the Future Mind
+building: Behavioral Sciences (BS-12)
+contact: true
+director: true
+email: elan.barenholtz@fau.edu
+faculty: true
+github: ''
+image: /uploads/avatars/Elan-Barenholtz.jpg
 images:
-  - path: /uploads/news-pictures/2021-May-10-Dr-Elan-Barenholtz.jpg
-  - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
-  - path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
+- path: /uploads/news-pictures/2021-May-10-Dr-Elan-Barenholtz.jpg
+- path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
+- path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
+instagram: ''
+linkedin: ''
+room: Room 212
+staff: false
+student: false
+title: Elan Barenholtz, Ph.D.
+twitter: ''
+username: Elan-Barenholtz
+vimeo: ''
+website: https://barenholtz.ai
+youtube: ''
 ---
+
 # Contact Information
 Department of Psychology  
 Center for Complex Systems and Brain Sciences  

@@ -1,25 +1,25 @@
 ---
-title:          Misha Klopukh
-username:       Misha-Klopukh
-image:          /uploads/avatars/Misha-Klopuah.JPG
-bio:            Undergraduate Student
-email:          mklopukh2019@fau.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/mishakmak # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/in/kristian-murphy-fau/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: false
+bio: Undergraduate Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: mklopukh2019@fau.edu
+faculty: false
+github: https://github.com/mishakmak
+image: /uploads/avatars/Misha-Klopuah.JPG
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Misha Klopukh
+twitter: ''
+username: Misha-Klopukh
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

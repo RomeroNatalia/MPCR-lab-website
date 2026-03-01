@@ -1,16 +1,15 @@
 ---
-title: "Is Artificial General Intelligence too Dangerous to Build? Eliezer Yudkowsky discusses his rationale for ceasing the development of Als more sophisticated than GPT-4"
-image: news-pictures/Eliezer-Yudkowsky.jpg
-categories: [Outreach]
-tags: [AI, Workshop] # Searchable Terms
-include_in_search: false
-hidden: false # Hides from News Feed useful for direct links only
-featured: true
 author: Susan-Schneider
-images:
-  # - path: /uploads/news-pictures/2023-Image-Segmentation.png
-  # - path: /uploads/news-pictures/2023-AI-in-Science-and-Medicine-Example.png
-  # - path: /uploads/news-pictures/2023-Spring-Math-of-Data-Science.jpg
+categories:
+- Outreach
+hidden: false
+image: news-pictures/Eliezer-Yudkowsky.jpg
+tags:
+- AI
+- Workshop
+title: Is Artificial General Intelligence too Dangerous to Build? Eliezer Yudkowsky
+  discusses his rationale for ceasing the development of Als more sophisticated than
+  GPT-4
 ---
 
 An [open letter][open-letter] published on March 22, 2023 calls for Al labs to immediately pause for at least 6 months the training of Al systems more powerful than GPT-4. [In response][Yudkowsky_response], Yudkowsky argues that this proposal does not do enough to protect us from the risks of losing control of superintelligent AI. Join us for an interactive Q&A with Yudkowsky about Al Safety! Dr. Mark Bailey of National Intelligence University will moderate the discussion.
@@ -33,4 +32,3 @@ A video of his talk is available at the Center for the Future Mind YouTube page:
 [Yudkowsky_response]: https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/
 [miri]: https://intelligence.org/
 [zoom_url]: https://bit.ly/3zRefhR
-

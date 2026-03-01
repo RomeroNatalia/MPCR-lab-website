@@ -1,25 +1,25 @@
 ---
-title:          Richard Matic
-username:       Richard-Matic
-image:          /uploads/avatars/Richard-Matic.jpg
-bio:            Ph.D. Student
-email:          rmatic2018@fau.edu
-building:       S.E. Wimberly Library
-room:           Sandbox # Room 407
-website:        http://richardmatic.me/ #
-CV:             #
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: false
+bio: Ph.D. Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: rmatic2018@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Richard-Matic.jpg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Richard Matic
+twitter: ''
+username: Richard-Matic
+vimeo: ''
+website: http://richardmatic.me/
+youtube: ''
 ---
 
 # Contact Information

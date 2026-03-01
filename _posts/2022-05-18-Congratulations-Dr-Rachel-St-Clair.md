@@ -1,10 +1,12 @@
 ---
-title: Congratulations to Dr. Rachel St. Clair, Ph.D.
-image: /avatars/Rachel-St-Clair.jpeg
-categories: [Graduates]
-tags: [Graduates]
-hidden: false # Hides from News Feed useful for direct links only
 author: Stephen-Hoover
+categories:
+- Graduates
+hidden: false
+image: /avatars/Rachel-St-Clair.jpeg
+tags:
+- Graduates
+title: Congratulations to Dr. Rachel St. Clair, Ph.D.
 ---
 
 Congratulations to Rachel St. Clair who successfully defended her doctoral dissertation "*Preserving Knowledge in Simulated Behavioral Action Loops*" on Friday, March 18, 2022.  
@@ -15,4 +17,4 @@ Following graduation, Rachel is considering working with a hi-tech start-up comp
 
 Once more, congratulations Dr. Rachel St. Clair!
 
-![Rachel Presenting at the AGI 2021 Conference](/uploads/news-pictures/2021-Rachel-St-Clair-Presents-at-AGI-Conference.jpg)  
+![Rachel Presenting at the AGI 2021 Conference](/uploads/news-pictures/2021-Rachel-St-Clair-Presents-at-AGI-Conference.jpg)

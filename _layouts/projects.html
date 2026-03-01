@@ -12,8 +12,8 @@ layout: default
         </div>
         {% endif %}
         <h1 class="uk-article-title article-title-font uk-text-center uk-margin-medium-bottom">{{- page.title | escape -}}</h1>
-        {% if page.bio %}
-            <div class="uk-text-lead uk-margin-medium-bottom">{{ page.bio }}</div>
+        {% if page.description %}
+            <div class="uk-text-lead uk-margin-medium-bottom uk-text-center">{{ page.description }}</div>
         {% endif %}
 
         <div class="social-networks uk-margin-large-bottom">
@@ -23,19 +23,16 @@ layout: default
                     <a href="{{ page.twitter }}" data-uk-icon="ratio: 1.2; icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-
                 {% if page.instagram %}
                 <div>
                     <a href="{{ page.instagram }}" data-uk-icon="ratio: 1.2; icon: instagram" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-
                 {% if page.linkedin %}
                 <div>
                     <a href="{{ page.linkedin }}" data-uk-icon="ratio: 1.2; icon: linkedin" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-
                 {% if page.vimeo %}
                 <div>
                     <a href="{{ page.vimeo }}" data-uk-icon="ratio: 1.2; icon: vimeo" class="uk-icon-link uk-icon" target="_blank"></a>
@@ -70,23 +67,52 @@ layout: default
     </article>
 </div>
 
-{% if page.latest_title %}
-<div class="uk-container uk-container-small- uk-margin-medium-bottom">
+{% comment %} ── Team Members Section ── {% endcomment %}
+{% assign all_members = page.members %}
+{% assign leader = page.project_leader %}
+{% assign collabs = page.collaborators %}
+{% assign has_team = false %}
+{% if leader or all_members.size > 0 or collabs.size > 0 %}
+  {% assign has_team = true %}
+{% endif %}
+
+{% if has_team %}
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
   <hr class="uk-margin-remove-top">
-  <h2 class="section-title uk-text-center uk-margin">{{ page.latest_title | default: 'Latest Articles' }}</h2>
+  <h2 class="section-title uk-text-center uk-margin">Team</h2>
   <hr class="uk-margin-remove">
 </div>
 
-<div class="uk-container uk-container-small uk-margin-medium-bottom">
-
-  {% assign posts = site.posts | where: 'author', page.username %}
-  {% for post in posts limit: 20 %}
-
-    {% include content-media-left-1-3.html %}
-
-  {% endfor %}
-
-  {% include paginate-blog.html %}
-
+<div class="uk-container uk-margin-medium-bottom">
+  <div class="uk-child-width-1-4@s uk-child-width uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
+    {% comment %} Show leader first {% endcomment %}
+    {% if leader %}
+      {% for person in site.people %}
+        {% if person.slug == leader or person.username == leader %}
+          {% include content-people-top.html %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% comment %} Show members (skip if already shown as leader) {% endcomment %}
+    {% for member_slug in all_members %}
+      {% if member_slug != leader %}
+        {% for person in site.people %}
+          {% if person.slug == member_slug or person.username == member_slug %}
+            {% include content-people-top.html %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    {% comment %} Show collaborators {% endcomment %}
+    {% for collab_slug in collabs %}
+      {% if collab_slug != leader %}
+        {% for person in site.people %}
+          {% if person.slug == collab_slug or person.username == collab_slug %}
+            {% include content-people-top.html %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
-{% endif page.latest_title %}
+{% endif %}

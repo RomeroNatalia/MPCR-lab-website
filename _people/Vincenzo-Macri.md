@@ -1,27 +1,27 @@
 ---
-title:          Vincenzo Macri
-username:       Vincenzo-Macri
-image:          /uploads/avatars/Vincenzo-Macri.jpg
-bio:            Master's Student <br> University Scholar
-email:          vmacri2017@fau.edu
-website:        https://v-macri.web.app
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/vmacri7 # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/vincenzo-macri-57ab4816a/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Master's Student <br> University Scholar
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: vmacri2017@fau.edu
+faculty: false
+github: https://github.com/vmacri7
+image: /uploads/avatars/Vincenzo-Macri.jpg
 images:
-    - path: /uploads/news-pictures/2023-Fall-Vincenzo-Macri-at-John-Deere.jpeg
+- path: /uploads/news-pictures/2023-Fall-Vincenzo-Macri-at-John-Deere.jpeg
+instagram: ''
+linkedin: https://www.linkedin.com/in/vincenzo-macri-57ab4816a/
+room: Sandbox
+staff: false
+student: true
+title: Vincenzo Macri
+twitter: ''
+username: Vincenzo-Macri
+vimeo: ''
+website: https://v-macri.web.app
+youtube: ''
 ---
 
 # Contact Information

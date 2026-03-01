@@ -1,23 +1,25 @@
 ---
-title:          Alexandra DeCesare
-username:       Alexandra-DeCesare
-image:          /uploads/avatars/Alexandra-DeCesare.jpg
-bio:            Undergraduate Student <br> Went to L3Harris as an Optical Engineer
-email:          adecesare2013@fau.edu
-website:         #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to L3Harris as an Optical Engineer
+building: ''
+contact: false
+director: false
+email: adecesare2013@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Alexandra-DeCesare.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Alexandra DeCesare
+twitter: ''
+username: Alexandra-DeCesare
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

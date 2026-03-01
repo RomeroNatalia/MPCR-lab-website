@@ -1,23 +1,25 @@
 ---
-title:          Evita Conway
-username:       Evita-Conway
-image:          /uploads/avatars/Evita-Conway.png
-bio:            Undergraduate Student <br> Went to Caron Renaissance as a Neurofeedback Technician
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to Caron Renaissance as a Neurofeedback Technician
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: ''
+image: /uploads/avatars/Evita-Conway.png
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Evita Conway
+twitter: ''
+username: Evita-Conway
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

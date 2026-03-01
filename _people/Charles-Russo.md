@@ -1,27 +1,27 @@
 ---
-title:          Charles Russo
-username:       Charles-Russo
-image:          /uploads/avatars/Charles-Russo.jpeg
-bio:            High School Student
-email:          russoc2023@fau.edu
-website:        # 
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/in/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: High School Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: russoc2023@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Charles-Russo.jpeg
 images:
-    - path: #/uploads/news-pictures/2023-Fall-Vincenzo-Macri-at-John-Deere.jpeg
+- path: ''
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Charles Russo
+twitter: ''
+username: Charles-Russo
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

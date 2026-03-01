@@ -1,15 +1,20 @@
 ---
-title: "AI Safety Symposium: Advances in AI Safety, Security, and Artificial Immune Systems"
-image: news-pictures/2023-Fall-AI-Safety-Symposium.png
-categories: [Outreach, Research]
-tags: [AI, Safety, Conference, Symposium, Join] # Searchable Terms # featured,
-include_in_search: false
-hidden: false # Hides from News Feed useful for direct links only
 author: Jennifer-Giordano
-
-redirect_to:
-  - https://openais.ai/2023-symposium
+categories:
+- Outreach
+- Research
+hidden: false
+image: news-pictures/2023-Fall-AI-Safety-Symposium.png
+tags:
+- AI
+- Safety
+- Conference
+- Symposium
+- Join
+title: 'AI Safety Symposium: Advances in AI Safety, Security, and Artificial Immune
+  Systems'
 ---
+
 Advances in AI Safety, Security, and Artificial Immune Systems. Please join us in our collective journey to shape the future of AI that prioritizes safety, ethics, and the betterment of humanity. We will create a global community that fosters AI advancements that benefit all while minimizing potential risks.
 
 # Dates / Time / Location

@@ -1,18 +1,12 @@
 ---
-title: Congratulations to Dr. Michael Teti, Ph.D.
-image: /avatars/Michael-Teti.jpg
-categories: [Graduates]
-tags: [Graduates]
-hidden: false # Hides from News Feed useful for direct links only
 author: Stephen-Hoover
-
-images:
-  - path: /uploads/news-pictures/MPCR-Photo-007.JPG
-  - path: /uploads/news-pictures/MPCR-Fall-2017-014.JPG
-  - path: /uploads/news-pictures/MPCR-Fall-2017-026.jpg
-  - path: /uploads/news-pictures/MPCR-Fall-2017-018.JPG
-  - path: /uploads/news-pictures/MPCR-Photo-032.JPG
-  - path: /uploads/news-pictures/MPCR-Photo-004.JPG
+categories:
+- Graduates
+hidden: false
+image: /avatars/Michael-Teti.jpg
+tags:
+- Graduates
+title: Congratulations to Dr. Michael Teti, Ph.D.
 ---
 
 Congratulations to Dr. Michael Teti for successfully defending his dissertation on "*Cracking the Sparse Code: Lateral Competition Forms Robust Vl-Like Representations in Convolutional Neural Networks*".

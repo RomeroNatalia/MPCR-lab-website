@@ -1,31 +1,32 @@
 ---
-title:          Paul Morris, Ph.D.
-username:       Paul-Morris
-image:          /uploads/avatars/Paul-Morris.JPG
-bio:            Ph.D. Student <br> Research Assistant <br> Went to Corteva Agriscience as a Data Scientist
-email:          pmorris2012@fau.edu
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-website:        # https://mysite.com
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        "https://www.youtube.com/@paulmorris7024" # https://www.youtube.com/
-
+active: false
+alumni: false
+bio: Ph.D. Student <br> Research Assistant <br> Went to Corteva Agriscience as a Data
+  Scientist
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: pmorris2012@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Paul-Morris.JPG
 images:
-  - path: /uploads/news-pictures/2022-Sep-Paul-Morris.jpg
-  - path: /uploads/news-pictures/MPCR-Fall-2017-010.JPG # MPCR-Fall-2017-018.JPG
-  - path: /uploads/news-pictures/MPCR-Fall-2017-009.JPG # MPCR-Fall-2017-026.jpg
-  - path: /uploads/news-pictures/Paul-and-Keller2-768x576.jpg
-  - path: /uploads/news-pictures/2016-FAU-UG-Research-Symposium.jpg # MPCR-Photo-007.JPG
+- path: /uploads/news-pictures/2022-Sep-Paul-Morris.jpg
+- path: /uploads/news-pictures/MPCR-Fall-2017-010.JPG
+- path: /uploads/news-pictures/MPCR-Fall-2017-009.JPG
+- path: /uploads/news-pictures/Paul-and-Keller2-768x576.jpg
+- path: /uploads/news-pictures/2016-FAU-UG-Research-Symposium.jpg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Paul Morris, Ph.D.
+twitter: ''
+username: Paul-Morris
+vimeo: ''
+website: ''
+youtube: https://www.youtube.com/@paulmorris7024
 ---
 
 # Contact Information

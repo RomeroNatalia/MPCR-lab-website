@@ -1,25 +1,25 @@
 ---
-title:          Isaac Dash
-username:       Isaac-Dash
-image:          /uploads/avatars/Isaac-Dash.jpeg
-bio:            Undergraduate Student
-email:          idash2020@fau.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: false
+bio: Undergraduate Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: idash2020@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Isaac-Dash.jpeg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Isaac Dash
+twitter: ''
+username: Isaac-Dash
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

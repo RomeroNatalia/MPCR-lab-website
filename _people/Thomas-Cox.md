@@ -1,23 +1,25 @@
 ---
-title:          Thomas Cox
-username:       Thomas-Cox
-image:          /uploads/avatars/Thomas-Cox.jpg
-bio:            Undergraduate Student
-email:          tomtomcox@gmail.com #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/ThomasCox42 #
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student
+building: ''
+contact: false
+director: false
+email: tomtomcox@gmail.com
+faculty: false
+github: https://github.com/ThomasCox42
+image: /uploads/avatars/Thomas-Cox.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Thomas Cox
+twitter: ''
+username: Thomas-Cox
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

@@ -1,23 +1,25 @@
 ---
-title:          Regynald Augustin
-username:       Regynald-Augustin
-image:          /uploads/avatars/Regynald-Augustin.jpeg
-bio:            Undergraduate Student <br> Went to work at Twitter on machine learning
-email:          #
-website:        https://medium.com/@regynald #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/regynald # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/regynald #
-twitter:        https://twitter.com/negroprogrammer # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to work at Twitter on machine learning
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: https://github.com/regynald
+image: /uploads/avatars/Regynald-Augustin.jpeg
+instagram: ''
+linkedin: https://www.linkedin.com/in/regynald
+room: ''
+staff: false
+student: true
+title: Regynald Augustin
+twitter: https://twitter.com/negroprogrammer
+username: Regynald-Augustin
+vimeo: ''
+website: https://medium.com/@regynald
+youtube: ''
 ---
 
 <!-- # Contact Information

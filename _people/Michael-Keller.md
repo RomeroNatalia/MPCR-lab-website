@@ -1,23 +1,25 @@
 ---
-title:          Michael Keller
-username:       Michael-Keller
-image:          /uploads/avatars/Michael-Keller.jpg
-bio:            Master's Student
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Master's Student
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: ''
+image: /uploads/avatars/Michael-Keller.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Michael Keller
+twitter: ''
+username: Michael-Keller
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 <!-- # Contact Information

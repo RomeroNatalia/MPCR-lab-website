@@ -1,23 +1,25 @@
 ---
-title:          Diego Jerez
-username:       Diego-Jerez
-image:          /uploads/avatars/Diego-Jerez.JPG
-bio:            Master's Student <br> Went to Harvard Law School
-email:          diego.jerez1251@gmail.com
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/DiegoJerez # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Master's Student <br> Went to Harvard Law School
+building: ''
+contact: false
+director: false
+email: diego.jerez1251@gmail.com
+faculty: false
+github: https://github.com/DiegoJerez
+image: /uploads/avatars/Diego-Jerez.JPG
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Diego Jerez
+twitter: ''
+username: Diego-Jerez
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

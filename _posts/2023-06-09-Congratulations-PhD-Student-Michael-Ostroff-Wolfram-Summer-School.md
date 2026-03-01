@@ -1,20 +1,18 @@
 ---
-title: "Ph.D. Student Michael Ostroff Attends Prestigious Wolfram Innovative Technology Summer School"
-image: news-pictures/2023-Spring-Michael.JPG
-categories: [Education, Awards]
-tags: [Wolfram, Physics, Science, Michael Ostroff, Award] # Searchable Terms if "featured" is included
-include_in_search: false
-hidden: false # Hides from News Feed useful for direct links only
-featured: false
 author: Public-Affairs
-images:
-  - path: /uploads/news-pictures/2023-Summer-Michael-Ostroff-at-Wolfram-Summer-School.jpg
-  - path: /uploads/news-pictures/2023-June-Michael-Fractal-1.png
-  - path: /uploads/news-pictures/2023-June-Michael-Fractal-2.png
-  - path: /uploads/news-pictures/2023-June-Michael-Fractal-3.png
-  - path: /uploads/news-pictures/2023-June-Michael-Fractal-4.png
-redirect_to:
-  - https://www.fau.edu/sandbox/spotlights/michael-ostroff/index.php
+categories:
+- Education
+- Awards
+hidden: false
+image: news-pictures/2023-Spring-Michael.JPG
+tags:
+- Wolfram
+- Physics
+- Science
+- Michael Ostroff
+- Award
+title: Ph.D. Student Michael Ostroff Attends Prestigious Wolfram Innovative Technology
+  Summer School
 ---
 
 Michael Ostroff, a physics Ph.D. student in FAU's Machine Perception and Cognitive Robotics Laboratory and the Rubin and Cindy Gruber Sandbox, landed a coveted position at the Wolfram Summer School this year.

@@ -1,17 +1,20 @@
 ---
-title: "Synthesizing Existence: ALife, AI, and the Fermi Paradox"
-image: news-pictures/2023-Summer-ALife-Event-Flyer.jpeg
-categories: [Outreach]
-tags: [AI, Workshop, SETI, ALife, Paradox, Robin Hanson, Mark Bailey] # featured if "featured"
-include_in_search: false
-hidden: false # Hides from News Feed useful for direct links only
-featured: false
 author: Stephen-Hoover
-images:
-  - path: /uploads/news-pictures/2023-Summer-ALife-Event-Flyer.jpeg
-  - path: /uploads/news-pictures/Synthesizing-Existence-ALife-AI-and-the-Fermi-Paradox.png
-  # - path: /uploads/news-pictures/2023-Spring-Math-of-Data-Science.jpg
+categories:
+- Outreach
+hidden: false
+image: news-pictures/2023-Summer-ALife-Event-Flyer.jpeg
+tags:
+- AI
+- Workshop
+- SETI
+- ALife
+- Paradox
+- Robin Hanson
+- Mark Bailey
+title: 'Synthesizing Existence: ALife, AI, and the Fermi Paradox'
 ---
+
 The intersection of artificial life (ALife), artificial intelligence (AI), and the Fermi Paradox presents a unique opportunity to explore the synthesis of existence from both terrestrial and extraterrestrial perspectives. The "Synthesizing Existence: ALife, AI, and the Fermi Paradox Workshop" aims to bring together experts from diverse fields, including astrobiology, AI research, ALife, and philosophy, to delve into the challenges and opportunities arising from our understanding of life and intelligence in the universe.  
 
 <a

@@ -1,11 +1,17 @@
 ---
-title: MPCR Undergraduates Won FAU's Undergraduate Research Symposium!
-image: /news-pictures/2016-FAU-UG-Research-Symposium.jpg
-categories: [Awards]
-tags: [Q-Learning, Undergraduate, Awards, Research]
-hidden: false
 author: Andrew-Fraieli
+categories:
+- Awards
+hidden: false
+image: /news-pictures/2016-FAU-UG-Research-Symposium.jpg
+tags:
+- Q-Learning
+- Undergraduate
+- Awards
+- Research
+title: MPCR Undergraduates Won FAU's Undergraduate Research Symposium!
 ---
+
 On Friday April 1st, Florida Atlantic University hosted its [sixth annual Undergraduate Research Symposium][2016 symposium], and the Machine Perception and Cognitive Robotics lab won best poster presentation in the Engineering and Computer Science category.
 
 Hosted in the Student Union on the Boca Raton campus, MPCR received first place out of 14 candidates for ["Utilizing OpenCV for Q-Learning State Space Reduction in Re-Purposed Off-The-Shelf FPV Rovers"][awardsheet]. Roughly, they won for their research in writing programs to simulate the real-life way that a brain learns and looking farther into the psychology of how humans learn to better a program not hard-coded, but capable of learning on its own.

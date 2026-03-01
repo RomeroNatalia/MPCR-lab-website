@@ -1,32 +1,31 @@
 ---
-title:          Susan Schneider, Ph.D.
-username:       Susan-Schneider
-image:          /uploads/avatars/Susan-Schneider.jpg
-bio:            Co-Principal Investigator (Co-PI) <br> Distinguished Professor <br> Director of the Center for Future Mind # Co-Director
-email:          sschneider@fau.edu
-website:        https://schneiderwebsite.com/index.html
-building:       Social Science Building (SO-44)
-room:           Room 283
-active:         true
-alumni:         false
-contact:        true
-faculty:        true
-staff:          true
-student:        false
-director:       true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
+active: true
+alumni: false
+bio: Co-Principal Investigator (Co-PI) <br> Distinguished Professor <br> Director
+  of the Center for Future Mind
+building: Social Science Building (SO-44)
+contact: true
+director: true
+email: sschneider@fau.edu
+faculty: true
+github: ''
+image: /uploads/avatars/Susan-Schneider.jpg
 images:
-  - path: /uploads/news-pictures/2023-Sandbox-Leadership-at-Grand-Opening.JPG
-
-redirect_to:
-  - https://schneiderwebsite.com
+- path: /uploads/news-pictures/2023-Sandbox-Leadership-at-Grand-Opening.JPG
+instagram: ''
+linkedin: ''
+redirect_to: https://schneiderwebsite.com
+room: Room 283
+staff: true
+student: false
+title: Susan Schneider, Ph.D.
+twitter: ''
+username: Susan-Schneider
+vimeo: ''
+website: https://schneiderwebsite.com/index.html
+youtube: ''
 ---
+
 # Contact Information
 William F. Dietrich Distinguished Professor of Philosophy  
 Department of Philosophy    

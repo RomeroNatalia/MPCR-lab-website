@@ -1,32 +1,34 @@
 ---
-title:          William Edward Hahn, Ph.D.
-username:       William-E-Hahn
-image:          /uploads/avatars/William-Hahn.JPG
-bio:            Founder and Co-Principal Investigator (Co-PI) <br> Assistant Professor <br> Program Director of the Future of Intelligence Initiative # Co-Director
-email:          # whahn@fau.edu
-website:        https://www.mpcrlab.com
-github:         https://github.com/williamedwardhahn # https://github.com/
-building:       # 
-room:           # 
-active:         true  # false # changed per Elan's request
-contact:        false # false # changed per Elan's request
-faculty:        true  # false # changed per Elan's request
-director:       true
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        https://www.youtube.com/channel/UCqQp_UbQCP8r-l76DrRV99A # https://www.youtube.com/
-
+active: true
+alumni: false
+bio: Founder and Co-Principal Investigator (Co-PI) <br> Assistant Professor <br> Program
+  Director of the Future of Intelligence Initiative
+building: ''
+contact: false
+director: true
+email: ''
+faculty: true
+github: https://github.com/williamedwardhahn
+image: /uploads/avatars/William-Hahn.JPG
 images:
-  - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
-  - path: /uploads/news-pictures/2016-Jun-01-MPCR-First-GPUs.jpg
-  - path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
-
-video:   https://www.youtube-nocookie.com/embed/2kyPou_FFn0
-
+- path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
+- path: /uploads/news-pictures/2016-Jun-01-MPCR-First-GPUs.jpg
+- path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
+instagram: ''
+linkedin: ''
 redirect_to: https://hahn.ai/
+room: ''
+staff: false
+student: false
+title: William Edward Hahn, Ph.D.
+twitter: ''
+username: William-E-Hahn
+video: https://www.youtube-nocookie.com/embed/2kyPou_FFn0
+vimeo: ''
+website: https://www.mpcrlab.com
+youtube: https://www.youtube.com/channel/UCqQp_UbQCP8r-l76DrRV99A
 ---
+
 # Contact Information
 Department of Mathematical Sciences  
 Center for Complex Systems and Brain Sciences  

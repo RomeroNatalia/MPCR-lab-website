@@ -1,26 +1,27 @@
 ---
-title:          Kristian Murphy
-username:       Kristian-Murphy
-image:          /uploads/avatars/Kristian-Murphy.JPG
-bio:            Master's Student
-email:          murphyk2017@fau.edu  # kristianwmurphy@gmail.com
-website:        https://www.linkedin.com/in/kristian-murphy-fau/
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/kristian-murphy-fau/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
+active: false
+alumni: false
+bio: Master's Student
+building: ''
+contact: false
+director: false
+email: murphyk2017@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Kristian-Murphy.JPG
 images:
-  - path: /uploads/news-pictures/2023-Spring-Kristain-at-Grand-Opening.JPG
+- path: /uploads/news-pictures/2023-Spring-Kristain-at-Grand-Opening.JPG
+instagram: ''
+linkedin: https://www.linkedin.com/in/kristian-murphy-fau/
+room: ''
+staff: false
+student: true
+title: Kristian Murphy
+twitter: ''
+username: Kristian-Murphy
+vimeo: ''
+website: https://www.linkedin.com/in/kristian-murphy-fau/
+youtube: ''
 ---
 
 # Contact Information

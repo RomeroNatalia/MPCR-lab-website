@@ -1,26 +1,26 @@
 ---
-title:          Michael Kleiman, Ph.D.
-username:       Michael-Kleiman
-image:          /uploads/avatars/Michael-Kleiman.jpg
-bio:            Ph.D. Student <br> Went to the University of Miami Miller School of Medicine as an Assistant Scientist
-email:          michael@kleiman.me
-website:        https://michael.kleiman.me
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       #
-room:           #
-campus:         Boca Raton
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/mjkleiman
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/mjkleiman/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Went to the University of Miami Miller School of Medicine
+  as an Assistant Scientist
+building: ''
+contact: false
+director: false
+email: michael@kleiman.me
+faculty: false
+github: https://github.com/mjkleiman
+image: /uploads/avatars/Michael-Kleiman.jpg
+instagram: ''
+linkedin: https://www.linkedin.com/in/mjkleiman/
+room: ''
+staff: false
+student: true
+title: Michael Kleiman, Ph.D.
+twitter: ''
+username: Michael-Kleiman
+vimeo: ''
+website: https://michael.kleiman.me
+youtube: ''
 ---
 
 # Contact Information

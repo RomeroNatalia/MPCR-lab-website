@@ -1,23 +1,25 @@
 ---
-title:          Oceane Boulais
-username:       Oceane-Boulais
-image:          /uploads/avatars/Oceane-Boulais.jpg
-bio:            Undergraduate Student <br> Went to MIT Media Lab
-email:          oceane@boulais.io #
-website:        http://boulais.io/ #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/oceaneboulais # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to MIT Media Lab
+building: ''
+contact: false
+director: false
+email: oceane@boulais.io
+faculty: false
+github: https://github.com/oceaneboulais
+image: /uploads/avatars/Oceane-Boulais.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Oceane Boulais
+twitter: ''
+username: Oceane-Boulais
+vimeo: ''
+website: http://boulais.io/
+youtube: ''
 ---
 
 # Contact Information

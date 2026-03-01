@@ -1,28 +1,28 @@
 ---
-title:          Jennifer Giordano
-username:       Jennifer-Giordano
-image:          /uploads/avatars/Jennifer-Giordano.png
-bio:            Ph.D. Student <br> Brain Institute Fellow (GNTP)
-email:          jgiordano2021@fau.edu
-building:       Behvaioral Sciences (BS-12) #S.E. Wimberly Library
-room:           Room 408 # Sandbox # Room 407
-website:        #
-CV:             #
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: false
+bio: Ph.D. Student <br> Brain Institute Fellow (GNTP)
+building: Behvaioral Sciences (BS-12)
+contact: false
+director: false
+email: jgiordano2021@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Jennifer-Giordano.png
 images:
-  - path: /uploads/news-pictures/2023-Spring-Jennifer-at-Grand-Grand-Opening.JPG
-  - path: /uploads/news-pictures/2023-Spring-Jennifer-and-Subhosit.JPG
+- path: /uploads/news-pictures/2023-Spring-Jennifer-at-Grand-Grand-Opening.JPG
+- path: /uploads/news-pictures/2023-Spring-Jennifer-and-Subhosit.JPG
+instagram: ''
+linkedin: ''
+room: Room 408
+staff: false
+student: true
+title: Jennifer Giordano
+twitter: ''
+username: Jennifer-Giordano
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

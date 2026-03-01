@@ -1,25 +1,25 @@
 ---
-title:          Lorenzo Biondo
-username:       Lorenzo-Biondo
-image:          /uploads/avatars/Lorenzo-Biondo.jpeg
-bio:            Undergraduate Student
-email:          lbiondo2021@fau.edu
-website:        # 
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       # S.E. Wimberly Library
-room:           # Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # 
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: false
+bio: Undergraduate Student
+building: ''
+contact: false
+director: false
+email: lbiondo2021@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Lorenzo-Biondo.jpeg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Lorenzo Biondo
+twitter: ''
+username: Lorenzo-Biondo
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

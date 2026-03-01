@@ -1,21 +1,26 @@
 ---
-title:          Hawkes Process Analysis of EMS Overdose data
 PIs:
-  -             # William-E-Hahn
-  -             # Elan-Barenholtz
-  -             # Susan-Schneider
-image:          /uploads/news-pictures/FAU-background.png
-email:          # flastYYYY@fau.edu
-website:        # 
-building:       S.E. Wimberly Library
-room:           Sandbox
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-active:         true
+- None
+- None
+- None
+active: false
+building: S.E. Wimberly Library
+collaborators: []
+description: ''
+email: ''
+github: ''
+image: /uploads/news-pictures/FAU-background.png
+instagram: ''
+linkedin: ''
+members: []
+project_leader: ''
+room: Sandbox
+tags: []
+title: Hawkes Process Analysis of EMS Overdose data
+twitter: ''
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

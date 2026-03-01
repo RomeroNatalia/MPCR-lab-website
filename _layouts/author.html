@@ -67,6 +67,32 @@ layout: default
         <div class="content-primary">
             {{ content }}
         </div>
+
+        {% comment %} ── Projects this person belongs to ── {% endcomment %}
+        {% assign my_projects = "" | split: "" %}
+        {% for project in site.projects %}
+          {% if project.active %}
+            {% if project.project_leader == page.username or project.project_leader == page.slug %}
+              {% assign my_projects = my_projects | push: project %}
+            {% elsif project.members contains page.username or project.members contains page.slug %}
+              {% assign my_projects = my_projects | push: project %}
+            {% elsif project.collaborators contains page.username or project.collaborators contains page.slug %}
+              {% assign my_projects = my_projects | push: project %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% if my_projects.size > 0 %}
+        <hr class="uk-margin-medium-top">
+        <h2 class="section-title uk-margin">Projects</h2>
+        <ul class="uk-list uk-list-divider">
+          {% for project in my_projects %}
+          <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+            {% if project.project_leader == page.username or project.project_leader == page.slug %} <span class="uk-badge">Lead</span>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
     </article>
 </div>
 

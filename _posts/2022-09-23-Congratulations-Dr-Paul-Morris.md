@@ -1,17 +1,12 @@
 ---
-title: Congratulations to Dr. Paul Morris, Ph.D.
-image: /avatars/Paul-Morris.JPG
-categories: [Graduates]
-tags: [Graduates]
-hidden: false # Hides from News Feed useful for direct links only
 author: Stephen-Hoover
-
-images:
-  - path: /uploads/news-pictures/2022-Sep-Paul-Morris.jpg
-  - path: /uploads/news-pictures/MPCR-Fall-2017-010.JPG # MPCR-Fall-2017-018.JPG
-  - path: /uploads/news-pictures/MPCR-Fall-2017-009.JPG # MPCR-Fall-2017-026.jpg
-  - path: /uploads/news-pictures/Paul-and-Keller2-768x576.jpg
-  - path: /uploads/news-pictures/2016-FAU-UG-Research-Symposium.jpg # MPCR-Photo-007.JPG
+categories:
+- Graduates
+hidden: false
+image: /avatars/Paul-Morris.JPG
+tags:
+- Graduates
+title: Congratulations to Dr. Paul Morris, Ph.D.
 ---
 
 Congratulations to Dr. Paul Morris for successfully defending his dissertation, "*Computation in Self-Attention Networks*".

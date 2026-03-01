@@ -1,25 +1,25 @@
 ---
-title:          Galen Holland
-username:       Galen-Holland
-image:          /uploads/avatars/Galen-Holland.jpg
-bio:            Undergraduate Student
-email:          gholland2017@fau.edu
-website:        https://www.galenholland.com/ #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: gholland2017@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Galen-Holland.jpg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Galen Holland
+twitter: ''
+username: Galen-Holland
+vimeo: ''
+website: https://www.galenholland.com/
+youtube: ''
 ---
 
 # Contact Information

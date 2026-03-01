@@ -1,27 +1,29 @@
 ---
-title:          Jake Malis
-username:       Jake-Malis
-image:          /uploads/avatars/Jake-Malis.jpg
-bio:            High School Student
-email:          jake.malis@pinecrest.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/jakemalis
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/jake-malis-064477176/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: false
+bio: High School Student
+building: ''
+contact: false
+director: false
+email: jake.malis@pinecrest.edu
+faculty: false
+github: https://github.com/jakemalis
+image: /uploads/avatars/Jake-Malis.jpg
+instagram: ''
+linkedin: https://www.linkedin.com/in/jake-malis-064477176/
+room: ''
+staff: false
+student: true
+title: Jake Malis
+twitter: ''
+username: Jake-Malis
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information
 [{{ page.email }}](mailto:{{ page.email }})  
 
 # Education
-* Diploma, Pinecrest High School 
+* Diploma, Pinecrest High School

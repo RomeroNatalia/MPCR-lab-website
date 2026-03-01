@@ -1,31 +1,30 @@
 ---
-title:          Morgan Benavidez
-username:       Morgan-Benavidez
-image:          /uploads/avatars/Morgan-Benavidez.jpg
-bio:            Master's Student <br> NSF S-STEM Scholar
-email:          mbenavidez2020@fau.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       Behavioral Sciences (BS-12) # S.E. Wimberly Library
-room:           Room 408 # Sandbox 
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/in/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-
+active: false
+alumni: true
+bio: Master's Student <br> NSF S-STEM Scholar
+building: Behavioral Sciences (BS-12)
+contact: false
+director: false
+email: mbenavidez2020@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Morgan-Benavidez.jpg
 images:
-    - path: /uploads/news-pictures/2022-Fall-Morgan-Benavidez.jpg
-    - path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-01.jpeg
-    - path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-02.jpeg
-    - path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-03.jpeg
+- path: /uploads/news-pictures/2022-Fall-Morgan-Benavidez.jpg
+- path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-01.jpeg
+- path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-02.jpeg
+- path: /uploads/news-pictures/2023-Dec-Morgan-Benavidez-Beach-03.jpeg
+instagram: ''
+linkedin: ''
+room: Room 408
+staff: false
+student: true
+title: Morgan Benavidez
+twitter: ''
+username: Morgan-Benavidez
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information
@@ -47,4 +46,3 @@ Boca Raton, FL 33431-0991
 <p align="left">
   <img alt="National Science Foundation (NSF) S-STEM Scholar" src="/uploads/news-pictures/National-Science-Foundation-NSF-Logo.svg" width="50%">
 </p>
-

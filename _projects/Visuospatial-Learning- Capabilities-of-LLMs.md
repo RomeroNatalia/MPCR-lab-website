@@ -1,20 +1,27 @@
 ---
-title:          "Evaluation of ChatGPT: Uncovering Visuospatial Learning Capabilities and Advancements from Version 3.5 to 4.0"
 PIs:
-  -             Elan-Barenholtz
-image:          /uploads/news-pictures/FAU-background.png
-email:         # flastYYYY@fau.edu
-website:        
-building:       S.E. Wimberly Library
-room:           Sandbox
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-active:         true
+- Elan-Barenholtz
+active: true
+building: S.E. Wimberly Library
+collaborators: []
+description: 'Evaluation of ChatGPT: Uncovering Visuospatial Learning Capabilities
+  and Advancements from Version 3.5 to 4.0'
+email: ''
+github: ''
+image: /uploads/news-pictures/FAU-background.png
+instagram: ''
+linkedin: ''
+members: []
+project_leader: ''
+room: Sandbox
+tags: []
+title: Visuospatial Learning Capabilities of LLMs
+twitter: ''
+vimeo: ''
+website: ''
+youtube: ''
 ---
+
 {% include image.html img="https://source.unsplash.com/qX9Ie7ieb1E/900x500" alt="Alt for image" %}
 
 

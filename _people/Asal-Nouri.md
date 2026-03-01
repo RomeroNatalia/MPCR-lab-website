@@ -1,32 +1,31 @@
 ---
-title:          Asal Nouri, Ph.D.
-username:       Asal-Nouri
-image:          /uploads/avatars/Asal-Nouri.jpg
-bio:            Ph.D. Student <br> Brain Institute Fellow (GNTP) <br> Went to the Social Neuroscience Lab at <br> Florida Atlantic University as a Postdoctoral Fellow
-email:          anouri2015@fau.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-campus:         Boca Raton
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Brain Institute Fellow (GNTP) <br> Went to the Social Neuroscience
+  Lab at <br> Florida Atlantic University as a Postdoctoral Fellow
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: anouri2015@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Asal-Nouri.jpg
 images:
-  # - path: /uploads/news-pictures/2023-Spring-Commencement-01.jpeg
-  # - path: /uploads/news-pictures/2023-Spring-Commencement-02.jpeg
-  # - path: /uploads/news-pictures/2023-Spring-Commencement-03.jpeg
-  - path: /uploads/news-pictures/2023-Spring-Commencement-04.jpeg
-  - path: /uploads/news-pictures/2023-Spring-Commencement-05.jpeg
+- path: /uploads/news-pictures/2023-Spring-Commencement-04.jpeg
+- path: /uploads/news-pictures/2023-Spring-Commencement-05.jpeg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Asal Nouri, Ph.D.
+twitter: ''
+username: Asal-Nouri
+vimeo: ''
+website: ''
+youtube: ''
 ---
+
 # Contact Information
 Center for Complex Systems and Brain Sciences  
 777 Glades Road  

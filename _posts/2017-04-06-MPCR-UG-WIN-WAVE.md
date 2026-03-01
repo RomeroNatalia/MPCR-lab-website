@@ -1,15 +1,20 @@
 ---
-title: MPCR Undergraduates Won Awards at FAU's WAVE Entrepreneurial Research Competition!
-image: news-pictures/Wave-Awards-2018.JPG
-images:
- - path: /uploads/news-pictures/Wave-Awards-2018.JPG
- - path: /uploads/news-pictures/wave18.jpeg
- - path: /uploads/news-pictures/wave18-2.jpeg
-categories: [Awards]
-tags: [Behavior Analytics, Robotic Olfaction, Deep-learning, Undergraduate, Awards, Research, Wave]
-hidden: false
 author: Stephen-Hoover
+categories:
+- Awards
+hidden: false
+image: news-pictures/Wave-Awards-2018.JPG
+tags:
+- Behavior Analytics
+- Robotic Olfaction
+- Deep-learning
+- Undergraduate
+- Awards
+- Research
+- Wave
+title: MPCR Undergraduates Won Awards at FAU's WAVE Entrepreneurial Research Competition!
 ---
+
 Congratulations Evita Conway, Stephen Hoover, Michael Kleiman, Emily Stark, Elan Barenholtz and William Hahn!
 
 Two MPCR students won Florida Atlantic University's Wave Competition undergraduate research competition.

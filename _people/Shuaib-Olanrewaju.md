@@ -1,27 +1,25 @@
 ---
-title:          Shuaib Olanrewaju
-username:       Shuaib-Olanrewaju
-image:          /uploads/avatars/Shuaib-Olanrewaju.jpeg
-bio:            Undergraduate Student
-email:          solaanrewaju2020@fau.edu
-website:        # 
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # 
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/in/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-# images:
-#     - path: /uploads/news-pictures/#
+active: false
+alumni: false
+bio: Undergraduate Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: solaanrewaju2020@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Shuaib-Olanrewaju.jpeg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Shuaib Olanrewaju
+twitter: ''
+username: Shuaib-Olanrewaju
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

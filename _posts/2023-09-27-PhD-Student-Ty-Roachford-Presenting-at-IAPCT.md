@@ -1,14 +1,16 @@
 ---
-title: "Ph.D. Student Ty Roachford presenting at the International Association for Perceptual Control Theory (IAPCT)"
-image: news-pictures/Ty-Roachford-IAPCT-2023-01.png
-categories: [Research]
-tags: [IAPCT, Complexity Science, Perceptual Control Theory, Ty Roachford]
-include_in_search: false
-hidden: false # Hides from News Feed useful for direct links only
-featured: false
 author: Stephen-Hoover
-images:
-  - path: /uploads/news-pictures/2023-Spring-Ty.JPG
+categories:
+- Research
+hidden: false
+image: news-pictures/Ty-Roachford-IAPCT-2023-01.png
+tags:
+- IAPCT
+- Complexity Science
+- Perceptual Control Theory
+- Ty Roachford
+title: Ph.D. Student Ty Roachford presenting at the International Association for
+  Perceptual Control Theory (IAPCT)
 ---
 
 [**Mr. Ty Roachford**](https://mpcrlab.com/people/Ty-Roachford/), a Ph.D. student studying Theoretical and Computational Neuroscience in FAU's Machine Perception and Cognitive Robotics Laboratory and the Rubin and Cindy Gruber Sandbox, will be presenting his research at the International Association for Perceptual Control Theory (IAPCT) 

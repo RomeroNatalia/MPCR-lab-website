@@ -1,28 +1,27 @@
 ---
-title:          Michael Ostroff
-username:       Michael-Ostroff
-image:          /uploads/avatars/Michael-Ostroff.jpg
-bio:            Ph.D. Student
-email:          mostroff2015@fau.edu
-website:        # 
-laboratory:     # Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       # S.E. Wimberly Library
-room:           # Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/in/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        "https://www.youtube.com/@PerpetualScience" # https://www.youtube.com/
-
+active: false
+alumni: true
+bio: Ph.D. Student
+building: ''
+contact: false
+director: false
+email: mostroff2015@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Michael-Ostroff.jpg
 images:
-  - path: /uploads/news-pictures/2023-Spring-Michael.JPG
+- path: /uploads/news-pictures/2023-Spring-Michael.JPG
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Michael Ostroff
+twitter: ''
+username: Michael-Ostroff
+vimeo: ''
+website: ''
+youtube: https://www.youtube.com/@PerpetualScience
 ---
 
 # Contact Information

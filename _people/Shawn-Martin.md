@@ -1,23 +1,26 @@
 ---
-title:          Shawn Martin
-username:       Shawn-Martin
-image:          /uploads/avatars/Shawn-Martin.JPG
-bio:            Undergraduate Student <br> Went to Northeastern University to earn a M.S. in Computer Science
-email:          Martin.sh@husky.neu.edu #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         https://github.com/shawnfmartin #
-instagram:      # https://www.instagram.com/
-linkedin:       #
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to Northeastern University to earn a M.S. in
+  Computer Science
+building: ''
+contact: false
+director: false
+email: Martin.sh@husky.neu.edu
+faculty: false
+github: https://github.com/shawnfmartin
+image: /uploads/avatars/Shawn-Martin.JPG
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Shawn Martin
+twitter: ''
+username: Shawn-Martin
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

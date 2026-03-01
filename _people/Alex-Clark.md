@@ -1,23 +1,25 @@
 ---
-title:          Alex Clark, Ph.D.
-username:       AlexClark
-image:          /uploads/avatars/Alex-Clark.png
-bio:            Ph.D. Student
-email:          jamesclark2016@fau.edu
-website:        https://www.mpcrlab.com # https://mysite.com
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student
+building: ''
+contact: false
+director: false
+email: jamesclark2016@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Alex-Clark.png
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Alex Clark, Ph.D.
+twitter: ''
+username: AlexClark
+vimeo: ''
+website: https://www.mpcrlab.com
+youtube: ''
 ---
 
 # Contact Information
@@ -38,4 +40,4 @@ I have a B.S. in Mathematics with a Statistics Minor and a B.A. and M.A. in Phil
 I believe that Neural Networks and Machine Learning can make valuable improvements to a wide variety of real-world tasks, and can help with a variety of academic and scientific research problems.  In my Doctoral research, I would like to implement Neural Networks to mimic human and animal behavior and thereby glean insights into various questions of human cognition and Philosophy of Mind.  I am interested in the intersection of machine vision (powered by neural networks), and optical illusions.
 
 # Lab Website
-[**{{ page.laboratory | remove: "https://" }}**]({{ page.website }})  
+[**{{ page.laboratory | remove: "https://" }}**]({{ page.website }})

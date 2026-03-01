@@ -1,25 +1,26 @@
 ---
-title:          Rachel St. Clair, Ph.D.
-username:       Rachel-St-Clair
-image:          /uploads/avatars/Rachel-St-Clair.jpeg
-bio:            Ph.D. Student <br> Machine Intelligence Fellow <br>  Brain Institute Fellow (GNTP) <br> MPCR Lab Manager
-email:          rstclair2012@fau.edu
-building:       S.E. Wimberly Library
-room:           Sandbox # Room 407
-website:        https://simuli.ai
-CV:             # https://justkittenaround.com/resume/
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Machine Intelligence Fellow <br>  Brain Institute Fellow (GNTP)
+  <br> MPCR Lab Manager
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: rstclair2012@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Rachel-St-Clair.jpeg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Rachel St. Clair, Ph.D.
+twitter: ''
+username: Rachel-St-Clair
+vimeo: ''
+website: https://simuli.ai
+youtube: ''
 ---
 
 # Contact Information

@@ -1,25 +1,25 @@
 ---
-title:          Daniela Del Giudice
-username:       Daniela-Del-Giudice
-image:          /uploads/avatars/Daniela-Del-Giudice.jpeg
-bio:            Undergraduate Student
-email:          ddelgiudice2020@fau.edu
-website:        # 
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       # S.E. Wimberly Library
-room:           # Sandbox
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # 
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: true
+alumni: false
+bio: Undergraduate Student
+building: ''
+contact: false
+director: false
+email: ddelgiudice2020@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Daniela-Del-Giudice.jpeg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Daniela Del Giudice
+twitter: ''
+username: Daniela-Del-Giudice
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

@@ -1,25 +1,25 @@
 ---
-title:          Prajwal Nagaraj
-username:       Prajwal-Nagaraj
-image:          /uploads/avatars/Prajwal-Nagaraj.jpeg
-bio:            Master's Student
-email:          pnagaraj2023@fau.edu
-website:        # 
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       # S.E. Wimberly Library
-room:           # Sandbox
-active:         false
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: false
+bio: Master's Student
+building: ''
+contact: false
+director: false
+email: pnagaraj2023@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Prajwal-Nagaraj.jpeg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Prajwal Nagaraj
+twitter: ''
+username: Prajwal-Nagaraj
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

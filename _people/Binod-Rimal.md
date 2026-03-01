@@ -1,23 +1,26 @@
 ---
-title:          Binod Rimal, Ph.D.
-username:       Binod-Rimal.jpg
-image:          /uploads/avatars/Binod-Rimal.jpg
-bio:            Ph.D. Student <br> Earned a Tenure Track professorship in Data Science before graduating
-email:          brimal2014@fau.edu
-website:        # https://www.mpcrlab.com # https://mysite.com
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Ph.D. Student <br> Earned a Tenure Track professorship in Data Science before
+  graduating
+building: ''
+contact: false
+director: false
+email: brimal2014@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Binod-Rimal.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Binod Rimal, Ph.D.
+twitter: ''
+username: Binod-Rimal.jpg
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

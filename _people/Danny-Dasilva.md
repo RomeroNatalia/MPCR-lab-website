@@ -1,23 +1,25 @@
 ---
-title:          Danny Dasilva
-username:       Danny-Dasilva
-image:          /uploads/avatars/Danny-Dasilva.png
-bio:            Undergraduate Student <br> Went to MIT Media Lab
-email:          #
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       https://www.linkedin.com/in/danny-dasilva-126a15170
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Undergraduate Student <br> Went to MIT Media Lab
+building: ''
+contact: false
+director: false
+email: ''
+faculty: false
+github: ''
+image: /uploads/avatars/Danny-Dasilva.png
+instagram: ''
+linkedin: https://www.linkedin.com/in/danny-dasilva-126a15170
+room: ''
+staff: false
+student: true
+title: Danny Dasilva
+twitter: ''
+username: Danny-Dasilva
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 <!-- # Contact Information

@@ -1,27 +1,25 @@
 ---
-title:          Jasmine Makkar
-username:       Jasmine-Makkar
-image:          /uploads/avatars/Jasmine-Makkar.jpg
-bio:            Undergraduate Student
-email:          jmakkar2020@fau.edu
-website:        #
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         true
-alumni:         false
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/in/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-images:
-    # - path: /uploads/news-pictures/2023-Fall-Vincenzo-Macri-at-John-Deere.jpeg
+active: true
+alumni: false
+bio: Undergraduate Student
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: jmakkar2020@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Jasmine-Makkar.jpg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Jasmine Makkar
+twitter: ''
+username: Jasmine-Makkar
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

@@ -1,25 +1,25 @@
 ---
-title:          Brandon Jadotte
-username:       Brandon-Jadotte
-image:          /uploads/avatars/Brandon-Jadotte.jpg
-bio:            Community Member # Master's Student <br> University Scholar
-email:          bjadott1@my.fau.edu # 
-website:        
-laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-building:       S.E. Wimberly Library
-room:           Sandbox
-active:         false
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
+active: false
+alumni: true
+bio: Community Member
+building: S.E. Wimberly Library
+contact: false
+director: false
+email: bjadott1@my.fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Brandon-Jadotte.jpg
+instagram: ''
+linkedin: ''
+room: Sandbox
+staff: false
+student: true
+title: Brandon Jadotte
+twitter: ''
+username: Brandon-Jadotte
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

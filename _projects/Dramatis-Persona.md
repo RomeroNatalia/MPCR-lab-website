@@ -1,23 +1,28 @@
 ---
-title:          Absorbing and Mirroring Personalities of Users of Large Language Models
 PIs:
-  -             Michael Maniaci (advisor)
-  -             William-E-Hahn
-  -             Elan-Barenholtz
-  -             Susan-Schneider
-  -             Chad Forbes
-image:          /uploads/news-pictures/FAU-background.png
-email:          rmatic2018@fau.edu
-website:        # 
-building:       S.E. Wimberly Library
-room:           Sandbox
-github:         # https://github.com/
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/
-active:         true
+- Michael Maniaci (advisor)
+- William-E-Hahn
+- Elan-Barenholtz
+- Susan-Schneider
+- Chad Forbes
+active: true
+building: S.E. Wimberly Library
+collaborators: []
+description: Absorbing and Mirroring Personalities of Users of Large Language Models
+email: rmatic2018@fau.edu
+github: ''
+image: /uploads/news-pictures/FAU-background.png
+instagram: ''
+linkedin: ''
+members: []
+project_leader: ''
+room: Sandbox
+tags: []
+title: Dramatis Persona
+twitter: ''
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information

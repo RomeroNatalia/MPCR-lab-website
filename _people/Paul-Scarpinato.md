@@ -1,32 +1,25 @@
 ---
-title:          Paul Scarpinato
-username:       Paul-Scarpinato
-image:          /uploads/avatars/Paul-Scarpinato.jpg
-bio:            Ph.D. Student
-CV:             
-email:          pscarpinato@fau.edu
-website:        
-laboratory:     
-building:       
-room:           
-active:         true
-alumni:         true
-contact:        false
-faculty:        false
-staff:          false
-student:        true
-campus:         Boca Raton
-github:         #
-google-scholar: #
-instagram:      # https://www.instagram.com/
-linkedin:       # https://www.linkedin.com/
-twitter:        # https://twitter.com/
-vimeo:          # https://vimeo.com/
-youtube:        # https://www.youtube.com/channel/UC3KK7qUYLiBDouEVMxEDpAg # https://www.youtube.com/
-#images:
-#  - path: /uploads/news-pictures/
-#  - path: /uploads/news-pictures/
-#  - path: /uploads/news-pictures/
+active: true
+alumni: true
+bio: Ph.D. Student
+building: ''
+contact: false
+director: false
+email: pscarpinato@fau.edu
+faculty: false
+github: ''
+image: /uploads/avatars/Paul-Scarpinato.jpg
+instagram: ''
+linkedin: ''
+room: ''
+staff: false
+student: true
+title: Paul Scarpinato
+twitter: ''
+username: Paul-Scarpinato
+vimeo: ''
+website: ''
+youtube: ''
 ---
 
 # Contact Information
