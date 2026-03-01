@@ -9,7 +9,7 @@ description: 'MemoryWords is an original programming language and computing syst
   what happens when you strip computing to its absolute minimum.'
 email: ''
 github: https://github.com/hahnlab
-image: /uploads/project-cards/Forth-for-OISC.svg
+image: /uploads/project-cards/MemoryWords.svg
 instagram: ''
 linkedin: ''
 members:
