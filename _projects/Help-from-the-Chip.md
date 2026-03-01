@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: Help from the Chip explores hardware-accelerated computing and specialized
-  processor designs for AI workloads. Inspired by BBC's historical computing content,
-  this project investigates how custom silicon and hardware optimization can dramatically
-  improve computational efficiency. The focus is on co-designing algorithms and hardware
-  for optimal performance.
+description: Help from the Chip develops AI-powered assistive technology for differently
+  abled individuals. The project builds on-device intelligence—embedded in chips and
+  wearables—that helps users navigate, communicate, and interact with the world, making
+  AI a practical tool for accessibility and independence.
 email: ''
 github: https://github.com/hahnlab
 image: /uploads/project-cards/Help-from-the-Chip.svg

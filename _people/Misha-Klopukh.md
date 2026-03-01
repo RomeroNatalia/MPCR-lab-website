@@ -12,7 +12,7 @@ image: /uploads/avatars/Misha-Klopuah.JPG
 instagram: ''
 linkedin: ''
 project_slugs:
-- Forth-for-OISC
+- MemoryWords
 - One-Instruction-Set-Computer-OISC
 room: Sandbox
 staff: false

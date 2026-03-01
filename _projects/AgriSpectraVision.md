@@ -2,8 +2,10 @@
 active: true
 building: S.E. Wimberly Library
 collaborators: []
-description: The AgriSpectraVision project addresses the pressing challenge of optimizing
-  crop management in modern agriculture
+description: AgriSpectraVision explores embedded AI agents that autonomously monitor
+  and care for plants. Combining sensors, spectral imaging, and on-device intelligence,
+  the project builds systems that perceive plant health in real time and take action—adjusting
+  light, water, and nutrients—without human intervention.
 email: ''
 github: ''
 image: /uploads/project-cards/AgriSpectraVision.svg

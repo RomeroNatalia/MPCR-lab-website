@@ -2,11 +2,11 @@
 active: true
 building: ''
 collaborators: []
-description: Neural Cellular Automata combines the simplicity of cellular automata
-  with the learning capabilities of neural networks. This project explores self-organizing
-  systems where simple local rules, learned through neural networks, give rise to
-  complex global behaviors. Applications include pattern formation, morphogenesis,
-  and adaptive self-repairing systems.
+description: Neural Cellular Automata merges local CA rules with neural network learning
+  to create systems that self-organize, grow, and repair like biological organisms.
+  The project studies how complex computation and intelligent behavior emerge from
+  simple local interactions—bridging the gap between bottom-up self-organization and
+  top-down learning.
 email: ''
 github: https://github.com/hahnlab
 image: /uploads/project-cards/Neural-Cellular-Automata.svg

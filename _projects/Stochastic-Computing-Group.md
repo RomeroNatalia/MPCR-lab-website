@@ -2,11 +2,11 @@
 active: true
 building: ''
 collaborators: []
-description: The Stochastic Computing Group explores computing with probabilistic
-  bit streams rather than deterministic binary values. This paradigm offers advantages
-  in hardware simplicity, fault tolerance, and energy efficiency. The project investigates
-  applications in neural networks, signal processing, and other domains where approximate
-  computing is acceptable.
+description: The Stochastic Computing Group explores an alternative paradigm where
+  numbers are encoded as random bit streams rather than fixed binary words. This unconventional
+  approach trades precision for radical simplicity—multiplication becomes a single
+  AND gate—yielding circuits that are inherently fault-tolerant, area-efficient, and
+  naturally suited to probabilistic inference.
 email: ''
 github: https://github.com/hahnlab
 image: /uploads/project-cards/Stochastic-Computing-Group.svg

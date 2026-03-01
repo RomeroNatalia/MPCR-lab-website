@@ -2,11 +2,11 @@
 active: true
 building: ''
 collaborators: []
-description: This project explores the One Instruction Set Computer (OISC) model that
-  achieves Turing-completeness with a single instruction. The initiative challenges
-  traditional computing paradigms by demonstrating how complex computational tasks
-  can be achieved through an extremely minimalist hardware model, illustrating the
-  power of simplicity in computer architecture.
+description: 'This project explores the theoretical minimum of computation through
+  the MemoryWords (MW) system: a one-instruction set computer where the only operation
+  is memory copy (M[j] = M[i]). From this single primitive, a complete Forth-like
+  language, compiler, and runtime emerge—demonstrating that all of computing can be
+  built from one operation on memory.'
 email: ''
 github: https://github.com/hahnlab
 image: /uploads/project-cards/One-Instruction-Set-Computer-OISC.svg

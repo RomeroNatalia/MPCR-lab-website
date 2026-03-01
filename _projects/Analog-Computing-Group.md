@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: The Analog Computing Group revisits analog computing techniques for modern
-  applications. Unlike digital computers that process discrete values, analog computers
-  work with continuous signals, offering potential advantages in speed, energy efficiency,
-  and solving specific types of differential equations. The project explores hybrid
-  analog-digital architectures for AI and scientific computing.
+description: The Analog Computing Group explores unconventional computing beyond digital
+  logic—using continuous signals, analog circuits, and physical processes as computational
+  substrates. The work spans neuromorphic design, energy-efficient inference, and
+  the fundamental question of what it means to compute with physics rather than abstractions.
 email: ''
 github: https://github.com/hahnlab
 image: /uploads/project-cards/Analog-Computing-Group.svg
