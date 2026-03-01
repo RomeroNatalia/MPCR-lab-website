@@ -4,7 +4,7 @@ alumni: false
 bio: Founder and Co-Principal Investigator (Co-PI) <br> Assistant Professor <br> Program
   Director of the Future of Intelligence Initiative
 building: ''
-contact: false
+contact: true
 director: true
 email: ''
 faculty: true
