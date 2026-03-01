@@ -26,11 +26,8 @@ sidebar: none
         {% if project.description %}
         <p class="content-secondary uk-margin-small-bottom">{{ project.description | truncate: 120 }}</p>
         {% endif %}
-        {% if project.project_leader %}
-        <div class="card-meta"><b>Lead:</b> {{ project.project_leader }}</div>
-        {% endif %}
         {% if project.members.size > 0 %}
-        <div class="card-meta">{{ project.members.size }} member{{ project.members.size | minus: 1 | at_least: 0 | plus: 1 | minus: 1 | at_least: 1 }}{% if project.members.size != 1 %}s{% endif %}</div>
+        <div class="card-meta">{{ project.members.size }} member{% if project.members.size != 1 %}s{% endif %}</div>
         {% endif %}
       </div>
     </div>

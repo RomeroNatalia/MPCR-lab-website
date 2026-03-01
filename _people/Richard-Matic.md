@@ -1,6 +1,6 @@
 ---
-active: true
-alumni: false
+active: false
+alumni: true
 bio: Ph.D. Student
 building: S.E. Wimberly Library
 contact: false

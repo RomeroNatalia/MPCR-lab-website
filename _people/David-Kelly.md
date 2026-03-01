@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: false
+alumni: true
 bio: Associate Director, FAU High School
 building: ''
 contact: false

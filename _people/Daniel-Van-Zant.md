@@ -1,6 +1,6 @@
 ---
-active: true
-alumni: false
+active: false
+alumni: true
 bio: Ph.D. Student <br> Research Assistant <br> Brain Institute Fellow (NGP)
 building: Behvaioral Sciences (BS-12)
 contact: false

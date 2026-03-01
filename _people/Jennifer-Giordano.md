@@ -1,6 +1,6 @@
 ---
-active: true
-alumni: false
+active: false
+alumni: true
 bio: Ph.D. Student <br> Brain Institute Fellow (GNTP)
 building: Behvaioral Sciences (BS-12)
 contact: false

@@ -1,6 +1,6 @@
 ---
-active: true
-alumni: false
+active: false
+alumni: true
 bio: Undergraduate Student
 building: ''
 contact: false

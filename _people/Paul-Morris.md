@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: false
+alumni: true
 bio: Ph.D. Student <br> Research Assistant <br> Went to Corteva Agriscience as a Data
   Scientist
 building: S.E. Wimberly Library

@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: false
+alumni: true
 bio: Ph.D. Student <br> Brain Institute Fellow (NGP)
 building: ''
 contact: false

@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: false
+alumni: true
 bio: Master's Student
 building: S.E. Wimberly Library
 contact: false

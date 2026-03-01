@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: false
+alumni: true
 bio: Ph.D. Student <br> Brain Institute Fellow (NGP)
 building: S.E. Wimberly Library
 contact: false

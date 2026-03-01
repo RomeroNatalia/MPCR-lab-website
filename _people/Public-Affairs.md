@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: false
+alumni: true
 bio: ''
 building: ''
 contact: false

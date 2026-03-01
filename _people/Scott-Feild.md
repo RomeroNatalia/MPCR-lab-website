@@ -1,6 +1,6 @@
 ---
-active: true
-alumni: false
+active: false
+alumni: true
 bio: Director of Community Engagement
 building: ''
 contact: false

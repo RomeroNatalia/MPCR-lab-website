@@ -1,6 +1,6 @@
 ---
 active: false
-alumni: false
+alumni: true
 bio: High School Student <br> Went to Stanford University to earn a B.S. in Computer
   Science
 building: ''
