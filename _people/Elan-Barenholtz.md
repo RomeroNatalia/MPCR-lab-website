@@ -43,7 +43,7 @@ Boca Raton, FL 33431-0991
 
 # Research Interests
 * Deep Learning/Ai
-* Foundations of Language and Cognition
+* Foundations of Langauge and Cognition
 * Embedded computational neural models
 
 # Research Description

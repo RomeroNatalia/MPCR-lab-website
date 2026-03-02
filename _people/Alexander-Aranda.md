@@ -31,7 +31,7 @@ Boca Raton, FL 33431-0991
 
 # Education
 * B.S., Economics, Florida Atlantic University (In progress)
-    * Minor in Computer Science
+    * Minor in Comnputer Science
 * Certificate, Full Stack Web Development from the University of California Los Angeles, 2021
 * A.S., Economics, Chaffey Community College, 2020
 
