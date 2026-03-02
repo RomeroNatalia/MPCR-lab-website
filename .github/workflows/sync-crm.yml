@@ -26,16 +26,35 @@ jobs:
 
       - name: Fetch CRM JSON data
         run: |
+          set -e
           mkdir -p _data
-          curl -sf "${{ secrets.CRM_URL }}/api/people.json" -o _data/people.json
-          curl -sf "${{ secrets.CRM_URL }}/api/projects.json" -o _data/projects.json
-          curl -sf "${{ secrets.CRM_URL }}/api/news.json" -o _data/news.json
-          curl -sf "${{ secrets.CRM_URL }}/api/publications.json" -o _data/publications.json
+
+          fetch_json() {
+            local endpoint="$1"
+            local output="$2"
+            echo "Fetching $endpoint..."
+            if ! curl -sf "${{ secrets.CRM_URL }}/api/${endpoint}" -o "$output"; then
+              echo "ERROR: Failed to fetch $endpoint" >&2
+              return 1
+            fi
+            # Validate JSON
+            if ! python3 -m json.tool < "$output" > /dev/null 2>&1; then
+              echo "ERROR: Invalid JSON in $output" >&2
+              return 1
+            fi
+            echo "  OK ($(wc -c < "$output") bytes)"
+          }
+
+          fetch_json people.json _data/people.json
+          fetch_json projects.json _data/projects.json
+          fetch_json news.json _data/news.json
+          fetch_json publications.json _data/publications.json
 
       - name: Sync CRM to Jekyll markdown
         run: |
+          set -e
           # Clone the CRM repo to get the sync script
-          git clone --depth 1 https://github.com/${{ secrets.CRM_REPO || 'mpcrlab/mpcr-crm' }}.git /tmp/mpcr-crm 2>/dev/null || true
+          git clone --depth 1 https://github.com/${{ secrets.CRM_REPO || 'williamedwardhahn/MPCR-CRM' }}.git /tmp/mpcr-crm 2>/dev/null || true
 
           # If CRM repo is available, run the full markdown sync
           if [ -f /tmp/mpcr-crm/scripts/sync_to_website.py ]; then
@@ -44,11 +63,12 @@ jobs:
             cp _data/people.json /tmp/crm-output/
             cp _data/projects.json /tmp/crm-output/
             cp _data/news.json /tmp/crm-output/
+            cp _data/publications.json /tmp/crm-output/
 
             python /tmp/mpcr-crm/scripts/sync_to_website.py . \
               --output-dir /tmp/crm-output
           else
-            echo "CRM sync script not available, skipping markdown sync"
+            echo "WARNING: CRM sync script not available, skipping markdown sync"
           fi
 
       - name: Commit and push if changed
