@@ -3,7 +3,7 @@ author: Stephen-Hoover
 categories:
 - Graduates
 hidden: false
-image: /avatars/Emily-Teti.JPG
+image: avatars/Emily-Teti.JPG
 tags:
 - Graduates
 title: Congratulations to Dr. Emily Teti, Ph.D.

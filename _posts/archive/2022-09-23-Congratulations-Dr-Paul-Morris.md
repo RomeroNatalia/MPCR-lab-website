@@ -3,7 +3,7 @@ author: Stephen-Hoover
 categories:
 - Graduates
 hidden: false
-image: /avatars/Paul-Morris.JPG
+image: avatars/Paul-Morris.JPG
 tags:
 - Graduates
 title: Congratulations to Dr. Paul Morris, Ph.D.

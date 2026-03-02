@@ -1,5 +1,5 @@
 ---
-title:          Artifical Intelligence Alignment
+title:          Artificial Intelligence Alignment
 PIs:
   -             William E.Hahn, Ph.D.
   -             Elan Barenholtz, Ph.D.

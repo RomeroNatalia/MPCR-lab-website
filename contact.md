@@ -16,8 +16,3 @@ redirect_from:
     {% endfor %}
   </div>
 </div>
-
-{% comment %}
-  Exclude this section for now.
-  {% include formspree.html email="my_name@gmail.com" redirect="/thanks/" %}
-{% endcomment %}

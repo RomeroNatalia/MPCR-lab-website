@@ -3,7 +3,7 @@ author: Daniel-Van-Zant
 categories:
 - Graduates
 hidden: false
-image: /news-pictures/2021-Stephen-AGI.jpg
+image: news-pictures/2021-Stephen-AGI.jpg
 tags:
 - Graduates
 title: Ph.D. student Stephen Hoover earned a M.S. in Artificial Intelligence along

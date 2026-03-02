@@ -56,22 +56,6 @@ Our application process is centralized by the [**Brain Institute**][2] at Florid
 
 {% include image.html img="/BI-GNTP.png" alt="Brain Institute - Neuroscience Graduate Program (NGP)" %}
 
-{% comment %}
-<a
-  class="uk-button uk-button-secondary"
-  style="text-transform: none;"
-  href="{{ site.apply }}">
-  **Faculty Summary**
-</a>
-
-<a
-  class="uk-button uk-button-primary"
-  style="text-transform: none;"
-  href="https://www.fau.edu/ibrain/gradneuro/apply/">
-  **Apply Now**
-</a>
-{% endcomment %}
-
 # Applicants with Existing Funding
 Applicants with existing funding (e.g., [NSF GRFP][NSF GRFP]; [NIH F-31][NIH F-31]; [DoE CSGF][DoE CSGF]; [DoD Smart][DoD Smart]; etc) are strongly encouraged to contact to prospective faculty prior to applying. Additionally, these applicants should mention their funding status in their personal statement.
 

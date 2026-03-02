@@ -3,7 +3,7 @@ author: Stephen-Hoover
 categories:
 - Graduates
 hidden: false
-image: /avatars/Rachel-St-Clair.jpeg
+image: avatars/Rachel-St-Clair.jpeg
 tags:
 - Graduates
 title: Congratulations to Dr. Rachel St. Clair, Ph.D.

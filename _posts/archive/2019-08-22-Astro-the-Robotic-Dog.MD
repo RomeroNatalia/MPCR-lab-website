@@ -1,7 +1,7 @@
 ---
 title:  Astro the Robot Dog
 author: Elan-Barenholtz
-image: /news-pictures/astro-1.jpg
+image: news-pictures/astro-1.jpg
 categories: Robotics
 tags: [robotics, robots]
 images:

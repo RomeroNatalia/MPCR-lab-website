@@ -3,7 +3,7 @@ author: Andrew-Fraieli
 categories:
 - Awards
 hidden: false
-image: /news-pictures/2016-FAU-UG-Research-Symposium.jpg
+image: news-pictures/2016-FAU-UG-Research-Symposium.jpg
 tags:
 - Q-Learning
 - Undergraduate

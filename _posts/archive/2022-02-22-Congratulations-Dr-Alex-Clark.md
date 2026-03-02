@@ -3,7 +3,7 @@ author: Stephen-Hoover
 categories:
 - Graduates
 hidden: false
-image: /avatars/Alex-Clark.png
+image: avatars/Alex-Clark.png
 tags:
 - Graduates
 title: Congratulations to Dr. Alex Clark, Ph.D.

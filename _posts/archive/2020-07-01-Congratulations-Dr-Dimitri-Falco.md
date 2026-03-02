@@ -3,7 +3,7 @@ author: Stephen-Hoover
 categories:
 - Graduates
 hidden: false
-image: /avatars/Dimitri-Falco.jpg
+image: avatars/Dimitri-Falco.jpg
 tags:
 - Graduates
 title: Congratulations to Dr. Dimitri Falco, Ph.D.

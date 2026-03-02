@@ -4,7 +4,7 @@ categories:
 - Outreach
 - Education
 hidden: false
-image: /news-pictures/2015-Oct-24-CCSBS-at-FAU-Expo.jpg
+image: news-pictures/2015-Oct-24-CCSBS-at-FAU-Expo.jpg
 tags: []
 title: Center students, faculty, and staff talking to high school students about the
   brain

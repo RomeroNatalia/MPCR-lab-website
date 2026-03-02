@@ -4,7 +4,7 @@ author: Rachel-St-Clair
 categories: # [Graduates]
 tags: # [Graduates]
 hidden: false # Hides from News Feed useful for direct links only
-image: /news-pictures/Presidential-Gala.jpg
+image: news-pictures/Presidential-Gala.jpg
 ---
 
 The 2019 Presidential Gala celebrated the announcement of a one million dollar gift to establish the Rubin and Cindy Gruber Sandbox in the FAU library. This 3,400 sq. foot space will house the MPCR lab and invite students, faculty and industry partners from every discipline to learn about and develop research in artificial intelligence and deep learning.

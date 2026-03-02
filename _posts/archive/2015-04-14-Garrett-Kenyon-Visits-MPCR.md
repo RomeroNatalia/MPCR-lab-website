@@ -2,7 +2,7 @@
 author: Andrew-Fraieli
 categories: null
 hidden: false
-image: /news-pictures/Garrett-Kenyon-Visits-MPCR.jpg
+image: news-pictures/Garrett-Kenyon-Visits-MPCR.jpg
 tags: []
 title: Neuroscientist Garrett Kenyon Visits the MPCR Lab at FAU
 ---

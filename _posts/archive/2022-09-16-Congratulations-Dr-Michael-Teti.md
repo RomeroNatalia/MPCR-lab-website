@@ -3,7 +3,7 @@ author: Stephen-Hoover
 categories:
 - Graduates
 hidden: false
-image: /avatars/Michael-Teti.jpg
+image: avatars/Michael-Teti.jpg
 tags:
 - Graduates
 title: Congratulations to Dr. Michael Teti, Ph.D.

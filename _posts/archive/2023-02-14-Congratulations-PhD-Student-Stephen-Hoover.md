@@ -3,7 +3,7 @@ author: William-E-Hahn
 categories:
 - Awards
 hidden: false
-image: /news-pictures/2021-Stephen-AGI.jpg
+image: news-pictures/2021-Stephen-AGI.jpg
 tags:
 - Awards
 title: Congratulations to Ph.D. student Stephen Hoover!
