@@ -1,0 +1,98 @@
+---
+layout: default
+---
+<div class="uk-container uk-container-small">
+    <article class="uk-article uk-margin-medium-bottom">
+        <h1 class="uk-article-title article-title-font uk-text-center uk-margin-medium-bottom">{{- page.title | escape -}}</h1>
+
+        {% if page.event or page.semester %}
+        <div class="uk-text-meta uk-text-center uk-margin-bottom">
+            {% if page.event %}{{ page.event }}{% endif %}
+            {% if page.event and page.semester %} · {% endif %}
+            {% if page.semester %}{{ page.semester }}{% endif %}
+            {% if page.year %} {{ page.year }}{% endif %}
+        </div>
+        {% endif %}
+
+        {% comment %} Authors {% endcomment %}
+        {% if page.authors and page.authors.size > 0 %}
+        <div class="uk-text-center uk-margin-bottom">
+            {% for author_slug in page.authors %}
+                {% assign found = false %}
+                {% for person in site.people %}
+                    {% if person.slug == author_slug or person.username == author_slug %}
+                        <a href="{{ person.url }}">{{ person.title | default: person.slug }}</a>{% unless forloop.last %}, {% endunless %}
+                        {% assign found = true %}
+                    {% endif %}
+                {% endfor %}
+                {% unless found %}{{ author_slug }}{% unless forloop.last %}, {% endunless %}{% endunless %}
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        {% comment %} Poster Image {% endcomment %}
+        {% if page.poster_image %}
+        <div class="uk-text-center uk-margin-medium-bottom">
+            <a href="{{ page.poster_image }}" target="_blank">
+                <img src="{{ page.poster_image }}" alt="{{ page.title | escape }}" class="uk-width-xlarge" style="cursor:zoom-in">
+            </a>
+        </div>
+        {% endif %}
+
+        {% comment %} Abstract {% endcomment %}
+        {% if page.abstract %}
+        <div class="uk-margin-medium-bottom">
+            <h3>Abstract</h3>
+            {{ page.abstract | markdownify }}
+        </div>
+        {% endif %}
+
+        {% comment %} Body content (also abstract from sync, or extra content) {% endcomment %}
+        {% if content and content != "" %}
+        <div class="content-primary">
+            {{ content }}
+        </div>
+        {% endif %}
+
+        {% comment %} Video Embed {% endcomment %}
+        {% if page.video_url %}
+        <div class="uk-margin-medium-bottom">
+            <h3>Video Walkthrough</h3>
+            <div class="uk-cover-container" style="max-width:100%">
+                <iframe src="{{ page.video_url }}" width="100%" height="450" frameborder="0" allowfullscreen data-uk-responsive></iframe>
+            </div>
+        </div>
+        {% endif %}
+
+        {% comment %} Action buttons {% endcomment %}
+        <div class="uk-flex uk-flex-center uk-margin-medium-top" data-uk-grid>
+            {% if page.pdf_url %}
+            <div>
+                <a href="{{ page.pdf_url }}" class="uk-button uk-button-default" target="_blank">
+                    <span data-uk-icon="icon: download"></span> Download PDF
+                </a>
+            </div>
+            {% endif %}
+            {% if page.project_slug %}
+                {% for proj in site.projects %}
+                    {% if proj.slug == page.project_slug %}
+                    <div>
+                        <a href="{{ proj.url }}" class="uk-button uk-button-primary">
+                            View Project
+                        </a>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        </div>
+
+        {% comment %} Tags {% endcomment %}
+        {% if page.tags and page.tags.size > 0 %}
+        <div class="uk-margin-medium-top uk-text-center">
+            {% for tag in page.tags %}
+            <span class="uk-label uk-margin-small-right">{{ tag }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </article>
+</div>

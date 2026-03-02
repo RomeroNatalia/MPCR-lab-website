@@ -102,6 +102,8 @@ collections:
     output: true
   projects:
     output: true
+  posters:
+    output: true
 
 # Defaults
 defaults:
@@ -138,6 +140,12 @@ defaults:
       type: projects
     values:
       layout: projects
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: poster
   # _category
   - scope:
       path: ""

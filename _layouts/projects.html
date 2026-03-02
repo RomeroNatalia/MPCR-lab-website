@@ -67,6 +67,71 @@ layout: default
     </article>
 </div>
 
+{% comment %} ── Model Card Section (tabbed, only if populated) ── {% endcomment %}
+{% if page.model_card %}
+{% assign mc = page.model_card %}
+{% assign has_mc = false %}
+{% if mc.architecture or mc.architecture_image or mc.data or mc.results or mc.limitations or mc.reproducibility_code or mc.reproducibility_env or mc.reproducibility_weights %}
+  {% assign has_mc = true %}
+{% endif %}
+
+{% if has_mc %}
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+  <hr class="uk-margin-remove-top">
+  <h2 class="section-title uk-text-center uk-margin">Model Card</h2>
+  <hr class="uk-margin-remove">
+
+  <ul class="uk-flex-center uk-margin" data-uk-tab>
+    {% if mc.architecture or mc.architecture_image %}<li><a href="#">Architecture</a></li>{% endif %}
+    {% if mc.data %}<li><a href="#">Data</a></li>{% endif %}
+    {% if mc.results %}<li><a href="#">Results</a></li>{% endif %}
+    {% if mc.limitations %}<li><a href="#">Limitations</a></li>{% endif %}
+    {% if mc.reproducibility_code or mc.reproducibility_env or mc.reproducibility_weights %}<li><a href="#">Reproducibility</a></li>{% endif %}
+    {% if page.updates and page.updates.size > 0 %}<li><a href="#">Changelog</a></li>{% endif %}
+  </ul>
+
+  <ul class="uk-switcher uk-margin">
+    {% if mc.architecture or mc.architecture_image %}
+    <li>
+      {% if mc.architecture_image %}<div class="uk-text-center uk-margin-bottom"><img src="{{ mc.architecture_image }}" alt="Architecture diagram" class="uk-width-large"></div>{% endif %}
+      {% if mc.architecture %}{{ mc.architecture | markdownify }}{% endif %}
+    </li>
+    {% endif %}
+    {% if mc.data %}
+    <li>{{ mc.data | markdownify }}</li>
+    {% endif %}
+    {% if mc.results %}
+    <li>{{ mc.results | markdownify }}</li>
+    {% endif %}
+    {% if mc.limitations %}
+    <li>{{ mc.limitations | markdownify }}</li>
+    {% endif %}
+    {% if mc.reproducibility_code or mc.reproducibility_env or mc.reproducibility_weights %}
+    <li>
+      {% if mc.reproducibility_code %}<p><strong>Code:</strong> <a href="{{ mc.reproducibility_code }}" target="_blank">{{ mc.reproducibility_code }}</a></p>{% endif %}
+      {% if mc.reproducibility_env %}<p><strong>Environment:</strong> {{ mc.reproducibility_env | markdownify }}</p>{% endif %}
+      {% if mc.reproducibility_weights %}<p><strong>Weights:</strong> <a href="{{ mc.reproducibility_weights }}" target="_blank">{{ mc.reproducibility_weights }}</a></p>{% endif %}
+    </li>
+    {% endif %}
+    {% if page.updates and page.updates.size > 0 %}
+    <li>
+      <ul class="uk-list uk-list-divider">
+        {% for update in page.updates %}
+        <li>
+          <strong>{{ update.date }}</strong>{% if update.author %} — {{ update.author }}{% endif %}
+          {% if update.phase_at_time %}<span class="uk-label">{{ update.phase_at_time }}</span>{% endif %}
+          <div>{{ update.content | markdownify }}</div>
+          {% if update.image %}<img src="{{ update.image }}" alt="Update image" class="uk-width-medium uk-margin-small-top">{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}
+{% endif %}
+
 {% comment %} ── Team Members Section ── {% endcomment %}
 {% assign all_members = page.members %}
 {% assign leader = page.project_leader %}

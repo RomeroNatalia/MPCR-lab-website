@@ -16,6 +16,11 @@ center:
 
   - title: Projects
     url: /projects/
+    dropdown:
+      - title: All Projects
+        url: /projects/
+      - title: Poster Gallery
+        url: /posters/
 
   - title: People
     url: /people/members
