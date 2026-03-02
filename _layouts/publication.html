@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<div class="uk-container uk-container-small">
+    <article class="uk-article uk-margin-medium-bottom">
+        <h1 class="uk-article-title article-title-font uk-text-center uk-margin-medium-bottom">{{- page.title | escape -}}</h1>
+
+        {% if page.year or page.venue %}
+        <div class="uk-text-meta uk-text-center uk-margin-bottom">
+            {% if page.year %}{{ page.year }}{% endif %}
+            {% if page.year and page.venue %} · {% endif %}
+            {% if page.venue %}{{ page.venue }}{% endif %}
+        </div>
+        {% endif %}
+
+        {% comment %} Authors {% endcomment %}
+        {% if page.author_slugs and page.author_slugs.size > 0 %}
+        <div class="uk-text-center uk-margin-bottom">
+            {% for author_slug in page.author_slugs %}
+                {% assign found = false %}
+                {% for person in site.people %}
+                    {% if person.slug == author_slug or person.username == author_slug %}
+                        <a href="{{ person.url }}">{{ person.title | default: person.slug }}</a>{% unless forloop.last %}, {% endunless %}
+                        {% assign found = true %}
+                    {% endif %}
+                {% endfor %}
+                {% unless found %}{{ author_slug }}{% unless forloop.last %}, {% endunless %}{% endunless %}
+            {% endfor %}
+        </div>
+        {% elsif page.authors and page.authors.size > 0 %}
+        <div class="uk-text-center uk-margin-bottom">
+            {{ page.authors | join: ", " }}
+        </div>
+        {% endif %}
+
+        {% comment %} Body content {% endcomment %}
+        {% if content and content != "" %}
+        <div class="content-primary">
+            {{ content }}
+        </div>
+        {% endif %}
+
+        {% comment %} DOI link {% endcomment %}
+        {% if page.doi and page.doi != "" %}
+        <div class="uk-flex uk-flex-center uk-margin-medium-top">
+            <a href="https://doi.org/{{ page.doi }}" class="uk-button uk-button-default" target="_blank">
+                <span data-uk-icon="icon: link"></span> DOI: {{ page.doi }}
+            </a>
+        </div>
+        {% endif %}
+    </article>
+</div>

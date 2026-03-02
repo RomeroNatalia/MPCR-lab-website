@@ -104,6 +104,8 @@ collections:
     output: true
   posters:
     output: true
+  publications:
+    output: true
 
 # Defaults
 defaults:
@@ -146,6 +148,12 @@ defaults:
       type: posters
     values:
       layout: poster
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
   # _category
   - scope:
       path: ""

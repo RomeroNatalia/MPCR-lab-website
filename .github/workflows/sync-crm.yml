@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
 
     steps:
       - uses: actions/checkout@v4
@@ -49,6 +50,7 @@ jobs:
           fetch_json projects.json _data/projects.json
           fetch_json news.json _data/news.json
           fetch_json publications.json _data/publications.json
+          fetch_json posters.json _data/posters.json
 
       - name: Sync CRM to Jekyll markdown
         run: |
@@ -64,6 +66,7 @@ jobs:
             cp _data/projects.json /tmp/crm-output/
             cp _data/news.json /tmp/crm-output/
             cp _data/publications.json /tmp/crm-output/
+            cp _data/posters.json /tmp/crm-output/
 
             python /tmp/mpcr-crm/scripts/sync_to_website.py . \
               --output-dir /tmp/crm-output
@@ -75,10 +78,23 @@ jobs:
         run: |
           git config user.name "MPCR CRM Bot"
           git config user.email "crm-bot@mpcrlab.com"
-          git add _data/ _people/ _projects/ _posts/
+          git add _data/ _people/ _projects/ _posts/ _posters/ _publications/
           if git diff --cached --quiet; then
             echo "No changes to sync"
           else
             git commit -m "Sync data from CRM $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `CRM Sync Failed — ${new Date().toISOString().slice(0,10)}`,
+              body: `Sync workflow failed. [View run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+              labels: ['sync-failure']
+            });
