@@ -16,7 +16,7 @@ images:
 - path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
 instagram: ''
 linkedin: ''
-redirect_to: https://hahn.ai/
+redirect_to: https://will.hahn.ai/
 room: ''
 staff: false
 student: false
@@ -25,7 +25,7 @@ twitter: ''
 username: William-E-Hahn
 video: https://www.youtube-nocookie.com/embed/2kyPou_FFn0
 vimeo: ''
-website: https://www.mpcrlab.com
+website: https://will.hahn.ai
 youtube: ''
 ---
 
@@ -54,7 +54,7 @@ Boca Raton, FL 33431-0991
 
 # Websites
 * [**The Dividing Engine: Technology - Science - History**](http://www.dividingengine.com/)
-* [**Personal Website**](https://hahn.ai/)
+* [**Personal Website**](https://will.hahn.ai/)
 * [**YouTube**]({{ page.youtube }})
 
 # Biography
