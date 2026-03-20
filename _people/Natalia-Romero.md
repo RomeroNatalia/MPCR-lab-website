@@ -13,7 +13,7 @@ contact: true
 faculty: true
 staff: true
 student: false
-director: true
+director: false
 fellow: false
 alumni: false
 instagram: ""
