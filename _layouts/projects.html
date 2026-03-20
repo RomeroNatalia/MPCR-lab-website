@@ -132,6 +132,27 @@ layout: default
 {% endif %}
 {% endif %}
 
+{% comment %} ── Activity Timeline (standalone, shown when no model card or always) ── {% endcomment %}
+{% if page.updates and page.updates.size > 0 %}
+{% unless has_mc %}
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+  <hr class="uk-margin-remove-top">
+  <h2 class="section-title uk-text-center uk-margin">Activity Log</h2>
+  <hr class="uk-margin-remove">
+  <ul class="uk-list uk-list-divider uk-margin">
+    {% for update in page.updates %}
+    <li>
+      <strong>{{ update.date }}</strong>{% if update.author %} — {{ update.author }}{% endif %}
+      {% if update.phase_at_time %}<span class="uk-label">{{ update.phase_at_time }}</span>{% endif %}
+      <div>{{ update.content | markdownify }}</div>
+      {% if update.image %}<img src="{{ update.image }}" alt="Update image" class="uk-width-medium uk-margin-small-top">{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endunless %}
+{% endif %}
+
 {% comment %} ── Publications linked to this project ── {% endcomment %}
 {% assign proj_pubs = "" | split: "" %}
 {% for pub in site.publications %}

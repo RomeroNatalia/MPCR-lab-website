@@ -13,6 +13,11 @@ center:
 
   - title: About
     url: /about/
+    dropdown:
+      - title: About MPCR
+        url: /about/
+      - title: Dashboard
+        url: /dashboard/
 
   - title: Projects
     url: /projects/
