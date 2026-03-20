@@ -1,10 +1,15 @@
 ---
-title: "Announcing the MPCR Digital Poster Gallery"
-image: ""
-categories: [news]
-tags: [posters, gallery, research, spring-2026]
+author: MPCR Lab
+categories:
+- news
 hidden: false
-author: "MPCR Lab"
+image: /uploads/news-pictures/2026-03-18-poster-gallery-launch.png
+tags:
+- posters
+- gallery
+- research
+- spring-2026
+title: Announcing the MPCR Digital Poster Gallery
 ---
 
 We are pleased to announce the launch of the **MPCR Digital Poster Gallery**, a new platform for lab members to showcase their research in a rich, accessible format. The gallery is now live on our website and open for submissions.

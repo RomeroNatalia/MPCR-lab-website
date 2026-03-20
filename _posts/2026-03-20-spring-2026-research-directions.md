@@ -1,10 +1,14 @@
 ---
-title: "Spring 2026 Research Directions at MPCR"
-image: ""
-categories: [news]
-tags: [research, spring-2026, projects]
+author: MPCR Lab
+categories:
+- news
 hidden: false
-author: "MPCR Lab"
+image: /uploads/news-pictures/2026-03-20-spring-2026-research-directions.png
+tags:
+- research
+- spring-2026
+- projects
+title: Spring 2026 Research Directions at MPCR
 ---
 
 The Machine Perception and Cognitive Robotics Laboratory enters Spring 2026 with an ambitious slate of research spanning the frontiers of natural computing and complex systems. With 20 active projects and 14 researchers working across disciplines, this is one of the most productive periods in the lab's history.

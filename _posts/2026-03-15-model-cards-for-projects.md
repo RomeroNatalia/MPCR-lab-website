@@ -1,10 +1,15 @@
 ---
-title: "Model Cards Now Available on Project Pages"
-image: ""
-categories: [news]
-tags: [model-cards, documentation, open-science, projects]
+author: MPCR Lab
+categories:
+- news
 hidden: false
-author: "MPCR Lab"
+image: /uploads/news-pictures/2026-03-15-model-cards-for-projects.png
+tags:
+- model-cards
+- documentation
+- open-science
+- projects
+title: Model Cards Now Available on Project Pages
 ---
 
 MPCR Lab project pages now support **Model Cards** -- structured documentation that provides a clear, standardized overview of each project's technical details. This addition reflects our commitment to transparency and reproducibility in research.

@@ -1,10 +1,15 @@
 ---
-title: "Welcome to Our Spring 2026 Lab Members"
-image: ""
-categories: [news]
-tags: [welcome, onboarding, spring-2026, members]
+author: MPCR Lab
+categories:
+- news
 hidden: false
-author: "MPCR Lab"
+image: /uploads/news-pictures/2026-03-12-welcome-new-members.png
+tags:
+- welcome
+- onboarding
+- spring-2026
+- members
+title: Welcome to Our Spring 2026 Lab Members
 ---
 
 The Machine Perception and Cognitive Robotics Laboratory is pleased to welcome new members joining us for Spring 2026. The lab continues to grow, and we are glad to have new researchers contributing to our work in complex systems and natural computing.

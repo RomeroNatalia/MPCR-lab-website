@@ -1,10 +1,15 @@
 ---
-title: "Lab Infrastructure Update: New Tools for MPCR"
-image: ""
-categories: [news]
-tags: [infrastructure, CRM, website, tools]
+author: MPCR Lab
+categories:
+- news
 hidden: false
-author: "MPCR Lab"
+image: /uploads/news-pictures/2026-03-08-lab-infrastructure-update.png
+tags:
+- infrastructure
+- CRM
+- website
+- tools
+title: 'Lab Infrastructure Update: New Tools for MPCR'
 ---
 
 Over the past several weeks, the MPCR Lab has rolled out a series of infrastructure improvements designed to make project management, member coordination, and public communication more efficient.
