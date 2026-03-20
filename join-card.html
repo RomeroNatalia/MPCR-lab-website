@@ -1,0 +1,84 @@
+---
+layout: null
+permalink: /join/card/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>MPCR Lab — Join Card</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Sans:wght@400;600&display=swap');
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  @page { size: letter; margin: 0.5in; }
+  body { font-family: 'IBM Plex Sans', sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; background: #f5f5f5; }
+  .card {
+    width: 4.25in; padding: 0.6in 0.5in; background: white;
+    border-radius: 0.15in; box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+    text-align: center; page-break-inside: avoid;
+  }
+  .logo { font-family: 'DM Serif Display', serif; font-size: 1.1rem; color: #0b3d69; letter-spacing: 0.05em; margin-bottom: 0.15in; }
+  .tagline { font-size: 0.7rem; color: #666; margin-bottom: 0.3in; }
+  .qr { margin: 0 auto 0.25in; }
+  .cta { font-size: 0.95rem; font-weight: 600; color: #0b3d69; margin-bottom: 0.1in; }
+  .url { font-size: 0.65rem; color: #888; margin-bottom: 0.2in; }
+  .footer { font-size: 0.6rem; color: #aaa; border-top: 1px solid #eee; padding-top: 0.15in; }
+  .print-grid { display: flex; flex-wrap: wrap; gap: 0.3in; justify-content: center; }
+  @media print {
+    body { background: white; }
+    .no-print { display: none; }
+    .card { box-shadow: none; border: 1px solid #ddd; }
+  }
+</style>
+</head>
+<body>
+<div>
+  <div class="no-print" style="text-align:center;margin-bottom:0.5in;">
+    <p style="font-size:1.1rem;margin-bottom:0.2in;">Print these cards and post them around the lab, at events, or hand them out.</p>
+    <button onclick="window.print()" style="padding:0.5rem 2rem;font-size:1rem;background:#0b3d69;color:white;border:none;border-radius:0.3rem;cursor:pointer;">Print Cards</button>
+  </div>
+  <div class="print-grid">
+    <div class="card">
+      <div class="logo">MPCR LAB</div>
+      <div class="tagline">Machine Perception and Cognitive Robotics Laboratory<br>Florida Atlantic University</div>
+      <div class="qr" id="qr1"></div>
+      <div class="cta">Join Our Lab</div>
+      <div class="url">mpcrlab.com/join</div>
+      <div class="footer">Scan the QR code to apply. We research complex systems, natural computing, AI, and more.</div>
+    </div>
+    <div class="card">
+      <div class="logo">MPCR LAB</div>
+      <div class="tagline">Machine Perception and Cognitive Robotics Laboratory<br>Florida Atlantic University</div>
+      <div class="qr" id="qr2"></div>
+      <div class="cta">Join Our Lab</div>
+      <div class="url">mpcrlab.com/join</div>
+      <div class="footer">Scan the QR code to apply. We research complex systems, natural computing, AI, and more.</div>
+    </div>
+    <div class="card">
+      <div class="logo">MPCR LAB</div>
+      <div class="tagline">Machine Perception and Cognitive Robotics Laboratory<br>Florida Atlantic University</div>
+      <div class="qr" id="qr3"></div>
+      <div class="cta">Join Our Lab</div>
+      <div class="url">mpcrlab.com/join</div>
+      <div class="footer">Scan the QR code to apply. We research complex systems, natural computing, AI, and more.</div>
+    </div>
+    <div class="card">
+      <div class="logo">MPCR LAB</div>
+      <div class="tagline">Machine Perception and Cognitive Robotics Laboratory<br>Florida Atlantic University</div>
+      <div class="qr" id="qr4"></div>
+      <div class="cta">Join Our Lab</div>
+      <div class="url">mpcrlab.com/join</div>
+      <div class="footer">Scan the QR code to apply. We research complex systems, natural computing, AI, and more.</div>
+    </div>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+<script>
+var opts = { text: "https://mpcrlab.com/join/", width: 150, height: 150, colorDark: "#0b3d69", colorLight: "#ffffff", correctLevel: QRCode.CorrectLevel.H };
+new QRCode(document.getElementById("qr1"), opts);
+new QRCode(document.getElementById("qr2"), opts);
+new QRCode(document.getElementById("qr3"), opts);
+new QRCode(document.getElementById("qr4"), opts);
+</script>
+</body>
+</html>
