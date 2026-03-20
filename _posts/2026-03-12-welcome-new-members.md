@@ -3,7 +3,7 @@ author: MPCR Lab
 categories:
 - news
 hidden: false
-image: /uploads/news-pictures/2026-03-12-welcome-new-members.png
+image: news-pictures/2026-03-12-welcome-new-members.png
 tags:
 - welcome
 - onboarding

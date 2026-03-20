@@ -3,7 +3,7 @@ author: MPCR Lab
 categories:
 - news
 hidden: false
-image: /uploads/news-pictures/2026-03-15-model-cards-for-projects.png
+image: news-pictures/2026-03-15-model-cards-for-projects.png
 tags:
 - model-cards
 - documentation
