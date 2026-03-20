@@ -14,7 +14,7 @@ faculty: true
 staff: true
 student: false
 director: true
-fellow: true
+fellow: false
 alumni: false
 instagram: ""
 linkedin: https://www.linkedin.com/in/romeronatalia/
