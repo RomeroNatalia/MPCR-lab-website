@@ -51,7 +51,7 @@ new QRCode(document.getElementById("qrcode"), {
   text: "https://mpcr-crm-fsbbxgfscq-uc.a.run.app/join",
   width: 200,
   height: 200,
-  colorDark: "#0b3d69",
+  colorDark: "#003366",
   colorLight: "#ffffff",
   correctLevel: QRCode.CorrectLevel.H
 });

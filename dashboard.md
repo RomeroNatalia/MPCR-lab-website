@@ -38,29 +38,29 @@ permalink: /dashboard/
   </div>
 
   <div>
-    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #0b3d69">
-      <h1 class="uk-heading-large uk-margin-remove" style="color:#0b3d69">{{ active_projects.size }}</h1>
+    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #003366">
+      <h1 class="uk-heading-large uk-margin-remove" style="color:#003366">{{ active_projects.size }}</h1>
       <p class="uk-margin-remove uk-text-small uk-text-muted">Active Projects</p>
     </div>
   </div>
 
   <div>
-    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #0b3d69">
-      <h1 class="uk-heading-large uk-margin-remove" style="color:#0b3d69">{{ pub_count }}</h1>
+    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #003366">
+      <h1 class="uk-heading-large uk-margin-remove" style="color:#003366">{{ pub_count }}</h1>
       <p class="uk-margin-remove uk-text-small uk-text-muted">Publications</p>
     </div>
   </div>
 
   <div>
-    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #0b3d69">
-      <h1 class="uk-heading-large uk-margin-remove" style="color:#0b3d69">{{ poster_count }}</h1>
+    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #003366">
+      <h1 class="uk-heading-large uk-margin-remove" style="color:#003366">{{ poster_count }}</h1>
       <p class="uk-margin-remove uk-text-small uk-text-muted">Posters</p>
     </div>
   </div>
 
   <div>
-    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #0b3d69">
-      <h1 class="uk-heading-large uk-margin-remove" style="color:#0b3d69">{{ faculty_members.size }}</h1>
+    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px; border-left:4px solid #003366">
+      <h1 class="uk-heading-large uk-margin-remove" style="color:#003366">{{ faculty_members.size }}</h1>
       <p class="uk-margin-remove uk-text-small uk-text-muted">Faculty</p>
     </div>
   </div>
@@ -196,7 +196,7 @@ permalink: /dashboard/
         {% assign tag_weight = "normal" %}
       {% endif %}
 
-      <span class="uk-label" style="font-size:{{ tag_size }}; font-weight:{{ tag_weight }}; background:#0b3d69; padding:6px 14px; border-radius:20px">{{ tag }}</span>
+      <span class="uk-label" style="font-size:{{ tag_size }}; font-weight:{{ tag_weight }}; background:#003366; padding:6px 14px; border-radius:20px">{{ tag }}</span>
     {% endfor %}
   </div>
   {% endif %}

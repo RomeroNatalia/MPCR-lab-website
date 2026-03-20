@@ -17,10 +17,10 @@ permalink: /join/card/
     border-radius: 0.15in; box-shadow: 0 2px 20px rgba(0,0,0,0.1);
     text-align: center; page-break-inside: avoid;
   }
-  .logo { font-family: 'DM Serif Display', serif; font-size: 1.1rem; color: #0b3d69; letter-spacing: 0.05em; margin-bottom: 0.15in; }
+  .logo { font-family: 'DM Serif Display', serif; font-size: 1.1rem; color: #003366; letter-spacing: 0.05em; margin-bottom: 0.15in; }
   .tagline { font-size: 0.7rem; color: #666; margin-bottom: 0.3in; }
   .qr { margin: 0 auto 0.25in; }
-  .cta { font-size: 0.95rem; font-weight: 600; color: #0b3d69; margin-bottom: 0.1in; }
+  .cta { font-size: 0.95rem; font-weight: 600; color: #003366; margin-bottom: 0.1in; }
   .url { font-size: 0.65rem; color: #888; margin-bottom: 0.2in; }
   .footer { font-size: 0.6rem; color: #aaa; border-top: 1px solid #eee; padding-top: 0.15in; }
   .print-grid { display: flex; flex-wrap: wrap; gap: 0.3in; justify-content: center; }
@@ -35,7 +35,7 @@ permalink: /join/card/
 <div>
   <div class="no-print" style="text-align:center;margin-bottom:0.5in;">
     <p style="font-size:1.1rem;margin-bottom:0.2in;">Print these cards and post them around the lab, at events, or hand them out.</p>
-    <button onclick="window.print()" style="padding:0.5rem 2rem;font-size:1rem;background:#0b3d69;color:white;border:none;border-radius:0.3rem;cursor:pointer;">Print Cards</button>
+    <button onclick="window.print()" style="padding:0.5rem 2rem;font-size:1rem;background:#003366;color:white;border:none;border-radius:0.3rem;cursor:pointer;">Print Cards</button>
   </div>
   <div class="print-grid">
     <div class="card">
@@ -74,7 +74,7 @@ permalink: /join/card/
 </div>
 <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 <script>
-var opts = { text: "https://mpcrlab.com/join/", width: 150, height: 150, colorDark: "#0b3d69", colorLight: "#ffffff", correctLevel: QRCode.CorrectLevel.H };
+var opts = { text: "https://mpcrlab.com/join/", width: 150, height: 150, colorDark: "#003366", colorLight: "#ffffff", correctLevel: QRCode.CorrectLevel.H };
 new QRCode(document.getElementById("qr1"), opts);
 new QRCode(document.getElementById("qr2"), opts);
 new QRCode(document.getElementById("qr3"), opts);

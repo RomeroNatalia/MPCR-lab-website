@@ -23,10 +23,14 @@ paginate_path:      "/news/page-:num/" # Blog path
 sitemap:            /sitemap.xml
 RSS:                /feed.xml
 
-Primary-Color-FAU-Blue:     \#0b3d69
-Secondary-Color-FAU-Red:    \#c52730
-Secondary-Color-FAU-Grey:   \#b0b1b3
-Secondary-Color-FAU-Black:  \#2c2e35
+Primary-Color-FAU-Blue:     \#003366
+Secondary-Color-FAU-Red:    \#CC0000
+Secondary-Color-FAU-Grey:   \#CCCCCC
+Secondary-Color-FAU-Dark-Gray: \#4D4C55
+FAU-Electric-Blue:          \#126BD9
+FAU-Stone:                  \#7A97AB
+FAU-Sky-Blue:               \#D9ECFF
+FAU-Sand:                   \#D4B98B
 
 donate:             /gifts/ # https://fauf.fau.edu/science/
 apply:              /degree-programs/
