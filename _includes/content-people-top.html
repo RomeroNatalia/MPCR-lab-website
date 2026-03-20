@@ -23,6 +23,7 @@
       {% endcomment %}
       <h3 class="card-title-xsmall article-title-font">
         <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
+        {% if person.fellow %}<span class="uk-badge" style="background:#0b3d69;font-size:0.65rem;vertical-align:middle;margin-left:0.3rem">MPCR Fellow</span>{% endif %}
       </h3>
       <div class="content-secondary">{{ person.bio }}</div>
       {% comment %}

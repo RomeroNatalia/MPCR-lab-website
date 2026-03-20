@@ -11,7 +11,10 @@ layout: default
               src="{{ page.image }}">
         </div>
         {% endif %}
-        <h1 class="uk-article-title article-title-font uk-text-center uk-margin-medium-bottom">{{- page.title | escape -}}</h1>
+        <h1 class="uk-article-title article-title-font uk-text-center uk-margin-medium-bottom">
+          {{- page.title | escape -}}
+          {% if page.fellow %}<div class="uk-margin-small-top"><span style="display:inline-block;background:linear-gradient(135deg,#0b3d69,#1d6fbf);color:#fff;padding:0.25rem 0.9rem;border-radius:2rem;font-size:0.85rem;font-weight:600;letter-spacing:0.05em;">MPCR Fellow</span></div>{% endif %}
+        </h1>
         {% if page.bio %}
             <div class="uk-text-lead uk-margin-medium-bottom">{{ page.bio }}</div>
         {% endif %}
