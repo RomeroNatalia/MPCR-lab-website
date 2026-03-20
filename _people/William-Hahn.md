@@ -1,7 +1,7 @@
 ---
 active: true
 alumni: false
-bio: Founder and Co-Principal Investigator (Co-PI) <br> Assistant Professor <br> Program
+bio: Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Program
   Director of the Future of Intelligence Initiative
 building: ''
 contact: false
@@ -16,7 +16,7 @@ images:
 - path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
 instagram: ''
 linkedin: ''
-redirect_to: https://will.hahn.ai/
+redirect_to: https://hahn.ai/
 room: ''
 staff: false
 student: false
@@ -25,7 +25,7 @@ twitter: ''
 username: William-E-Hahn
 video: https://www.youtube-nocookie.com/embed/2kyPou_FFn0
 vimeo: ''
-website: https://will.hahn.ai
+website: https://www.mpcrlab.com
 youtube: ''
 ---
 
@@ -54,11 +54,11 @@ Boca Raton, FL 33431-0991
 
 # Websites
 * [**The Dividing Engine: Technology - Science - History**](http://www.dividingengine.com/)
-* [**Personal Website**](https://will.hahn.ai/)
+* [**Personal Website**](https://hahn.ai/)
 * [**YouTube**]({{ page.youtube }})
 
 # Biography
-William Edward Hahn graduated from [Guilford College][1] in 2008 with research focus in ***neural networks/swarm optimization***. After Guilford, William studied ***artificial intelligence*** and ***immune systems*** at the University of North Carolina at Greensboro before joining the Center for Complex Systems and Brain Sciences at Florida Atlantic University in 2011. In 2016, he received a Ph.D. for his work in Sparse Coding and Compressed Sensing, and is now an Assistant Professor of Mathematics at Florida Atlantic University (FAU) and co-director of the [**Machine Perception and Cognitive Robotics Laboratory**][2] and the FAU AI Sandbox.
+William Edward Hahn graduated from [Guilford College][1] in 2008 with research focus in ***neural networks/swarm optimization***. After Guilford, William studied ***artificial intelligence*** and ***immune systems*** at the University of North Carolina at Greensboro before joining the Center for Complex Systems and Brain Sciences at Florida Atlantic University in 2011. In 2016, he received a Ph.D. for his work in Sparse Coding and Compressed Sensing, and is now an Associate Professor of Mathematics at Florida Atlantic University (FAU) and co-director of the [**Machine Perception and Cognitive Robotics Laboratory**][2] and the FAU AI Sandbox.
 
 # MPCR Lab Summer Short Course
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2kyPou_FFn0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

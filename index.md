@@ -14,42 +14,71 @@ images:
 
 {% include section-slideshow-cropped.html %}
 
+<div class="uk-container uk-margin-large">
 
-<div class="uk-container uk-margin-large uk-container uk-text-left">
-  <article class="uk-article">
-    <div class="content-primary">
+<!-- ── Mission Statement ── -->
+<div class="uk-text-center uk-margin-large-bottom">
+  <h1 class="article-title-font" style="font-size:2.2rem;margin-bottom:0.5rem;">Machine Perception and Cognitive Robotics</h1>
+  <p class="uk-text-lead" style="max-width:800px;margin:0 auto;">
+    We investigate the frontiers of natural computing and complex systems — from large language models and artificial life to swarm intelligence, quantum computing, and the foundations of computation itself.
+  </p>
+</div>
 
-{% capture my-include %}
-* * *
-<h2 class="section-title uk-text-center uk-margin">
-  Meet the Leaders of the MPCR
-</h2>
-
-* * *
-
-<div class="uk-container uk-margin-medium-bottom">
-  <div class="uk-child-width-1-3@s uk-child-width uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
-    {% if site.data.people %}
-      {% for person in site.data.people %}
-        {% if person.director %}
-          {% include content-people-top-data.html %}
-        {% endif %}
-      {% endfor %}
-    {% else %}
-      {% for person in site.people %}
-        {% if person.director %}
-          {% include content-people-top.html %}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+<!-- ── What We Do ── -->
+<div class="uk-child-width-1-3@m uk-grid-medium uk-margin-large-bottom" data-uk-grid>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #003366;">
+      <span data-uk-icon="icon:search;ratio:2" style="color:#003366"></span>
+      <h3 class="uk-card-title uk-margin-small-top">Research</h3>
+      <p class="uk-text-small">20 active projects spanning AI, robotics, natural computing, evolutionary dynamics, and programming language theory.</p>
+      <a href="/projects/" class="uk-button uk-button-text">View Projects</a>
+    </div>
+  </div>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #CC0000;">
+      <span data-uk-icon="icon:users;ratio:2" style="color:#CC0000"></span>
+      <h3 class="uk-card-title uk-margin-small-top">Community</h3>
+      <p class="uk-text-small">A collaborative lab of students, faculty, and researchers at all levels working together in the FAU Sandbox.</p>
+      <a href="/people/members" class="uk-button uk-button-text">Meet the Team</a>
+    </div>
+  </div>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #126BD9;">
+      <span data-uk-icon="icon:bolt;ratio:2" style="color:#126BD9"></span>
+      <h3 class="uk-card-title uk-margin-small-top">Join Us</h3>
+      <p class="uk-text-small">We welcome curious minds at any level — undergrad, masters, PhD, or postdoc. Apply in under 2 minutes.</p>
+      <a href="/join/" class="uk-button uk-button-text">Apply Now</a>
+    </div>
   </div>
 </div>
 
-{% endcapture %}
-{{ my-include | markdownify }}
+<!-- ── Research Areas ── -->
+<div class="uk-margin-large-bottom">
+  <h2 class="section-title uk-text-center uk-margin">Research Areas</h2>
+  <hr>
+  <div class="uk-text-center uk-margin">
+    {% assign all_tags = "" | split: "" %}
+    {% for project in site.projects %}
+      {% if project.active %}
+        {% for tag in project.tags %}
+          {% assign all_tags = all_tags | push: tag %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    {% assign unique_tags = all_tags | uniq | sort %}
+    {% for tag in unique_tags %}
+      <span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:6px 14px;border-radius:20px;font-size:0.8rem;">{{ tag }}</span>
+    {% endfor %}
+  </div>
+</div>
 
-    </div>
-  </article>
+<!-- ── Quick Join CTA ── -->
+<div class="uk-text-center uk-margin-large-bottom uk-padding" style="background:#D9ECFF;border-radius:12px;">
+  <h2 class="article-title-font" style="color:#003366;">Ready to join?</h2>
+  <p style="max-width:600px;margin:0 auto 1.5rem;">Fill out a short form and a lab director will review your application. We're looking for curious minds interested in complex systems and natural computing.</p>
+  <a href="/join/" class="uk-button uk-button-primary uk-button-large">Apply to MPCR Lab</a>
+</div>
+
 </div>
 
 {% include section-latest.html title="Latest News" limit="4" more="More News" %}
