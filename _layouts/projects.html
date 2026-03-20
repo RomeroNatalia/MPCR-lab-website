@@ -132,6 +132,61 @@ layout: default
 {% endif %}
 {% endif %}
 
+{% comment %} ── Publications linked to this project ── {% endcomment %}
+{% assign proj_pubs = "" | split: "" %}
+{% for pub in site.publications %}
+  {% if pub.project_slugs contains page.slug %}
+    {% assign proj_pubs = proj_pubs | push: pub %}
+  {% endif %}
+{% endfor %}
+{% if proj_pubs.size > 0 %}
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+  <hr class="uk-margin-remove-top">
+  <h2 class="section-title uk-text-center uk-margin">Publications</h2>
+  <hr class="uk-margin-remove">
+  <ul class="uk-list uk-list-divider uk-margin">
+    {% assign sorted_proj_pubs = proj_pubs | sort: "year" | reverse %}
+    {% for pub in sorted_proj_pubs %}
+    <li>
+      <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>
+      <div class="uk-text-meta">
+        {% if pub.authors %}{{ pub.authors | join: ", " }}{% endif %}
+        {% if pub.venue %} · <em>{{ pub.venue }}</em>{% endif %}
+        {% if pub.year %} ({{ pub.year }}){% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% comment %} ── Posters linked to this project ── {% endcomment %}
+{% assign proj_posters = "" | split: "" %}
+{% for poster in site.posters %}
+  {% if poster.project_slug == page.slug %}
+    {% assign proj_posters = proj_posters | push: poster %}
+  {% endif %}
+{% endfor %}
+{% if proj_posters.size > 0 %}
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+  <hr class="uk-margin-remove-top">
+  <h2 class="section-title uk-text-center uk-margin">Posters</h2>
+  <hr class="uk-margin-remove">
+  <div class="uk-child-width-1-2@m uk-grid-medium uk-margin" data-uk-grid>
+    {% for poster in proj_posters %}
+    <div>
+      <a href="{{ poster.url }}" class="uk-link-reset">
+        <div class="uk-card uk-card-default uk-card-hover uk-card-body uk-padding-small">
+          <h4 class="uk-card-title" style="font-size:1rem">{{ poster.title }}</h4>
+          {% if poster.event %}<p class="uk-text-meta uk-margin-remove-top">{{ poster.event }}{% if poster.semester %} · {{ poster.semester }}{% endif %}</p>{% endif %}
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 {% comment %} ── Team Members Section ── {% endcomment %}
 {% assign all_members = page.members %}
 {% assign leader = page.project_leader %}

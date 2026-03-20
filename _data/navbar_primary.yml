@@ -19,6 +19,8 @@ center:
     dropdown:
       - title: All Projects
         url: /projects/
+      - title: Publications
+        url: /publications/
       - title: Poster Gallery
         url: /posters/
 

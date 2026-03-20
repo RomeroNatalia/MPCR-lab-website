@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
-<div class="uk-container uk-container-small">
+<div class="uk-container uk-container-xsmall">
     <article class="uk-article uk-margin-medium-bottom">
         <h1 class="uk-article-title article-title-font uk-text-center uk-margin-medium-bottom">{{- page.title | escape -}}</h1>
 
         {% if page.year or page.venue %}
         <div class="uk-text-meta uk-text-center uk-margin-bottom">
-            {% if page.year %}{{ page.year }}{% endif %}
+            {% if page.venue %}<em>{{ page.venue }}</em>{% endif %}
             {% if page.year and page.venue %} · {% endif %}
-            {% if page.venue %}{{ page.venue }}{% endif %}
+            {% if page.year %}{{ page.year }}{% endif %}
+            {% if page.publication_type %} · {{ page.publication_type }}{% endif %}
         </div>
         {% endif %}
 
-        {% comment %} Authors {% endcomment %}
+        {% comment %} Authors (linked to people pages when possible) {% endcomment %}
         {% if page.author_slugs and page.author_slugs.size > 0 %}
         <div class="uk-text-center uk-margin-bottom">
             {% for author_slug in page.author_slugs %}
@@ -33,6 +34,41 @@ layout: default
         </div>
         {% endif %}
 
+        {% comment %} Action buttons {% endcomment %}
+        {% if page.doi or page.url or page.pdf_url %}
+        <div class="uk-flex uk-flex-center uk-margin-medium-bottom" data-uk-grid>
+            {% if page.doi %}
+            <div>
+                <a href="https://doi.org/{{ page.doi }}" class="uk-button uk-button-default uk-button-small" target="_blank">
+                    <span data-uk-icon="icon: link"></span> DOI
+                </a>
+            </div>
+            {% endif %}
+            {% if page.url %}
+            <div>
+                <a href="{{ page.url }}" class="uk-button uk-button-default uk-button-small" target="_blank">
+                    <span data-uk-icon="icon: world"></span> Link
+                </a>
+            </div>
+            {% endif %}
+            {% if page.pdf_url %}
+            <div>
+                <a href="{{ page.pdf_url }}" class="uk-button uk-button-primary uk-button-small" target="_blank">
+                    <span data-uk-icon="icon: download"></span> PDF
+                </a>
+            </div>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        {% comment %} Abstract {% endcomment %}
+        {% if page.abstract %}
+        <div class="uk-margin-medium-bottom">
+            <h3>Abstract</h3>
+            {{ page.abstract | markdownify }}
+        </div>
+        {% endif %}
+
         {% comment %} Body content {% endcomment %}
         {% if content and content != "" %}
         <div class="content-primary">
@@ -40,12 +76,27 @@ layout: default
         </div>
         {% endif %}
 
-        {% comment %} DOI link {% endcomment %}
-        {% if page.doi and page.doi != "" %}
-        <div class="uk-flex uk-flex-center uk-margin-medium-top">
-            <a href="https://doi.org/{{ page.doi }}" class="uk-button uk-button-default" target="_blank">
-                <span data-uk-icon="icon: link"></span> DOI: {{ page.doi }}
-            </a>
+        {% comment %} Related Projects {% endcomment %}
+        {% if page.project_slugs and page.project_slugs.size > 0 %}
+        <hr class="uk-margin-medium-top">
+        <h3>Related Projects</h3>
+        <ul class="uk-list uk-list-divider">
+          {% for proj_slug in page.project_slugs %}
+            {% for project in site.projects %}
+              {% if project.slug == proj_slug %}
+              <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% comment %} Tags {% endcomment %}
+        {% if page.tags and page.tags.size > 0 %}
+        <div class="uk-margin-medium-top uk-text-center">
+            {% for tag in page.tags %}
+            <span class="uk-label uk-margin-small-right">{{ tag }}</span>
+            {% endfor %}
         </div>
         {% endif %}
     </article>

@@ -2,49 +2,63 @@
 layout: null
 ---
 [
-  {% if site.data.people %}
-    {% for person in site.data.people %}
-      {% if person.active %}
-        {
-          "title"    : "{{ person.title | escape }}",
-          "tags"     : "{{ person.email }}",
-          "url"      : "{{ site.baseurl }}/people/{{ person.slug }}/"
-        } {% unless forloop.last %},{% endunless %}
-      {% endif %}
-    {% endfor %}
-  {% else %}
-    {% for person in site.people %}
-      {% if person.active %}
-        {
-          "title"    : "{{ person.title | escape }}",
-          "tags"     : "{{ person.email }}",
-          "url"      : "{{ site.baseurl }}{{ person.url }}"
-        } {% unless forloop.last %},{% endunless %}
-      {% endif %}
-    {% endfor %}
+  {% for person in site.people %}
+  {% if person.active %}
+  {
+    "title"    : {{ person.title | jsonify }},
+    "type"     : "person",
+    "tags"     : {{ person.bio | default: "" | strip_html | strip_newlines | jsonify }},
+    "url"      : "{{ site.baseurl }}{{ person.url }}"
+  },
   {% endif %}
-  
-  {% for page in site.pages %}
-   {
-     {% if page.title != nil %}
-        "title"    : "{{ page.title | escape }}",
-        "category" : "{{ page.category }}",
-        "tags"     : "{{ page.tags | join: ', ' }}",
-        "url"      : "{{ site.baseurl }}{{ page.url }}",
-        "date"     : "{{ page.date | date: "%B %-d %Y"}}"
-     {% endif %}
-   } {% unless forloop.last %},{% endunless %}
   {% endfor %}
-  ,
+
+  {% for project in site.projects %}
+  {% if project.active %}
+  {
+    "title"    : {{ project.title | jsonify }},
+    "type"     : "project",
+    "tags"     : {{ project.description | default: "" | strip_html | strip_newlines | jsonify }},
+    "url"      : "{{ site.baseurl }}{{ project.url }}"
+  },
+  {% endif %}
+  {% endfor %}
+
+  {% for pub in site.publications %}
+  {
+    "title"    : {{ pub.title | jsonify }},
+    "type"     : "publication",
+    "tags"     : "{{ pub.venue | default: '' }} {{ pub.year | default: '' }} {{ pub.authors | default: '' | join: ' ' }}",
+    "url"      : "{{ site.baseurl }}{{ pub.url }}"
+  },
+  {% endfor %}
+
+  {% for poster in site.posters %}
+  {
+    "title"    : {{ poster.title | jsonify }},
+    "type"     : "poster",
+    "tags"     : "{{ poster.event | default: '' }} {{ poster.semester | default: '' }}",
+    "url"      : "{{ site.baseurl }}{{ poster.url }}"
+  },
+  {% endfor %}
+
+  {% for page in site.pages %}
+  {% if page.title %}
+  {
+    "title"    : {{ page.title | jsonify }},
+    "type"     : "page",
+    "tags"     : "{{ page.tags | join: ', ' }}",
+    "url"      : "{{ site.baseurl }}{{ page.url }}"
+  },
+  {% endif %}
+  {% endfor %}
+
   {% for post in site.posts %}
-    {
-      {% if post.include_in_search %}
-        "title"    : "{{ post.title | escape }}",
-        "category" : "{{ post.category }}",
-        "tags"     : "{{ post.tags | join: ', ' }}",
-        "url"      : "{{ site.baseurl }}{{ post.url }}",
-        "date"     : "{{ post.date | date: "%B %-d %Y"}}"
-      {% endif %}
-    } {% unless forloop.last %},{% endunless %}
+  {
+    "title"    : {{ post.title | jsonify }},
+    "type"     : "post",
+    "tags"     : "{{ post.categories | join: ', ' }} {{ post.tags | join: ', ' }}",
+    "url"      : "{{ site.baseurl }}{{ post.url }}"
+  }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

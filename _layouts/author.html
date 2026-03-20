@@ -93,6 +93,53 @@ layout: default
         </ul>
         {% endif %}
 
+        {% comment %} ── Publications this person authored ── {% endcomment %}
+        {% assign my_pubs = "" | split: "" %}
+        {% for pub in site.publications %}
+          {% if pub.author_slugs contains page.slug or pub.author_slugs contains page.username %}
+            {% assign my_pubs = my_pubs | push: pub %}
+          {% endif %}
+        {% endfor %}
+        {% if my_pubs.size > 0 %}
+        <hr class="uk-margin-medium-top">
+        <h2 class="section-title uk-margin">Publications</h2>
+        <ul class="uk-list uk-list-divider">
+          {% assign sorted_pubs = my_pubs | sort: "year" | reverse %}
+          {% for pub in sorted_pubs %}
+          <li>
+            <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>
+            <div class="uk-text-meta">
+              {% if pub.venue %}<em>{{ pub.venue }}</em>{% endif %}
+              {% if pub.year %} ({{ pub.year }}){% endif %}
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% comment %} ── Posters this person is on ── {% endcomment %}
+        {% assign my_posters = "" | split: "" %}
+        {% for poster in site.posters %}
+          {% if poster.authors contains page.slug or poster.authors contains page.username %}
+            {% assign my_posters = my_posters | push: poster %}
+          {% endif %}
+        {% endfor %}
+        {% if my_posters.size > 0 %}
+        <hr class="uk-margin-medium-top">
+        <h2 class="section-title uk-margin">Posters</h2>
+        <ul class="uk-list uk-list-divider">
+          {% for poster in my_posters %}
+          <li>
+            <a href="{{ poster.url | relative_url }}">{{ poster.title }}</a>
+            <div class="uk-text-meta">
+              {% if poster.event %}{{ poster.event }}{% endif %}
+              {% if poster.semester %} · {{ poster.semester }}{% endif %}
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
     </article>
 </div>
 
