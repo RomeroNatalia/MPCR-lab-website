@@ -13,7 +13,7 @@ image: /uploads/avatars/Susan-Schneider.jpg
 images:
 - path: /uploads/news-pictures/2023-Sandbox-Leadership-at-Grand-Opening.JPG
 instagram: ''
-linkedin: ''
+linkedin: https://www.linkedin.com/in/susan-schneider-29b972ab/
 redirect_to: https://schneiderwebsite.com
 room: Room 283
 staff: true

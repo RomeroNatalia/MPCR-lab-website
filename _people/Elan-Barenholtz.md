@@ -15,15 +15,15 @@ images:
 - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
 - path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
 instagram: ''
-linkedin: ''
+linkedin: https://www.linkedin.com/in/elan-barenholtz/
 room: Room 212
 staff: false
 student: false
 title: Elan Barenholtz, Ph.D.
-twitter: ''
+twitter: https://x.com/ebarenholtz
 username: Elan-Barenholtz
 vimeo: ''
-website: https://barenholtz.ai
+website: https://elanbarenholtz.substack.com
 youtube: ''
 ---
 

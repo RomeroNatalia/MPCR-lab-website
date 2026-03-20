@@ -8,7 +8,7 @@ contact: false
 director: true
 email: ''
 faculty: true
-github: ''
+github: https://github.com/williamedwardhahn
 image: /uploads/avatars/William-Hahn.JPG
 images:
 - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
@@ -21,12 +21,12 @@ room: ''
 staff: false
 student: false
 title: William Edward Hahn, Ph.D.
-twitter: ''
+twitter: https://x.com/will_hahn
 username: William-E-Hahn
 video: https://www.youtube-nocookie.com/embed/2kyPou_FFn0
 vimeo: ''
 website: https://www.mpcrlab.com
-youtube: ''
+youtube: https://www.youtube.com/williamedwardhahn
 ---
 
 # Contact Information
