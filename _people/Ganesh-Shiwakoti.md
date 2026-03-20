@@ -8,7 +8,7 @@ director: false
 email: gshiwakoti2022@fau.edu
 faculty: false
 github: ''
-image: ''
+image: /uploads/avatars/Ganesh-Shiwakoti.jpg
 instagram: ''
 linkedin: ''
 project_slugs:
