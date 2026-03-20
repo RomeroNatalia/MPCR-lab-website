@@ -28,6 +28,8 @@ center:
         url: /publications/
       - title: Poster Gallery
         url: /posters/
+      - title: Poster Templates
+        url: /poster-templates/
 
   - title: People
     url: /people/members

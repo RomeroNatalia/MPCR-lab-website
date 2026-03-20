@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | escape }}</title>
+  <style>
+    /* =============================================
+       FAU / MPCR Research Poster Template
+       Designed for 48x36in (horizontal) or 36x48in (vertical)
+       ============================================= */
+
+    /* --- FAU Official Colors --- */
+    :root {
+      --fau-blue: #003366;
+      --fau-red: #CC0000;
+      --fau-dark-gray: #4D4C55;
+      --fau-electric-blue: #126BD9;
+      --fau-stone: #7A97AB;
+      --fau-sky-blue: #D9ECFF;
+      --fau-sand: #D4B98B;
+      --poster-bg: #FFFFFF;
+      --section-bg: #FAFBFD;
+      --border-color: #E0E4E8;
+    }
+
+    /* --- Reset & Base --- */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    @page {
+      size: {% if page.orientation == 'vertical' %}36in 48in{% else %}48in 36in{% endif %};
+      margin: 0;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      background: #f0f0f0;
+      font-family: 'Helvetica Neue', 'Arial', 'Liberation Sans', sans-serif;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    /* --- Poster Container --- */
+    .poster {
+      {% if page.orientation == 'vertical' %}
+      width: 36in;
+      min-height: 48in;
+      {% else %}
+      width: 48in;
+      min-height: 36in;
+      {% endif %}
+      margin: 0 auto;
+      background: var(--poster-bg);
+      position: relative;
+      overflow: hidden;
+      border: 3px solid var(--fau-blue);
+    }
+
+    /* --- Header --- */
+    .poster-header {
+      background: var(--fau-blue);
+      color: #FFFFFF;
+      padding: 0.6in 0.8in;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5in;
+      border-bottom: 0.12in solid var(--fau-red);
+    }
+
+    .poster-header-text {
+      flex: 1;
+    }
+
+    .poster-title {
+      font-family: 'Georgia', 'Times New Roman', 'Liberation Serif', serif;
+      font-size: 72pt;
+      font-weight: 700;
+      line-height: 1.15;
+      margin-bottom: 0.2in;
+      letter-spacing: -0.5pt;
+    }
+
+    .poster-presenters {
+      font-size: 32pt;
+      font-weight: 400;
+      line-height: 1.4;
+      opacity: 0.95;
+    }
+
+    .poster-presenters .presenter-name {
+      font-weight: 600;
+    }
+
+    .poster-affiliation {
+      font-size: 24pt;
+      margin-top: 0.12in;
+      opacity: 0.85;
+      font-style: italic;
+    }
+
+    .poster-header-logos {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.3in;
+      flex-shrink: 0;
+    }
+
+    .poster-header-logos img {
+      max-height: 2in;
+      max-width: 3in;
+      object-fit: contain;
+    }
+
+    .poster-header-logos .logo-mpcr {
+      filter: brightness(0) invert(1);
+    }
+
+    /* --- Body Grid --- */
+    .poster-body {
+      {% if page.orientation == 'vertical' %}
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.4in;
+      padding: 0.5in 0.6in;
+      {% else %}
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 0.4in;
+      padding: 0.5in 0.6in;
+      {% endif %}
+      align-content: start;
+    }
+
+    /* --- Sections --- */
+    .poster-section {
+      background: var(--section-bg);
+      border: 2px solid var(--border-color);
+      border-radius: 0.08in;
+      overflow: hidden;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .poster-section-header {
+      background: var(--fau-blue);
+      color: #FFFFFF;
+      padding: 0.15in 0.3in;
+      font-family: 'Georgia', 'Times New Roman', 'Liberation Serif', serif;
+      font-size: 32pt;
+      font-weight: 700;
+      letter-spacing: 0.5pt;
+    }
+
+    .poster-section-header.accent-red {
+      background: var(--fau-red);
+    }
+
+    .poster-section-header.accent-electric {
+      background: var(--fau-electric-blue);
+    }
+
+    .poster-section-header.accent-stone {
+      background: var(--fau-stone);
+    }
+
+    .poster-section-header.accent-dark {
+      background: var(--fau-dark-gray);
+    }
+
+    .poster-section-body {
+      padding: 0.3in;
+      font-size: 22pt;
+      line-height: 1.55;
+      color: #1a1a1a;
+    }
+
+    .poster-section-body p {
+      margin-bottom: 0.18in;
+    }
+
+    .poster-section-body p:last-child {
+      margin-bottom: 0;
+    }
+
+    .poster-section-body ul, .poster-section-body ol {
+      margin-left: 0.4in;
+      margin-bottom: 0.18in;
+    }
+
+    .poster-section-body li {
+      margin-bottom: 0.08in;
+    }
+
+    .poster-section-body strong {
+      color: var(--fau-blue);
+    }
+
+    .poster-section-body em {
+      color: var(--fau-dark-gray);
+    }
+
+    .poster-section-body h4 {
+      font-family: 'Georgia', 'Times New Roman', 'Liberation Serif', serif;
+      font-size: 26pt;
+      color: var(--fau-blue);
+      margin-bottom: 0.1in;
+      margin-top: 0.15in;
+    }
+
+    .poster-section-body h4:first-child {
+      margin-top: 0;
+    }
+
+    /* --- Section spanning full width --- */
+    .poster-section.full-width {
+      {% if page.orientation == 'vertical' %}
+      grid-column: 1 / -1;
+      {% else %}
+      grid-column: 1 / -1;
+      {% endif %}
+    }
+
+    /* --- Images --- */
+    .poster-images {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .poster-figure {
+      margin-bottom: 0.25in;
+      text-align: center;
+    }
+
+    .poster-figure:last-child {
+      margin-bottom: 0;
+    }
+
+    .poster-figure img {
+      max-width: 100%;
+      height: auto;
+      border: 2px solid var(--border-color);
+      border-radius: 0.05in;
+    }
+
+    .poster-figure-placeholder {
+      width: 100%;
+      min-height: 3in;
+      background: var(--fau-sky-blue);
+      border: 3px dashed var(--fau-stone);
+      border-radius: 0.05in;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--fau-blue);
+      font-size: 22pt;
+      font-style: italic;
+    }
+
+    .poster-figure figcaption {
+      font-size: 18pt;
+      color: var(--fau-dark-gray);
+      margin-top: 0.08in;
+      font-style: italic;
+      line-height: 1.35;
+    }
+
+    /* --- References --- */
+    .poster-references {
+      font-size: 16pt;
+      line-height: 1.45;
+      color: var(--fau-dark-gray);
+    }
+
+    .poster-references ol {
+      margin-left: 0.35in;
+    }
+
+    .poster-references li {
+      margin-bottom: 0.06in;
+    }
+
+    /* --- Footer --- */
+    .poster-footer {
+      background: var(--fau-blue);
+      color: #FFFFFF;
+      padding: 0.2in 0.8in;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 18pt;
+      border-top: 0.06in solid var(--fau-red);
+    }
+
+    .poster-footer a {
+      color: var(--fau-sky-blue);
+      text-decoration: none;
+    }
+
+    .poster-footer-contact {
+      display: flex;
+      gap: 0.6in;
+      align-items: center;
+    }
+
+    .poster-qr {
+      text-align: center;
+    }
+
+    .poster-qr img {
+      width: 1.5in;
+      height: 1.5in;
+      background: #fff;
+      padding: 0.08in;
+      border-radius: 0.05in;
+    }
+
+    .poster-qr-placeholder {
+      width: 1.5in;
+      height: 1.5in;
+      background: #FFFFFF;
+      border-radius: 0.05in;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12pt;
+      color: var(--fau-blue);
+      text-align: center;
+      padding: 0.1in;
+    }
+
+    .poster-qr span {
+      display: block;
+      margin-top: 0.05in;
+      font-size: 14pt;
+      opacity: 0.8;
+    }
+
+    /* --- Acknowledgments bar --- */
+    .poster-acknowledgments {
+      background: var(--fau-sand);
+      color: var(--fau-dark-gray);
+      padding: 0.15in 0.6in;
+      font-size: 18pt;
+      line-height: 1.4;
+      text-align: center;
+    }
+
+    /* --- Screen utilities --- */
+    .poster-toolbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: var(--fau-dark-gray);
+      color: #fff;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 9999;
+      font-family: sans-serif;
+      font-size: 14px;
+    }
+
+    .poster-toolbar button {
+      background: var(--fau-blue);
+      color: #fff;
+      border: none;
+      padding: 8px 18px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-left: 10px;
+    }
+
+    .poster-toolbar button:hover {
+      background: var(--fau-electric-blue);
+    }
+
+    .poster-toolbar a {
+      color: var(--fau-sky-blue);
+      text-decoration: none;
+    }
+
+    .poster-wrapper {
+      padding-top: 50px;
+    }
+
+    /* --- Print styles --- */
+    @media print {
+      html, body {
+        background: #fff;
+        margin: 0;
+        padding: 0;
+      }
+
+      .poster-toolbar {
+        display: none !important;
+      }
+
+      .poster-wrapper {
+        padding-top: 0;
+      }
+
+      .poster {
+        margin: 0;
+        border: none;
+        box-shadow: none;
+      }
+    }
+
+    /* --- Screen scaling for preview --- */
+    @media screen {
+      .poster {
+        box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+        margin-bottom: 40px;
+        transform-origin: top center;
+      }
+    }
+
+    /* --- Responsive scaling on small screens --- */
+    @media screen and (max-width: 1400px) {
+      .poster {
+        transform: scale(0.25);
+        transform-origin: top left;
+        margin-bottom: -70%;
+      }
+    }
+
+    @media screen and (min-width: 1401px) and (max-width: 2400px) {
+      .poster {
+        transform: scale(0.35);
+        transform-origin: top left;
+        margin-bottom: -60%;
+      }
+    }
+
+    @media screen and (min-width: 2401px) {
+      .poster {
+        transform: scale(0.5);
+        transform-origin: top center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Screen-only toolbar -->
+  <div class="poster-toolbar">
+    <div>
+      <strong>MPCR Poster Preview</strong> &mdash; {{ page.title | escape }}
+      {% if page.project_url %}
+        | <a href="{{ page.project_url }}">View Project</a>
+      {% endif %}
+    </div>
+    <div>
+      <button onclick="window.print()">Print / Save PDF</button>
+      <button onclick="window.history.back()">Back</button>
+    </div>
+  </div>
+
+  <div class="poster-wrapper">
+    <div class="poster">
+
+      <!-- ======== HEADER ======== -->
+      <div class="poster-header">
+        <div class="poster-header-text">
+          <div class="poster-title">{{ page.title | escape }}</div>
+          {% if page.presenters %}
+          <div class="poster-presenters">
+            {% for p in page.presenters %}
+              <span class="presenter-name">{{ p.name }}</span>{% if p.affiliation %}<sup>{{ p.affiliation }}</sup>{% endif %}{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+          </div>
+          {% endif %}
+          {% if page.advisor %}
+          <div class="poster-presenters" style="margin-top:0.08in;">
+            Advisor: <span class="presenter-name">{{ page.advisor }}</span>
+          </div>
+          {% endif %}
+          <div class="poster-affiliation">
+            {{ page.department | default: "Machine Perception and Cognitive Robotics Laboratory" }} &mdash; {{ page.institution | default: "Florida Atlantic University, Boca Raton, FL" }}
+          </div>
+        </div>
+        <div class="poster-header-logos">
+          {% if page.logo %}
+          <img src="{{ page.logo }}" alt="Logo">
+          {% else %}
+          <img src="/uploads/logos/MPCR-White.svg" alt="MPCR Lab" style="max-height:2in;">
+          {% endif %}
+        </div>
+      </div>
+
+      <!-- ======== BODY ======== -->
+      <div class="poster-body">
+
+        {% assign section_colors = ",,accent-electric,,accent-red,accent-dark,accent-stone," | split: "," %}
+
+        {% for section in page.sections %}
+        <div class="poster-section{% if section.full_width %} full-width{% endif %}">
+          <div class="poster-section-header {% if section.accent %}{{ section.accent }}{% else %}{{ section_colors[forloop.index0] }}{% endif %}">
+            {{ section.title }}
+          </div>
+          <div class="poster-section-body{% if section.references %} poster-references{% endif %}">
+            {{ section.content | markdownify }}
+
+            {% if section.image %}
+            <figure class="poster-figure">
+              <img src="{{ section.image }}" alt="{{ section.image_caption | default: section.title }}">
+              {% if section.image_caption %}
+              <figcaption>{{ section.image_caption }}</figcaption>
+              {% endif %}
+            </figure>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+
+        {% comment %} Standalone images section {% endcomment %}
+        {% if page.images %}
+        {% for img in page.images %}
+        <div class="poster-section poster-images">
+          <div class="poster-section-header accent-stone">
+            {{ img.title | default: "Figure" }}
+          </div>
+          <div class="poster-section-body">
+            <figure class="poster-figure">
+              {% if img.src %}
+              <img src="{{ img.src }}" alt="{{ img.caption | default: 'Figure' }}">
+              {% else %}
+              <div class="poster-figure-placeholder">
+                {{ img.placeholder | default: "Insert figure here" }}
+              </div>
+              {% endif %}
+              {% if img.caption %}
+              <figcaption>{{ img.caption }}</figcaption>
+              {% endif %}
+            </figure>
+          </div>
+        </div>
+        {% endfor %}
+        {% endif %}
+
+      </div>
+
+      <!-- ======== ACKNOWLEDGMENTS ======== -->
+      {% if page.acknowledgments %}
+      <div class="poster-acknowledgments">
+        <strong>Acknowledgments:</strong> {{ page.acknowledgments }}
+      </div>
+      {% endif %}
+
+      <!-- ======== FOOTER ======== -->
+      <div class="poster-footer">
+        <div class="poster-footer-contact">
+          <div>
+            <strong>{{ page.department | default: "Machine Perception and Cognitive Robotics Laboratory" }}</strong><br>
+            {{ page.institution | default: "Florida Atlantic University" }} &bull;
+            {{ page.contact_email | default: "mpcrlab@fau.edu" }} &bull;
+            <a href="https://mpcrlab.com">mpcrlab.com</a>
+          </div>
+        </div>
+        <div class="poster-qr">
+          {% if page.qr_code %}
+          <img src="{{ page.qr_code }}" alt="QR Code">
+          {% else %}
+          <div class="poster-qr-placeholder">
+            QR Code<br>(project link)
+          </div>
+          {% endif %}
+          {% if page.project_url %}
+          <span>{{ page.project_url }}</span>
+          {% endif %}
+        </div>
+      </div>
+
+    </div><!-- /.poster -->
+  </div><!-- /.poster-wrapper -->
+
+  <script>
+    // Auto-scale poster to fit screen width on load
+    (function() {
+      function scalePoster() {
+        var poster = document.querySelector('.poster');
+        if (!poster || window.matchMedia('print').matches) return;
+        // Remove CSS transforms so we can measure natural width
+        poster.style.transform = 'none';
+        poster.style.marginBottom = '0';
+        var posterWidth = poster.offsetWidth;
+        var viewportWidth = window.innerWidth - 40; // 20px padding each side
+        if (posterWidth > viewportWidth) {
+          var scale = viewportWidth / posterWidth;
+          poster.style.transform = 'scale(' + scale + ')';
+          poster.style.transformOrigin = 'top left';
+          poster.style.marginBottom = '-' + ((1 - scale) * poster.offsetHeight) + 'px';
+        }
+      }
+      window.addEventListener('load', scalePoster);
+      window.addEventListener('resize', scalePoster);
+    })();
+  </script>
+
+</body>
+</html>
