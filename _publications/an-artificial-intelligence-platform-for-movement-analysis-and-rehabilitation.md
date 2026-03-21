@@ -11,6 +11,7 @@ authors:
 - E Barenholtz
 publication_type: journal
 title: An artificial intelligence platform for movement analysis and rehabilitation
+url: https://scholar.google.com/scholar?q=An+artificial+intelligence+platform+for+movement+analysis+and+rehabilitation
 venue: Physiotherapy
 year: 2022
 ---

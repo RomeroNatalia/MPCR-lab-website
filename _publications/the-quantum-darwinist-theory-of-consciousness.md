@@ -6,5 +6,6 @@ authors:
 - M Bailey
 publication_type: journal
 title: The Quantum Darwinist Theory of Consciousness
+url: https://scholar.google.com/scholar?q=The+Quantum+Darwinist+Theory+of+Consciousness
 year: 2025
 ---
