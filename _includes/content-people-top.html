@@ -7,10 +7,9 @@
                class="img-rounded img-responsive"
                src="{{ person.image }}"
                alt="{{ person.title }}"
-               {% comment %}
-                width="270"
-                height="360"
-               {% endcomment %}
+               loading="lazy"
+               width="270"
+               height="270"
                >
       </a>
       {% endif %}
