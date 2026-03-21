@@ -13,7 +13,7 @@ members: []
 collaborators: []
 email: ""
 website: https://www.dwavequantum.com/solutions-and-products/systems/
-github: ""
+github: https://github.com/williamedwardhahn/dwave26
 linkedin: ""
 twitter: ""
 instagram: ""
