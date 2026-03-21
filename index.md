@@ -57,14 +57,14 @@ images:
   <h2 class="section-title uk-text-center uk-margin">Research Areas</h2>
   <hr>
   <div class="uk-text-center uk-margin">
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Large Language Models</span></a>
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Artificial Life</span></a>
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#CC0000;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Unconventional Computing</span></a>
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Swarm Intelligence</span></a>
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#126BD9;padding:8px 18px;border-radius:20px;font-size:0.9rem;">AI Safety</span></a>
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Computer Vision</span></a>
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#CC0000;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Cognitive Science</span></a>
-    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#126BD9;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Edge Computing</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">Large Language Models</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">Artificial Life</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">Unconventional Computing</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">Swarm Intelligence</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">AI Safety</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">Computer Vision</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">Cognitive Science</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#D4B98B;color:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;font-weight:600;">Edge Computing</span></a>
   </div>
 </div>
 
