@@ -37,7 +37,7 @@ center:
       - title: Active Members
         url: /people/members
       - title: Lab Alumni
-        url: /people/former-members/
+        url: /people/members#alumni
 
   # - title: Events
   #   dropdown:
