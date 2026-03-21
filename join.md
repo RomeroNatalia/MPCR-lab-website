@@ -40,6 +40,7 @@ Scan the QR code or fill out the form below to express your interest in joining 
   <li>Curiosity about complex systems, natural computing, or AI</li>
   <li>Willingness to learn and collaborate</li>
   <li>Students at any level: undergraduate, masters, PhD, or postdoc</li>
+  <li><strong>Alumni:</strong> former MPCR Lab members can register to rejoin the network</li>
 </ul>
 </div>
 
