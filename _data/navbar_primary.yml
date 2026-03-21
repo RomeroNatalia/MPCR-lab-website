@@ -18,6 +18,8 @@ center:
         url: /about/
       - title: Dashboard
         url: /dashboard/
+      - title: Admin
+        url: /admin/
 
   - title: Projects
     url: /projects/
