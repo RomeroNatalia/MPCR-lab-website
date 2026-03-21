@@ -9,7 +9,7 @@ email: nromero@fau.edu
 faculty: true
 fellow: false
 github: https://github.com/romeronatalia
-image: /uploads/avatars/Natalia-Romero.png
+image: /uploads/avatars/Natalia-Romero.jpg
 instagram: ''
 linkedin: https://www.linkedin.com/in/romeronatalia/
 project_slugs:
