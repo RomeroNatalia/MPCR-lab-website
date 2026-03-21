@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- development
+- sustainable AI
+- green computing
+- energy efficiency
 title: Solarpunk and Green AI
 twitter: ''
 vimeo: ''

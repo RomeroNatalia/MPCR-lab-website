@@ -18,7 +18,10 @@ linkedin: ''
 members: []
 project_leader: ''
 room: Sandbox
-tags: []
+tags:
+- AI safety
+- adversarial ML
+- security
 title: AI Alignment
 twitter: ''
 vimeo: ''

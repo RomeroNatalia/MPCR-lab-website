@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- hyperdimensional computing
+- neural encoding
+- cognitive architectures
 title: Hyperdimensional Computing
 twitter: ''
 vimeo: ''

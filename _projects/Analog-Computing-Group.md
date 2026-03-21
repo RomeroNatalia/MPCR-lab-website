@@ -15,7 +15,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- analog computing
+- unconventional computing
+- hardware
 title: Analog Computing Group
 twitter: ''
 vimeo: ''

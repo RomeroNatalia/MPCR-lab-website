@@ -15,7 +15,9 @@ members: []
 project_leader: Ganesh-Shiwakoti
 room: ''
 tags:
-- development
+- model compression
+- edge computing
+- neural networks
 title: Compressed Inference
 twitter: ''
 vimeo: ''

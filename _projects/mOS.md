@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- development
+- operating systems
+- minimal computing
+- systems programming
 title: mOS
 twitter: ''
 vimeo: ''

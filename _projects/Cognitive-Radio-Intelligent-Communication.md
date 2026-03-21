@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- development
+- signal processing
+- cognitive radio
+- wireless systems
 title: 'Cognitive Radio: Intelligent Communication'
 twitter: ''
 vimeo: ''

@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- cellular automata
+- neural networks
+- self-organization
 title: Neural Cellular Automata
 twitter: ''
 vimeo: ''

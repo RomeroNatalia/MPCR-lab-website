@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- development
+- cellular automata
+- artificial life
+- emergent computation
 title: Wireworld
 twitter: ''
 vimeo: ''

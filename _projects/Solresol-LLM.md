@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- constructed languages
+- LLMs
+- linguistic AI
 title: Solresol LLM
 twitter: ''
 vimeo: ''

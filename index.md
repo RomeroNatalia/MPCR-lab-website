@@ -67,7 +67,7 @@ images:
     {% endfor %}
     {% assign unique_tags = all_tags | uniq | sort %}
     {% for tag in unique_tags %}
-      <span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:6px 14px;border-radius:20px;font-size:0.8rem;">{{ tag }}</span>
+      <a href="/projects/#{{ tag | slugify }}" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:6px 14px;border-radius:20px;font-size:0.8rem;cursor:pointer;">{{ tag }}</span></a>
     {% endfor %}
   </div>
 </div>

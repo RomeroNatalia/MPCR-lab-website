@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- stochastic computing
+- probabilistic systems
+- unconventional computing
 title: Stochastic Computing Group
 twitter: ''
 vimeo: ''

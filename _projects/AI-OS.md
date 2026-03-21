@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- AI systems
+- operating systems
+- autonomous agents
 title: AI OS
 twitter: ''
 vimeo: ''

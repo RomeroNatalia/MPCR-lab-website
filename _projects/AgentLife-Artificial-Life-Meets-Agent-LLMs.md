@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- artificial life
+- LLM agents
+- emergence
 title: 'AgentLife: Artificial Life Meets Agent LLMs'
 twitter: ''
 vimeo: ''

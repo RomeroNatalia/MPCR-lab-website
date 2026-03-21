@@ -14,7 +14,10 @@ linkedin: ''
 members: []
 project_leader: ''
 room: Sandbox
-tags: []
+tags:
+- computer vision
+- agriculture
+- spectral analysis
 title: AgriSpectraVision
 twitter: ''
 vimeo: ''

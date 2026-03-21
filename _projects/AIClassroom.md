@@ -16,10 +16,9 @@ members: []
 project_leader: Natalia-Romero
 room: ''
 tags:
+- education technology
 - LLMs
-- multi-agent
-- education
-- simulation
+- multi-agent systems
 title: AIClassroom
 twitter: ''
 vimeo: ''

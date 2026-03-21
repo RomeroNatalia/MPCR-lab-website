@@ -15,7 +15,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- research
+- embedded systems
+- edge AI
+- assistive technology
 title: Help from the Chip
 twitter: ''
 vimeo: ''

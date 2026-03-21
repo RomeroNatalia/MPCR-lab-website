@@ -16,7 +16,9 @@ members: []
 project_leader: ''
 room: ''
 tags:
-- development
+- automation
+- digital tools
+- workflow systems
 title: DigitalOffice
 twitter: ''
 vimeo: ''

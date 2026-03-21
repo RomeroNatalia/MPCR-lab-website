@@ -16,7 +16,10 @@ linkedin: ''
 members: []
 project_leader: ''
 room: Sandbox
-tags: []
+tags:
+- LLMs
+- cognitive science
+- spatial reasoning
 title: Visuospatial Learning Capabilities of LLMs
 twitter: ''
 vimeo: ''

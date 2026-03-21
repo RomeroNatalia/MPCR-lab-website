@@ -17,7 +17,9 @@ members:
 project_leader: ''
 room: ''
 tags:
-- development
+- foundations of computation
+- OISC
+- memory-based computing
 title: MemoryWords
 twitter: ''
 vimeo: ''
