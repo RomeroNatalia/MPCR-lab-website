@@ -10,7 +10,7 @@ description: This project investigates how large language models perceive and re
   and develop methods to extend their visuospatial capabilities.
 email: ''
 github: ''
-image: /uploads/project-cards/Visuospatial-Learning- Capabilities-of-LLMs.svg
+image: /uploads/project-cards/Visuospatial-Learning-Capabilities-of-LLMs.svg
 instagram: ''
 linkedin: ''
 members: []
