@@ -1,6 +1,7 @@
 ---
 PIs:
 - Elan-Barenholtz
+- William-Hahn
 active: true
 building: S.E. Wimberly Library
 collaborators: []
@@ -14,7 +15,7 @@ image: /uploads/project-cards/Visuospatial-Learning-Capabilities-of-LLMs.jpg
 instagram: ''
 linkedin: ''
 members: []
-project_leader: ''
+project_leader: Elan-Barenholtz
 room: Sandbox
 tags:
 - LLMs

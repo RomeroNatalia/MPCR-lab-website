@@ -2,6 +2,7 @@
 PIs:
 - William E.Hahn, Ph.D.
 - Elan Barenholtz, Ph.D.
+- William-Hahn
 active: true
 building: S.E. Wimberly Library
 collaborators: []
@@ -24,7 +25,7 @@ model_card:
     architectures. Testing coverage is inherently incomplete.
   results: Identifies specific model components responsible for safety behaviors and
     maps failure modes under targeted ablation.
-project_leader: ''
+project_leader: Susan-Schneider
 room: Sandbox
 tags:
 - AI safety
