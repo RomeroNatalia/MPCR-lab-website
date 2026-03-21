@@ -1,8 +1,7 @@
 ---
 active: true
 alumni: false
-bio: Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Associate
-  Director of the Center for the Future Mind
+bio: Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor
 building: Behavioral Sciences (BS-12)
 contact: true
 director: true

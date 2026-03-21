@@ -1,12 +1,11 @@
 ---
 active: true
 alumni: false
-bio: Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Program
-  Director of the Future of Intelligence Initiative
+bio: Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor
 building: ''
 contact: true
 director: true
-email: ''
+email: whahn@fau.edu
 faculty: true
 github: https://github.com/williamedwardhahn
 image: /uploads/avatars/William-Hahn.JPG

@@ -1,8 +1,7 @@
 ---
 active: true
 alumni: false
-bio: Co-Principal Investigator (Co-PI) <br> Distinguished Professor <br> Director
-  of the Center for Future Mind
+bio: Co-Principal Investigator (Co-PI) <br> Distinguished Professor
 building: Social Science Building (SO-44)
 contact: true
 director: true
