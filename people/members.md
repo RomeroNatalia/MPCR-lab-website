@@ -42,7 +42,7 @@ redirect_from:
 
 * * *
 
-<h2 class="section-title uk-text-center uk-margin" id="alumni">Lab Alumni</h2>
+<h2 class="section-title uk-text-center uk-margin no_toc" id="alumni">Lab Alumni</h2>
 
 * * *
 
