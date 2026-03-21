@@ -2,7 +2,7 @@
 title: "Natalia Romero, Ph.D."
 username: Natalia-Romero
 image: /uploads/avatars/Natalia-Romero.png
-bio: "Chief Program Strategy Officer and Co-Principal Investigator"
+bio: "Chief Program Strategy Officer"
 email: nromero@fau.edu
 website: https://www.mpcrlab.com
 github: https://github.com/romeronatalia

@@ -19,53 +19,61 @@ layout: default
             <div class="uk-text-lead uk-margin-medium-bottom">{{ page.bio }}</div>
         {% endif %}
 
+        {% assign has_social = false %}
+        {% if page.twitter and page.twitter != "" %}{% assign has_social = true %}{% endif %}
+        {% if page.instagram and page.instagram != "" %}{% assign has_social = true %}{% endif %}
+        {% if page.linkedin and page.linkedin != "" %}{% assign has_social = true %}{% endif %}
+        {% if page.vimeo and page.vimeo != "" %}{% assign has_social = true %}{% endif %}
+        {% if page.youtube and page.youtube != "" %}{% assign has_social = true %}{% endif %}
+        {% if page.github and page.github != "" %}{% assign has_social = true %}{% endif %}
+        {% if page.email and page.email != "" %}{% assign has_social = true %}{% endif %}
+        {% if page.website and page.website != "" %}{% assign has_social = true %}{% endif %}
+        {% if has_social %}
         <div class="social-networks uk-margin-large-bottom">
             <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center data-uk-grid">
-                {% if page.twitter %}
-                <div class="uk-first-column">
+                {% if page.twitter and page.twitter != "" %}
+                <div>
                     <a href="{{ page.twitter }}" data-uk-icon="ratio: 1.2; icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-
-                {% if page.instagram %}
+                {% if page.instagram and page.instagram != "" %}
                 <div>
                     <a href="{{ page.instagram }}" data-uk-icon="ratio: 1.2; icon: instagram" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-
-                {% if page.linkedin %}
+                {% if page.linkedin and page.linkedin != "" %}
                 <div>
                     <a href="{{ page.linkedin }}" data-uk-icon="ratio: 1.2; icon: linkedin" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-
-                {% if page.vimeo %}
+                {% if page.vimeo and page.vimeo != "" %}
                 <div>
                     <a href="{{ page.vimeo }}" data-uk-icon="ratio: 1.2; icon: vimeo" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-                {% if page.youtube %}
+                {% if page.youtube and page.youtube != "" %}
                 <div>
                     <a href="{{ page.youtube }}" data-uk-icon="ratio: 1.2; icon: youtube" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-                {% if page.github %}
+                {% if page.github and page.github != "" %}
                 <div>
                     <a href="{{ page.github }}" data-uk-icon="ratio: 1.2; icon: github" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-                {% if page.email %}
+                {% if page.email and page.email != "" %}
                 <div>
                     <a href="mailto:{{ page.email }}" data-uk-icon="ratio: 1.2; icon: mail" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
-                {% if page.website %}
+                {% if page.website and page.website != "" %}
                 <div>
                     <a href="{{ page.website }}" data-uk-icon="ratio: 1.2; icon: link" class="uk-icon-link uk-icon" target="_blank"></a>
                 </div>
                 {% endif %}
             </div>
         </div>
+        {% endif %}
 
         <div class="content-primary">
             {{ content }}
