@@ -8,7 +8,7 @@ description: Neural Cellular Automata is basic research into emergence — study
   Growing Neural CA approaches.
 email: ''
 github: ''
-image: /uploads/project-cards/Neural-Cellular-Automata.svg
+image: /uploads/project-cards/Neural-Cellular-Automata.png
 instagram: ''
 linkedin: ''
 members: []

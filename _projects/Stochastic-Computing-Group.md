@@ -8,7 +8,7 @@ description: The Stochastic Computing Group implements a complete ALU using stoc
   operations.
 email: ''
 github: ''
-image: /uploads/project-cards/Stochastic-Computing-Group.svg
+image: /uploads/project-cards/Stochastic-Computing-Group.png
 instagram: ''
 linkedin: ''
 members: []

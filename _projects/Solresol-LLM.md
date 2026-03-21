@@ -7,7 +7,7 @@ description: Solresol LLM builds a translation system and multimodal dictionary 
   translates between natural language and Solresol, and can play the output as music.
 email: ''
 github: ''
-image: /uploads/project-cards/Solresol-LLM.svg
+image: /uploads/project-cards/Solresol-LLM.png
 instagram: ''
 linkedin: ''
 members: []

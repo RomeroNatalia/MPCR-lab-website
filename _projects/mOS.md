@@ -8,7 +8,7 @@ description: mOS is a minimal operating system for ESP32 microcontrollers built 
   to the ESP32 instruction set.
 email: ''
 github: ''
-image: /uploads/project-cards/mOS.svg
+image: /uploads/project-cards/mOS.png
 instagram: ''
 linkedin: ''
 members: []
