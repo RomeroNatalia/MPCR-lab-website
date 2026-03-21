@@ -8,7 +8,7 @@ description: AgentLife builds artificial life ecosystems on a cellular automata 
   of Life, but every cell can think.
 email: ''
 github: ''
-image: /uploads/project-cards/AgentLife-Artificial-Life-Meets-Agent-LLMs.svg
+image: /uploads/project-cards/AgentLife-Artificial-Life-Meets-Agent-LLMs.png
 instagram: ''
 linkedin: ''
 members: []

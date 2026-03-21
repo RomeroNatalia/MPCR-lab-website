@@ -8,7 +8,7 @@ description: AI OS is a Docker-based operating system where deploying AI agent s
   boot a swarm.
 email: ''
 github: ''
-image: /uploads/project-cards/AI-OS.svg
+image: /uploads/project-cards/AI-OS.png
 instagram: ''
 linkedin: ''
 members: []

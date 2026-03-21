@@ -8,7 +8,7 @@ description: Compressed Inference applies compressed sensing theory to GPU-accel
   to resource-constrained clinical settings.
 email: ''
 github: ''
-image: /uploads/project-cards/Compressed-Inference.svg
+image: /uploads/project-cards/Compressed-Inference.png
 instagram: ''
 linkedin: ''
 members: []
