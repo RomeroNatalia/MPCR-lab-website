@@ -14,19 +14,10 @@ redirect_from:
 
 <div class="uk-container uk-margin-medium-bottom">
 <div class="uk-child-width-1-3@s uk-child-width uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
-    {% if site.data.people %}
-      {% for person in site.data.people %}
-        {% if person.director %}
-          {% include content-people-top-data.html %}
-        {% endif %}
-      {% endfor %}
-    {% else %}
-      {% for person in site.people %}
-        {% if person.director %}
-          {% include content-people-top.html %}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+    {% assign directors = site.people | where: "director", true | sort: "title" %}
+    {% for person in directors %}
+      {% include content-people-top.html %}
+    {% endfor %}
   </div>
 </div>
 
@@ -38,18 +29,11 @@ redirect_from:
 
 <div class="uk-container uk-margin-medium-bottom">
 <div class="uk-child-width-1-4@s uk-child-width uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
-    {% if site.data.people %}
-      {% for person in site.data.people %}
-        {% if person.active and person.director != true %}
-          {% include content-people-top-data.html %}
-        {% endif %}
-      {% endfor %}
-    {% else %}
-      {% for person in site.people %}
-        {% if person.active and person.director != true %}
-          {% include content-people-top.html %}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+    {% assign active_non_directors = site.people | where: "active", true | sort: "title" %}
+    {% for person in active_non_directors %}
+      {% unless person.director %}
+        {% include content-people-top.html %}
+      {% endunless %}
+    {% endfor %}
   </div>
 </div>
