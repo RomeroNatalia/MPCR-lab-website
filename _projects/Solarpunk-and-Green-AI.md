@@ -22,7 +22,7 @@ model_card:
     availability.
   results: Computer vision inference running entirely on harvested ambient energy
     — solar by day, thermoelectric by night.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - sustainable AI

@@ -24,7 +24,7 @@ model_card:
   reproducibility_code: https://solresol.xyz
   results: Bidirectional translation between English and Solresol. Musical output
     — Solresol sentences played as note sequences.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - constructed languages

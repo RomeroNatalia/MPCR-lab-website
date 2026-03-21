@@ -22,7 +22,7 @@ model_card:
   limitations: Output quality varies with task complexity. No persistent learning
     across sprints.
   results: Completes end-to-end programming tasks producing working, tested code.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - automation

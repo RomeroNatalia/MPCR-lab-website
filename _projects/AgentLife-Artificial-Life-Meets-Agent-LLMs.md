@@ -24,7 +24,7 @@ model_card:
     timescales require many generations.
   results: Agents develop specialized communication protocols. Population dynamics
     show classic evolutionary patterns — speciation, niche formation, arms races.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - artificial life

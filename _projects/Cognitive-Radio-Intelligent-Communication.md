@@ -24,7 +24,7 @@ model_card:
     limits simultaneous channel monitoring.
   results: AI agent learns to select clear channels and adapt modulation in real-time
     across the EM spectrum.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - signal processing

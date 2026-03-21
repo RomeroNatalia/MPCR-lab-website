@@ -12,6 +12,8 @@ github: ''
 image: /uploads/avatars/Ganesh-Shiwakoti.jpg
 instagram: ''
 linkedin: ''
+project_slugs:
+- Compressed-Inference
 room: ''
 staff: false
 student: true

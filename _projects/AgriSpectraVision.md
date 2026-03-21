@@ -24,7 +24,7 @@ model_card:
     validated on tomatoes only — needs broader crop testing.
   results: Successfully simulates hyperspectral information from consumer RGB cameras.
     Live monitoring system running in lab.
-project_leader: ''
+project_leader: William-Hahn
 room: Sandbox
 tags:
 - computer vision

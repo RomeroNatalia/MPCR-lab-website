@@ -24,7 +24,7 @@ model_card:
     learning rate and grid size.
   results: Complex emergent patterns from simple learned local rules. Original research
     direction independent of Growing Neural CA work.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - cellular automata

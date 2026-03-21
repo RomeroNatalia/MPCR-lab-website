@@ -21,7 +21,7 @@ model_card:
   limitations: Pi compute limits model complexity. Currently vision-only — no audio
     or haptic output.
   results: Real-time visual assistance running on Raspberry Pi hardware.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - embedded systems

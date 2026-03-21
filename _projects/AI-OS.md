@@ -26,7 +26,7 @@ model_card:
     yet.
   results: Successfully orchestrates multiple LLM containers on a single machine with
     isolated environments and shared communication channels.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - AI systems

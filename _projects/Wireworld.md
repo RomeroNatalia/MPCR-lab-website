@@ -24,7 +24,7 @@ model_card:
   reproducibility_code: https://github.com/williamedwardhahn/Wireworld
   results: Built a working prime number generator. Demonstrates Turing-complete computation
     from minimal rules.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - cellular automata

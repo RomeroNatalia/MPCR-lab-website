@@ -23,7 +23,7 @@ model_card:
     manual circuit configuration.
   results: Spiking neuron simulations running on real analog hardware. Hybrid analog-digital
     pipeline demonstrated.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - analog computing

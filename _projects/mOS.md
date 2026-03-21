@@ -23,7 +23,7 @@ model_card:
   reproducibility_code: https://github.com/williamedwardhahn/mOS
   results: Functional minimal OS on real ESP32 hardware with web-based management
     and API access.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - operating systems

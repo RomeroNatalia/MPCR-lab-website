@@ -23,7 +23,7 @@ model_card:
     can introduce systematic errors.
   results: 'Functional stochastic ALU with all basic operations. Trade-off: radical
     circuit simplicity for bounded precision.'
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - stochastic computing

@@ -25,7 +25,7 @@ model_card:
   reproducibility_code: https://github.com/williamedwardhahn/MemoryWords
   results: Built spreadsheet, games, paint tools, drawing programs, fractals — all
     from one instruction. Self-hosting compiler operational.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - foundations of computation

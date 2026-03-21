@@ -23,7 +23,7 @@ model_card:
     remains challenging in the HD framework.
   results: Agents navigate environments using HD computing without any gradient-based
     training. Comparable accuracy to small neural networks with faster inference.
-project_leader: ''
+project_leader: William-Hahn
 room: ''
 tags:
 - hyperdimensional computing

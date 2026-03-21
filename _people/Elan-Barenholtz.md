@@ -2,7 +2,6 @@
 active: true
 alumni: false
 bio: Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor
-
 building: Behavioral Sciences (BS-12)
 contact: true
 director: true
@@ -17,17 +16,8 @@ images:
 - path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
 instagram: ''
 linkedin: https://www.linkedin.com/in/elan-barenholtz/
-publication_slugs:
-- a-controlled-investigation-of-behaviorally-cloned-deep-neural-network-behaviors
-- a-systematic-comparison-of-deep-learning-architectures-in-an-autonomous-vehicle
-- convolutional-neural-networks-for-predicting-molecular-binding-affinity-to-hiv-1
-- gender-perception-from-gait-a-comparison-between-biological-biomimetic-and-non-b
-- machine-learning-approaches-to-substance-abuse-research-emerging-trends-and-thei
-- online-surveillance-of-novel-psychoactive-substances-nps
-- predicting-binding-from-screening-assays-with-transformer-network-embeddings
-- predicting-residues-involved-in-anti-dna-autoantibodies-with-limited-neural-netw
-- the-role-of-bio-inspired-modularity-in-general-learning
-- world-properties-without-world-models-recovering-spatial-and-temporal-structure
+project_slugs:
+- Visuospatial-Learning-Capabilities-of-LLMs
 room: Room 212
 staff: false
 student: false
