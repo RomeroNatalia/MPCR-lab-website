@@ -2,17 +2,28 @@
 active: true
 alumni: false
 bio: Co-Principal Investigator (Co-PI) <br> Distinguished Professor
+
 building: Social Science Building (SO-44)
 contact: true
 director: true
 email: sschneider@fau.edu
 faculty: true
+fellow: false
 github: ''
 image: /uploads/avatars/Susan-Schneider.jpg
 images:
 - path: /uploads/news-pictures/2023-Sandbox-Leadership-at-Grand-Opening.JPG
 instagram: ''
 linkedin: https://www.linkedin.com/in/susan-schneider-29b972ab/
+publication_slugs:
+- chatbot-epistemology
+- consciousness-beyond-the-human-case
+- emergent-quantum-mechanics-and-general-relativity-a-prototime-route-to-quantum-g
+- is-ai-conscious-a-primer-on-the-myths-and-confusions-driving-the-debate
+- mind-design-ai-epistemology-and-outsourcing
+- superpsychism
+- the-quantum-darwinist-theory-of-consciousness
+- when-wholes-resist-decomposition-a-spectral-measure-of-epistemic-emergence
 redirect_to: https://schneiderwebsite.com
 room: Room 283
 staff: true

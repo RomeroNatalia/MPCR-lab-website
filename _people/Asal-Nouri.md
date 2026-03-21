@@ -8,6 +8,7 @@ contact: false
 director: false
 email: anouri2015@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Asal-Nouri.jpg
 images:

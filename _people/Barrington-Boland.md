@@ -7,6 +7,7 @@ contact: false
 director: false
 email: bboland2017@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Barrington-Boland.jpeg
 instagram: ''

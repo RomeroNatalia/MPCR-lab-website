@@ -7,6 +7,7 @@ contact: false
 director: false
 email: idash2020@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Isaac-Dash.jpeg
 instagram: ''

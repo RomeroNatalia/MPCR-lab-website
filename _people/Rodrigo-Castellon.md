@@ -8,6 +8,7 @@ contact: false
 director: false
 email: rjcaste@stanford.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Rodrigo-Castellon.JPG
 instagram: ''

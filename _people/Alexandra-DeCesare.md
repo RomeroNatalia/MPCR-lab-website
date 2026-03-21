@@ -7,6 +7,7 @@ contact: false
 director: false
 email: adecesare2013@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Alexandra-DeCesare.jpg
 instagram: ''

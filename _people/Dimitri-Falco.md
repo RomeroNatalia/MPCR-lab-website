@@ -7,6 +7,7 @@ contact: false
 director: false
 email: dimfalco@gmail.com
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Dimitri-Falco.jpg
 instagram: ''

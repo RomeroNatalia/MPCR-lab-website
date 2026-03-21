@@ -8,6 +8,7 @@ contact: false
 director: false
 email: michael@kleiman.me
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Michael-Kleiman.jpg
 instagram: ''

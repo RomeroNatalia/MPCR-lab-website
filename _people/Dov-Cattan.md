@@ -7,6 +7,7 @@ contact: false
 director: false
 email: dcattan2019@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Dov-Cattan.jpeg
 instagram: ''

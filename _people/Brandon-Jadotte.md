@@ -7,6 +7,7 @@ contact: false
 director: false
 email: bjadott1@my.fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Brandon-Jadotte.jpg
 instagram: ''

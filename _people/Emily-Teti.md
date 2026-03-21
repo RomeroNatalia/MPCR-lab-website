@@ -7,6 +7,7 @@ contact: false
 director: false
 email: estark2017@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Emily-Teti.JPG
 instagram: ''

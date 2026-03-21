@@ -7,6 +7,7 @@ contact: false
 director: false
 email: russoc2023@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Charles-Russo.jpeg
 images:

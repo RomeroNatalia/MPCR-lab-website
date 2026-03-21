@@ -7,6 +7,7 @@ contact: false
 director: false
 email: rays2016@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Subhosit-Ray.jpg
 images:

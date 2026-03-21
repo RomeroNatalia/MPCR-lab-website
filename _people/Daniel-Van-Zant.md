@@ -7,6 +7,7 @@ contact: false
 director: false
 email: dvanzant2022@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Daniel-Van-Zant.jpeg
 instagram: ''

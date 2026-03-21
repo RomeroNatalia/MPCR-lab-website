@@ -7,6 +7,7 @@ contact: false
 director: false
 email: mteti@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Michael-Teti.jpg
 images:

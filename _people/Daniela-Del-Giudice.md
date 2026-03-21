@@ -7,6 +7,7 @@ contact: false
 director: false
 email: ddelgiudice2020@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Daniela-Del-Giudice.jpeg
 instagram: ''

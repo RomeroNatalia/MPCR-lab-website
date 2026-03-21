@@ -8,6 +8,7 @@ contact: false
 director: false
 email: pmorris2012@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Paul-Morris.JPG
 images:

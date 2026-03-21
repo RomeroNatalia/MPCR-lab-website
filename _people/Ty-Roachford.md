@@ -7,6 +7,7 @@ contact: false
 director: false
 email: troachford2013@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Ty-Roachford.jpg
 images:

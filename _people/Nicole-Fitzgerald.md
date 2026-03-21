@@ -8,6 +8,7 @@ contact: false
 director: false
 email: nicole.ftzgrld@gmail.com
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Nicole-Fitzgerald.jpg
 instagram: ''

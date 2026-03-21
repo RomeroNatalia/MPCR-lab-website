@@ -1,26 +1,17 @@
 ---
-title: "Natalia Romero, Ph.D."
-username: Natalia-Romero
-image: /uploads/avatars/Natalia-Romero.png
-bio: "Chief Program Strategy Officer"
-email: nromero@fau.edu
-website: https://www.mpcrlab.com
-github: https://github.com/romeronatalia
-building: ""
-room: ""
 active: true
-contact: true
-faculty: true
-staff: true
-student: false
-director: false
-fellow: false
 alumni: false
-instagram: ""
+bio: Chief Program Strategy Officer
+building: ''
+contact: true
+director: false
+email: nromero@fau.edu
+faculty: true
+fellow: false
+github: https://github.com/romeronatalia
+image: /uploads/avatars/Natalia-Romero.png
+instagram: ''
 linkedin: https://www.linkedin.com/in/romeronatalia/
-twitter: ""
-vimeo: ""
-youtube: ""
 project_slugs:
 - AIClassroom
 research_interests:
@@ -29,11 +20,15 @@ research_interests:
 - Ancient Civilizations
 - Human-Machine Interaction
 - Natural vs Artificial Intelligence
-images:
-- path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
-- path: /uploads/news-pictures/2016-Jun-01-MPCR-First-GPUs.jpg
-- path: /uploads/news-pictures/2014-MM-DD-MPCR-Rover.jpg
-video: https://www.youtube-nocookie.com/embed/2kyPou_FFn0
+room: ''
+staff: true
+student: false
+title: Natalia Romero, Ph.D.
+twitter: ''
+username: Natalia-Romero
+vimeo: ''
+website: https://www.mpcrlab.com
+youtube: ''
 ---
 
 # Contact Information

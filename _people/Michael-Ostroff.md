@@ -7,6 +7,7 @@ contact: false
 director: false
 email: mostroff2015@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Michael-Ostroff.jpg
 images:

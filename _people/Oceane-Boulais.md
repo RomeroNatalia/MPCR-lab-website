@@ -7,6 +7,7 @@ contact: false
 director: false
 email: oceane@boulais.io
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Oceane-Boulais.jpg
 instagram: ''

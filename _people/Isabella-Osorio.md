@@ -7,6 +7,7 @@ contact: false
 director: false
 email: isabella.osorio@ufl.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Isabella-Osorio.jpg
 instagram: ''

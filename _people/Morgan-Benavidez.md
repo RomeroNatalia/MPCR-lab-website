@@ -7,6 +7,7 @@ contact: false
 director: false
 email: mbenavidez2020@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Morgan-Benavidez.jpg
 images:

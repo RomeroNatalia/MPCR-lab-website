@@ -7,6 +7,7 @@ contact: false
 director: false
 email: esusi2018@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Emma-Susi.png
 instagram: ''

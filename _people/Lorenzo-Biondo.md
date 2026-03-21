@@ -7,6 +7,7 @@ contact: false
 director: false
 email: lbiondo2021@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Lorenzo-Biondo.jpeg
 instagram: ''

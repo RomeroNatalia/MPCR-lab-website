@@ -7,6 +7,7 @@ contact: false
 director: false
 email: bavileslopez2019@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Bryan-Aviles-Lopez.jpeg
 instagram: ''

@@ -8,6 +8,7 @@ contact: false
 director: false
 email: kelseywilson2015@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Kelsey-Wilson.jpg
 instagram: ''

@@ -7,6 +7,7 @@ contact: false
 director: false
 email: pscarpinato@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Paul-Scarpinato.jpg
 instagram: ''

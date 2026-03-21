@@ -7,6 +7,7 @@ contact: false
 director: false
 email: bkrubitski2023@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Belle-Krubitski.jpg
 instagram: ''

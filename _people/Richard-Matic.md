@@ -7,6 +7,7 @@ contact: false
 director: false
 email: rmatic2018@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Richard-Matic.jpg
 instagram: ''

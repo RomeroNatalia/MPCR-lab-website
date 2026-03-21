@@ -7,6 +7,7 @@ contact: false
 director: false
 email: arandaa2022@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Alexander-Aranda.jpeg
 instagram: ''

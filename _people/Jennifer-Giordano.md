@@ -7,6 +7,7 @@ contact: false
 director: false
 email: jgiordano2021@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Jennifer-Giordano.png
 images:

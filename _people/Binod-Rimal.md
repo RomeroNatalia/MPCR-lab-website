@@ -8,6 +8,7 @@ contact: false
 director: false
 email: brimal2014@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Binod-Rimal.jpg
 instagram: ''

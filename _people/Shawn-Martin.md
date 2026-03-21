@@ -8,6 +8,7 @@ contact: false
 director: false
 email: Martin.sh@husky.neu.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Shawn-Martin.JPG
 instagram: ''

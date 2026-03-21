@@ -7,6 +7,7 @@ contact: false
 director: false
 email: mtrask2018@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Matt-Trask.jpg
 images:

@@ -7,6 +7,7 @@ contact: false
 director: false
 email: tomtomcox@gmail.com
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Thomas-Cox.jpg
 instagram: ''

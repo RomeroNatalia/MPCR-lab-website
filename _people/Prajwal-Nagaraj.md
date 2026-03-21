@@ -7,6 +7,7 @@ contact: false
 director: false
 email: pnagaraj2023@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Prajwal-Nagaraj.jpeg
 instagram: ''

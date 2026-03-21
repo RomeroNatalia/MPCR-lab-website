@@ -7,6 +7,7 @@ contact: false
 director: false
 email: vmacri2017@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Vincenzo-Macri.jpg
 images:

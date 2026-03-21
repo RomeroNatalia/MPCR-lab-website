@@ -7,6 +7,7 @@ contact: false
 director: false
 email: solaanrewaju2020@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Shuaib-Olanrewaju.jpeg
 instagram: ''

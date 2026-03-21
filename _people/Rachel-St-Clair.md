@@ -8,6 +8,7 @@ contact: false
 director: false
 email: rstclair2012@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Rachel-St-Clair.jpeg
 instagram: ''

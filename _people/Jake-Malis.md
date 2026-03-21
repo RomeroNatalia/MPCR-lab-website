@@ -7,6 +7,7 @@ contact: false
 director: false
 email: jake.malis@pinecrest.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Jake-Malis.jpg
 instagram: ''

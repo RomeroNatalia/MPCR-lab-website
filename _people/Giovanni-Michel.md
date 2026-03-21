@@ -8,6 +8,7 @@ contact: false
 director: false
 email: giovannimich2020@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Giovanni-Michel.jpg
 instagram: ''

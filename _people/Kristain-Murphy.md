@@ -7,6 +7,7 @@ contact: false
 director: false
 email: murphyk2017@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Kristian-Murphy.JPG
 images:

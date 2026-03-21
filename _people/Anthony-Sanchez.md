@@ -8,6 +8,7 @@ contact: false
 director: false
 email: ''
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Anthony-Sanchez.jpg
 instagram: ''

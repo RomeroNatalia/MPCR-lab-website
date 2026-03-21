@@ -7,6 +7,7 @@ contact: false
 director: false
 email: jamesclark2016@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Alex-Clark.png
 instagram: ''

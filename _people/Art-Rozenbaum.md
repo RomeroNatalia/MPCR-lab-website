@@ -7,6 +7,7 @@ contact: false
 director: false
 email: ''
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Art-Rozenbaum.JPG
 instagram: ''

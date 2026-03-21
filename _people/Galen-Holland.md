@@ -7,6 +7,7 @@ contact: false
 director: false
 email: gholland2017@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Galen-Holland.jpg
 instagram: ''

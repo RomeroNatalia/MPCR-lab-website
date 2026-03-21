@@ -7,13 +7,11 @@ contact: false
 director: false
 email: mklopukh2019@fau.edu
 faculty: false
+fellow: false
 github: ''
 image: /uploads/avatars/Misha-Klopuah.JPG
 instagram: ''
 linkedin: ''
-project_slugs:
-- MemoryWords
-- One-Instruction-Set-Computer-OISC
 room: Sandbox
 staff: false
 student: true
