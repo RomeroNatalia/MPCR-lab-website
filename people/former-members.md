@@ -1,5 +1,5 @@
 ---
-title: Former Members
+title: Lab Alumni
 layout: page
 sidebar: none
 
