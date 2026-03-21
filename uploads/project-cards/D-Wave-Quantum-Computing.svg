@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#646d22"/><stop offset="100%" style="stop-color:#0a0a1a"/>
+  </linearGradient></defs>
+  <rect width="400" height="200" fill="url(#bg)"/><circle cx="80" cy="13" r="20" fill="white" opacity="0.08"/><circle cx="217" cy="152" r="37" fill="white" opacity="0.1"/><circle cx="142" cy="39" r="42" fill="white" opacity="0.12"/><circle cx="252" cy="4" r="32" fill="white" opacity="0.14"/><circle cx="205" cy="23" r="25" fill="white" opacity="0.16"/><circle cx="244" cy="72" r="24" fill="white" opacity="0.18"/>
+  <text x="200" y="90" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="white" opacity="0.3">QC</text>
+  <text x="200" y="130" text-anchor="middle" font-family="sans-serif" font-size="16" fill="white" opacity="0.7">D-Wave Quantum</text>
+</svg>
