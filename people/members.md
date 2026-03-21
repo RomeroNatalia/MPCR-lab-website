@@ -1,11 +1,12 @@
 ---
-title: People
+title: Lab Members
 layout: page
 sidebar: none
 redirect_from:
   - https://mpcrlab.com/people/members
   - people/alumni
   - people/former-members
+toc: false
 ---
 
 * * *
