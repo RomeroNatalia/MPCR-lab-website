@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: Cognitive Radio combines software-defined radio with machine learning
-  to build wireless systems that sense, learn, and adapt to their electromagnetic
-  environment in real time. Using AI-driven spectrum analysis, the project develops
-  radios that autonomously find open frequencies, avoid interference, and optimize
-  transmission—making communication more efficient and resilient.
+description: Cognitive Radio uses HackRF software-defined radios with machine learning
+  to teach AI systems to communicate across the full electromagnetic spectrum. The
+  system learns to select channels, avoid interference, and carry voice and data over
+  consumer radio hardware.
 email: ''
 github: ''
 image: /uploads/project-cards/Cognitive-Radio-Intelligent-Communication.svg

@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: 'AIClassroom is a multi-agent simulation where LLM-powered students and
-  teachers interact in a virtual classroom. The system serves two purposes: as a research
-  platform for studying how pedagogical strategies and classroom dynamics emerge from
-  agent interactions, and as a prototype for AI tutors that adapt their teaching style
-  to individual learners in real time.'
+description: AIClassroom is a multi-agent simulation where 30-50 LLM-powered students
+  and a teacher interact in a virtual creative writing classroom. The system scales
+  to hundreds of agents in lecture mode, with the primary goal of developing better
+  tutoring models through emergent classroom dynamics.
 email: ''
 github: ''
 image: /uploads/project-cards/AIClassroom.svg

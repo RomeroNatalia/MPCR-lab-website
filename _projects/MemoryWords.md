@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: 'MemoryWords is an original programming language and computing system
-  built on a single instruction: memory copy (M[j] = M[i]). From this one primitive,
-  a complete stack-based language emerges—with compiler, interpreter, and over 1,900
-  defined words—running on x86, ESP32, FPGA, and in the browser. The project explores
-  what happens when you strip computing to its absolute minimum.'
+description: 'MemoryWords is a self-hosting programming language and computing system
+  built on a single instruction: M[j] = M[i] (memory copy). From this one operation,
+  the system bootstraps a spreadsheet, games, paint tools, drawing programs, fractals,
+  and its own higher-level language called Words.'
 email: ''
 github: ''
 image: /uploads/project-cards/MemoryWords.svg

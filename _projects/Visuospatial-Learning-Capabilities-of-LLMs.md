@@ -4,10 +4,10 @@ PIs:
 active: true
 building: S.E. Wimberly Library
 collaborators: []
-description: This project investigates how large language models perceive and reason
-  about spatial relationships, geometry, and visual structure. Through systematic
-  evaluation and benchmark design, we probe the boundaries of LLM spatial intelligence
-  and develop methods to extend their visuospatial capabilities.
+description: This project investigates LLM spatial reasoning using a robot arm equipped
+  with dual cameras — first-person (on the arm) and third-person (external) views.
+  By comparing visual perspectives, the research probes how language models perceive
+  and reason about 3D space.
 email: ''
 github: ''
 image: /uploads/project-cards/Visuospatial-Learning-Capabilities-of-LLMs.svg

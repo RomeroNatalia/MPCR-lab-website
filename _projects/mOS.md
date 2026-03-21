@@ -3,10 +3,9 @@ active: true
 building: ''
 collaborators: []
 description: mOS is a minimal operating system for ESP32 microcontrollers built on
-  the MemoryWords (MW) computing system—a one-instruction architecture where all computation
-  reduces to memory copy. Running a Forth-like language on a single OISC primitive,
-  mOS brings the MW stack to embedded hardware, providing an interactive runtime that
-  fits in kilobytes.
+  the MemoryWords (MW) single-instruction architecture. Running on real hardware with
+  a web dashboard and onboard agent model exposed through an API — MW maps straightforwardly
+  to the ESP32 instruction set.
 email: ''
 github: ''
 image: /uploads/project-cards/mOS.svg

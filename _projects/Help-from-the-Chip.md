@@ -2,10 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: Help from the Chip develops AI-powered assistive technology for differently
-  abled individuals. The project builds on-device intelligence—embedded in chips and
-  wearables—that helps users navigate, communicate, and interact with the world, making
-  AI a practical tool for accessibility and independence.
+description: Help from the Chip is a human-computer interface project using Raspberry
+  Pi and computer vision to build assistive technology for differently abled individuals.
+  The system processes visual input on edge devices to provide real-time assistance
+  and accessibility.
 email: ''
 github: ''
 image: /uploads/project-cards/Help-from-the-Chip.svg

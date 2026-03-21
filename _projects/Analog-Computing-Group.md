@@ -2,10 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: The Analog Computing Group explores unconventional computing beyond digital
-  logic—using continuous signals, analog circuits, and physical processes as computational
-  substrates. The work spans neuromorphic design, energy-efficient inference, and
-  the fundamental question of what it means to compute with physics rather than abstractions.
+description: The Analog Computing Group explores unconventional computing using hardware
+  from The Analog Thing — real analog computers running simulated spiking neurons
+  and continuous-signal computation. The direction is hybrid analog-digital systems
+  combining analog hardware with GPU acceleration.
 email: ''
 github: ''
 image: /uploads/project-cards/Analog-Computing-Group.svg

@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: AI OS is a virtual machine-based operating system that makes deploying
-  swarms of AI agents as simple as loading a game cartridge. Inspired by the NES and
-  Docker, each agent runs in its own isolated environment—lightweight, secure, and
-  self-contained—so spinning up hundreds of cooperating AI instances is trivial and
-  safe by design.
+description: AI OS is a Docker-based operating system where deploying AI agent swarms
+  is as simple as loading a game cartridge. Each container packages a different language
+  model, and the system orchestrates them on a single machine — plug in a cartridge,
+  boot a swarm.
 email: ''
 github: ''
 image: /uploads/project-cards/AI-OS.svg

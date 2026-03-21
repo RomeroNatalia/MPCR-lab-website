@@ -2,10 +2,10 @@
 active: true
 building: S.E. Wimberly Library
 collaborators: []
-description: AgriSpectraVision explores embedded AI agents that autonomously monitor
-  and care for plants. Combining sensors, spectral imaging, and on-device intelligence,
-  the project builds systems that perceive plant health in real time and take action—adjusting
-  light, water, and nutrients—without human intervention.
+description: AgriSpectraVision uses AI to simulate hyperspectral imaging from standard
+  RGB cameras, augmented with real soil moisture, temperature, and humidity sensors.
+  Currently monitoring live tomato plants in the lab with cameras and sensors already
+  running — bringing precision agriculture to consumer hardware.
 email: ''
 github: ''
 image: /uploads/project-cards/AgriSpectraVision.svg

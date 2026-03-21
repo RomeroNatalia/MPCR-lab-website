@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: Neural Cellular Automata merges local CA rules with neural network learning
-  to create systems that self-organize, grow, and repair like biological organisms.
-  The project studies how complex computation and intelligent behavior emerge from
-  simple local interactions—bridging the gap between bottom-up self-organization and
-  top-down learning.
+description: Neural Cellular Automata is basic research into emergence — studying
+  how complex global behavior arises from simple local neural rules on 2D grids. This
+  is original work exploring the frontier of self-organization, not derived from existing
+  Growing Neural CA approaches.
 email: ''
 github: ''
 image: /uploads/project-cards/Neural-Cellular-Automata.svg

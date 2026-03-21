@@ -2,10 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: Compressed Inference develops quantization, pruning, and distillation
-  techniques that shrink large AI models by orders of magnitude while preserving accuracy.
-  The goal is practical deployment—making state-of-the-art language and vision models
-  run on hardware they were never designed for.
+description: Compressed Inference applies compressed sensing theory to GPU-accelerated
+  medical imaging. The project develops efficient reconstruction algorithms that recover
+  high-quality images from fewer measurements, bringing advanced imaging capabilities
+  to resource-constrained clinical settings.
 email: ''
 github: ''
 image: /uploads/project-cards/Compressed-Inference.svg

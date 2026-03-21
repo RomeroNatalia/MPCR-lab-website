@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: Wireworld uses a minimal cellular automaton—just four states and simple
-  neighbor rules—as a substrate for emergent computation. The project explores how
-  complex logic gates, circuits, and ultimately entire computers arise from these
-  elementary rules, studying computation as a physical phenomenon that self-organizes
-  from local interactions.
+description: Wireworld uses a minimal four-state cellular automaton as a substrate
+  for emergent computation. The project has built a prime number generator and uses
+  interactive tools like Golly. A proof that complex computation emerges from simple
+  local rules.
 email: ''
 github: ''
 image: /uploads/project-cards/Wireworld.svg

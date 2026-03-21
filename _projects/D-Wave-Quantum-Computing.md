@@ -1,6 +1,6 @@
 ---
 title: D-Wave Quantum Computing
-description: FAU's $20M D-Wave Advantage2 quantum computer — 4,400+ qubit annealing system for optimization, materials simulation, and AI research.
+description: "FAU's D-Wave Advantage2 (4,400+ qubits, $20M) applied to TSP (2.4-8.8% over classical baselines) and compressed sensing (up to 2x better exact recovery). Quantum utility for real optimization problems."
 image: /uploads/project-cards/D-Wave-Quantum-Computing.svg
 active: true
 tags:

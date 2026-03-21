@@ -2,11 +2,10 @@
 active: true
 building: ''
 collaborators: []
-description: Solarpunk and Green AI explores sustainable, off-grid computing powered
-  by solar energy harvesting and ultra-low-power hardware. The project builds autonomous
-  systems—ESP32 nodes, solar panels, and energy-aware software—that run AI workloads
-  on harvested power alone, proving that intelligent systems don't require industrial-scale
-  infrastructure.
+description: Solarpunk and Green AI runs computer vision on solar-powered ESP32 systems,
+  with additional energy from Seebeck/Peltier dark-sky harvesting. The project demonstrates
+  that useful AI inference can run entirely on harvested ambient energy — no grid
+  power required.
 email: ''
 github: ''
 image: /uploads/project-cards/Solarpunk-and-Green-AI.svg
