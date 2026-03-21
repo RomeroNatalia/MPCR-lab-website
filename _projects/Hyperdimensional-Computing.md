@@ -8,7 +8,7 @@ description: Hyperdimensional Computing encodes information as 10,000-dimensiona
   inspired by how the brain represents concepts.
 email: ''
 github: ''
-image: /uploads/project-cards/Hyperdimensional-Computing.svg
+image: /uploads/project-cards/Hyperdimensional-Computing.jpg
 instagram: ''
 linkedin: ''
 members: []

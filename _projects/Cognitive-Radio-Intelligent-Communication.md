@@ -8,7 +8,7 @@ description: Cognitive Radio uses HackRF software-defined radios with machine le
   consumer radio hardware.
 email: ''
 github: ''
-image: /uploads/project-cards/Cognitive-Radio-Intelligent-Communication.svg
+image: /uploads/project-cards/Cognitive-Radio-Intelligent-Communication.jpg
 instagram: ''
 linkedin: ''
 members: []

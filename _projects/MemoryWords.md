@@ -8,7 +8,7 @@ description: 'MemoryWords is a self-hosting programming language and computing s
   and its own higher-level language called Words.'
 email: ''
 github: ''
-image: /uploads/project-cards/MemoryWords.svg
+image: /uploads/project-cards/MemoryWords.jpg
 instagram: ''
 linkedin: ''
 members:

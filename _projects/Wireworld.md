@@ -8,7 +8,7 @@ description: Wireworld uses a minimal four-state cellular automaton as a substra
   local rules.
 email: ''
 github: ''
-image: /uploads/project-cards/Wireworld.svg
+image: /uploads/project-cards/Wireworld.jpg
 instagram: ''
 linkedin: ''
 members: []
