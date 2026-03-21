@@ -8,7 +8,7 @@ description: AgriSpectraVision uses AI to simulate hyperspectral imaging from st
   running — bringing precision agriculture to consumer hardware.
 email: ''
 github: ''
-image: /uploads/project-cards/AgriSpectraVision.png
+image: /uploads/project-cards/AgriSpectraVision.jpg
 instagram: ''
 linkedin: ''
 members: []

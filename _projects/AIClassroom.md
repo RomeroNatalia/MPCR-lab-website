@@ -8,7 +8,7 @@ description: AIClassroom is a multi-agent simulation where 30-50 LLM-powered stu
   tutoring models through emergent classroom dynamics.
 email: ''
 github: ''
-image: /uploads/project-cards/AIClassroom.png
+image: /uploads/project-cards/AIClassroom.jpg
 instagram: ''
 linkedin: ''
 members: []

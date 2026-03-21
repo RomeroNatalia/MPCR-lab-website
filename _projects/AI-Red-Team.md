@@ -11,7 +11,7 @@ description: AI Alignment investigates failure modes in large language models th
   understand how they break and how to make them safer.
 email: ''
 github: ''
-image: /uploads/project-cards/AI-Red-Team.png
+image: /uploads/project-cards/AI-Red-Team.jpg
 instagram: ''
 linkedin: ''
 members: []

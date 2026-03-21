@@ -7,7 +7,7 @@ description: DigitalOffice is a multi-agent system running a full agile software
   end-to-end programming tasks and produces real, working code, not simulated deliverables.
 email: ''
 github: ''
-image: /uploads/project-cards/DigitalOffice.png
+image: /uploads/project-cards/DigitalOffice.jpg
 instagram: ''
 linkedin: ''
 members: []

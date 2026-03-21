@@ -8,7 +8,7 @@ description: Help from the Chip is a human-computer interface project using Rasp
   and accessibility.
 email: ''
 github: ''
-image: /uploads/project-cards/Help-from-the-Chip.png
+image: /uploads/project-cards/Help-from-the-Chip.jpg
 instagram: ''
 linkedin: ''
 members: []

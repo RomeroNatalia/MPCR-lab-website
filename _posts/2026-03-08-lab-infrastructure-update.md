@@ -3,7 +3,7 @@ author: MPCR Lab
 categories:
 - news
 hidden: false
-image: news-pictures/2026-03-08-lab-infrastructure-update.png
+image: news-pictures/2026-03-08-lab-infrastructure-update.jpg
 tags:
 - infrastructure
 - CRM

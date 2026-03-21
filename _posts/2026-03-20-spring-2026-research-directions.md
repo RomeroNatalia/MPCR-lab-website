@@ -3,7 +3,7 @@ author: MPCR Lab
 categories:
 - news
 hidden: false
-image: news-pictures/2026-03-20-spring-2026-research-directions.png
+image: news-pictures/2026-03-20-spring-2026-research-directions.jpg
 tags:
 - research
 - spring-2026

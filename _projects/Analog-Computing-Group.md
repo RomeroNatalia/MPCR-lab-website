@@ -8,7 +8,7 @@ description: The Analog Computing Group explores unconventional computing using 
   combining analog hardware with GPU acceleration.
 email: ''
 github: ''
-image: /uploads/project-cards/Analog-Computing-Group.png
+image: /uploads/project-cards/Analog-Computing-Group.jpg
 instagram: ''
 linkedin: ''
 members: []

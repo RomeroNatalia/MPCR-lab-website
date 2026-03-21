@@ -3,7 +3,7 @@ author: MPCR Lab
 categories:
 - news
 hidden: false
-image: news-pictures/2026-03-18-poster-gallery-launch.png
+image: news-pictures/2026-03-18-poster-gallery-launch.jpg
 tags:
 - posters
 - gallery
