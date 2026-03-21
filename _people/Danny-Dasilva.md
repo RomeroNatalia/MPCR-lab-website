@@ -9,7 +9,7 @@ email: ''
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Danny-Dasilva.png
+image: /uploads/avatars/Danny-Dasilva.jpg
 instagram: ''
 linkedin: ''
 room: ''

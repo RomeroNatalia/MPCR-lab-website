@@ -9,7 +9,7 @@ email: dcattan2019@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Dov-Cattan.jpeg
+image: /uploads/avatars/Dov-Cattan.jpg
 instagram: ''
 linkedin: ''
 room: Sandbox

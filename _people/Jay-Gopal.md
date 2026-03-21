@@ -9,7 +9,7 @@ email: Jay2003@me.com
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Jay-Gopal.jpeg
+image: /uploads/avatars/Jay-Gopal.jpg
 instagram: ''
 linkedin: ''
 room: ''

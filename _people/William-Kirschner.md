@@ -9,7 +9,7 @@ email: ''
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/William-Kirschner.jpeg
+image: /uploads/avatars/William-Kirschner.jpg
 instagram: ''
 linkedin: ''
 room: ''

@@ -9,7 +9,7 @@ email: estark2017@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Emily-Teti.JPG
+image: /uploads/avatars/Emily-Teti.jpg
 instagram: ''
 linkedin: ''
 room: Sandbox

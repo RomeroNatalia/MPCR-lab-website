@@ -9,7 +9,7 @@ email: dkelly24@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/David-Kelly.JPG
+image: /uploads/avatars/David-Kelly.jpg
 instagram: ''
 linkedin: ''
 room: ''

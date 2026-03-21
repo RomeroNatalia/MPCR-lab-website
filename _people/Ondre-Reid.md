@@ -9,7 +9,7 @@ email: oreid2016@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Ondre-Reid.JPG
+image: /uploads/avatars/Ondre-Reid.jpg
 instagram: ''
 linkedin: ''
 room: ''

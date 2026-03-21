@@ -9,7 +9,7 @@ email: ''
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Evita-Conway.png
+image: /uploads/avatars/Evita-Conway.jpg
 instagram: ''
 linkedin: ''
 room: ''

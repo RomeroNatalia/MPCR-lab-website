@@ -10,7 +10,7 @@ email: rjcaste@stanford.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Rodrigo-Castellon.JPG
+image: /uploads/avatars/Rodrigo-Castellon.jpg
 instagram: ''
 linkedin: ''
 room: ''

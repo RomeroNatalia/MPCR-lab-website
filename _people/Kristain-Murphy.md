@@ -9,7 +9,7 @@ email: murphyk2017@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Kristian-Murphy.JPG
+image: /uploads/avatars/Kristian-Murphy.jpg
 images:
 - path: /uploads/news-pictures/2023-Spring-Kristain-at-Grand-Opening.JPG
 instagram: ''

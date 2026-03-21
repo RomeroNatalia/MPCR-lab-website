@@ -9,7 +9,7 @@ email: ''
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Art-Rozenbaum.JPG
+image: /uploads/avatars/Art-Rozenbaum.jpg
 instagram: ''
 linkedin: ''
 room: ''

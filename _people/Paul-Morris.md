@@ -10,7 +10,7 @@ email: pmorris2012@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Paul-Morris.JPG
+image: /uploads/avatars/Paul-Morris.jpg
 images:
 - path: /uploads/news-pictures/2022-Sep-Paul-Morris.jpg
 - path: /uploads/news-pictures/MPCR-Fall-2017-010.JPG

@@ -9,7 +9,7 @@ email: ''
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Stephanie-Lewkowitz.png
+image: /uploads/avatars/Stephanie-Lewkowitz.jpg
 instagram: ''
 linkedin: ''
 room: ''

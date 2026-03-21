@@ -9,7 +9,7 @@ email: dvanzant2022@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Daniel-Van-Zant.jpeg
+image: /uploads/avatars/Daniel-Van-Zant.jpg
 instagram: ''
 linkedin: ''
 room: Room 408

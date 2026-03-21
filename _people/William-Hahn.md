@@ -9,7 +9,7 @@ email: whahn@fau.edu
 faculty: true
 fellow: false
 github: https://github.com/williamedwardhahn
-image: /uploads/avatars/William-Hahn.JPG
+image: /uploads/avatars/William-Hahn.jpg
 images:
 - path: /uploads/news-pictures/2018-Aug-DD-Short-Course-2018-004.jpg
 - path: /uploads/news-pictures/2016-Jun-01-MPCR-First-GPUs.jpg

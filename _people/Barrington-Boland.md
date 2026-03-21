@@ -9,7 +9,7 @@ email: bboland2017@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Barrington-Boland.jpeg
+image: /uploads/avatars/Barrington-Boland.jpg
 instagram: ''
 linkedin: ''
 room: Sandbox

@@ -9,7 +9,7 @@ email: ''
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Neil-Sachdeva.png
+image: /uploads/avatars/Neil-Sachdeva.jpg
 instagram: ''
 linkedin: ''
 room: ''

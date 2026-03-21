@@ -9,7 +9,7 @@ email: ''
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Regynald-Augustin.jpeg
+image: /uploads/avatars/Regynald-Augustin.jpg
 instagram: ''
 linkedin: ''
 room: ''

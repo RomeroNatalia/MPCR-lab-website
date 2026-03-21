@@ -10,7 +10,7 @@ email: rstclair2012@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Rachel-St-Clair.jpeg
+image: /uploads/avatars/Rachel-St-Clair.jpg
 instagram: ''
 linkedin: ''
 room: Sandbox

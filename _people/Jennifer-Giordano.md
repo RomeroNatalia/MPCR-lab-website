@@ -9,7 +9,7 @@ email: jgiordano2021@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Jennifer-Giordano.png
+image: /uploads/avatars/Jennifer-Giordano.jpg
 images:
 - path: /uploads/news-pictures/2023-Spring-Jennifer-at-Grand-Grand-Opening.JPG
 - path: /uploads/news-pictures/2023-Spring-Jennifer-and-Subhosit.JPG

@@ -9,7 +9,7 @@ email: idash2020@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Isaac-Dash.jpeg
+image: /uploads/avatars/Isaac-Dash.jpg
 instagram: ''
 linkedin: ''
 room: Sandbox

@@ -9,7 +9,7 @@ email: mklopukh2019@fau.edu
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Misha-Klopuah.JPG
+image: /uploads/avatars/Misha-Klopuah.jpg
 instagram: ''
 linkedin: ''
 project_slugs:

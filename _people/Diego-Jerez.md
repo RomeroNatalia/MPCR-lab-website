@@ -9,7 +9,7 @@ email: diego.jerez1251@gmail.com
 faculty: false
 fellow: false
 github: ''
-image: /uploads/avatars/Diego-Jerez.JPG
+image: /uploads/avatars/Diego-Jerez.jpg
 instagram: ''
 linkedin: ''
 room: ''
