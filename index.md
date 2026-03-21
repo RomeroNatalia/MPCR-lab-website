@@ -27,28 +27,34 @@ images:
 <!-- ── What We Do ── -->
 <div class="uk-child-width-1-3@m uk-grid-medium uk-margin-large-bottom" data-uk-grid>
   <div>
-    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #003366;">
-      <span data-uk-icon="icon:search;ratio:2" style="color:#003366"></span>
-      <h3 class="uk-card-title uk-margin-small-top">Research</h3>
-      <p class="uk-text-small">20 active projects spanning AI, robotics, natural computing, evolutionary dynamics, and programming language theory.</p>
-      <a href="/projects/" class="uk-button uk-button-text">View Projects</a>
-    </div>
+    <a href="/projects/" class="uk-link-reset">
+      <div class="uk-card uk-card-default uk-card-hover uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #003366;cursor:pointer;">
+        <span data-uk-icon="icon:search;ratio:2" style="color:#003366"></span>
+        <h3 class="uk-card-title uk-margin-small-top">Research</h3>
+        <p class="uk-text-small">20 active projects spanning AI, robotics, natural computing, evolutionary dynamics, and programming language theory.</p>
+        <span class="uk-button uk-button-text">View Projects</span>
+      </div>
+    </a>
   </div>
   <div>
-    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #CC0000;">
-      <span data-uk-icon="icon:users;ratio:2" style="color:#CC0000"></span>
-      <h3 class="uk-card-title uk-margin-small-top">Community</h3>
-      <p class="uk-text-small">A collaborative lab of students, faculty, and researchers at all levels working together in the FAU Sandbox.</p>
-      <a href="/people/members" class="uk-button uk-button-text">Meet the Team</a>
-    </div>
+    <a href="/people/members" class="uk-link-reset">
+      <div class="uk-card uk-card-default uk-card-hover uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #CC0000;cursor:pointer;">
+        <span data-uk-icon="icon:users;ratio:2" style="color:#CC0000"></span>
+        <h3 class="uk-card-title uk-margin-small-top">Community</h3>
+        <p class="uk-text-small">A collaborative lab of students, faculty, and researchers at all levels working together in the FAU Sandbox.</p>
+        <span class="uk-button uk-button-text">Meet the Team</span>
+      </div>
+    </a>
   </div>
   <div>
-    <div class="uk-card uk-card-default uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #126BD9;">
-      <span data-uk-icon="icon:bolt;ratio:2" style="color:#126BD9"></span>
-      <h3 class="uk-card-title uk-margin-small-top">Join Us</h3>
-      <p class="uk-text-small">We welcome curious minds at any level — undergrad, masters, PhD, or postdoc. Apply in under 2 minutes.</p>
-      <a href="/join/" class="uk-button uk-button-text">Apply Now</a>
-    </div>
+    <a href="/join/" class="uk-link-reset">
+      <div class="uk-card uk-card-default uk-card-hover uk-card-body uk-text-center" style="border-radius:8px;border-top:3px solid #126BD9;cursor:pointer;">
+        <span data-uk-icon="icon:bolt;ratio:2" style="color:#126BD9"></span>
+        <h3 class="uk-card-title uk-margin-small-top">Join Us</h3>
+        <p class="uk-text-small">We welcome curious minds at any level — undergrad, masters, PhD, or postdoc. Apply in under 2 minutes.</p>
+        <span class="uk-button uk-button-text">Apply Now</span>
+      </div>
+    </a>
   </div>
 </div>
 
