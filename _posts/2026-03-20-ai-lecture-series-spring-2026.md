@@ -1,6 +1,6 @@
 ---
 title: "MPCR Lab AI Lecture Series — Spring 2026"
-image: "news-pictures/2026-03-20-lecture-series.jpg"
+image: "news-pictures/2026-03-dumas-poster.jpg"
 categories: [news, events]
 tags: [lecture, AI, neuroscience, community]
 hidden: false
