@@ -57,18 +57,14 @@ images:
   <h2 class="section-title uk-text-center uk-margin">Research Areas</h2>
   <hr>
   <div class="uk-text-center uk-margin">
-    {% assign all_tags = "" | split: "" %}
-    {% for project in site.projects %}
-      {% if project.active %}
-        {% for tag in project.tags %}
-          {% assign all_tags = all_tags | push: tag %}
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
-    {% assign unique_tags = all_tags | uniq | sort %}
-    {% for tag in unique_tags %}
-      <a href="/projects/#{{ tag | slugify }}" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:6px 14px;border-radius:20px;font-size:0.8rem;cursor:pointer;">{{ tag }}</span></a>
-    {% endfor %}
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Large Language Models</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Artificial Life</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#CC0000;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Unconventional Computing</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Swarm Intelligence</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#126BD9;padding:8px 18px;border-radius:20px;font-size:0.9rem;">AI Safety</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#003366;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Computer Vision</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#CC0000;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Cognitive Science</span></a>
+    <a href="/projects/" class="uk-link-reset"><span class="uk-label uk-margin-small-right uk-margin-small-bottom" style="background:#126BD9;padding:8px 18px;border-radius:20px;font-size:0.9rem;">Edge Computing</span></a>
   </div>
 </div>
 
