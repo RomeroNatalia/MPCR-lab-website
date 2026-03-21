@@ -10,7 +10,7 @@ description: This project investigates LLM spatial reasoning using a robot arm e
   and reason about 3D space.
 email: ''
 github: ''
-image: /uploads/project-cards/Visuospatial-Learning-Capabilities-of-LLMs.jpg
+image: /uploads/project-cards/Visuospatial-Learning-Capabilities-of-LLMs.svg
 instagram: ''
 linkedin: ''
 members: []

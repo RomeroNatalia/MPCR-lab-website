@@ -8,10 +8,17 @@ description: Help from the Chip is a human-computer interface project using Rasp
   and accessibility.
 email: ''
 github: ''
-image: /uploads/project-cards/Help-from-the-Chip.jpg
+image: /uploads/project-cards/Help-from-the-Chip.svg
 instagram: ''
 linkedin: ''
 members: []
+model_card:
+  architecture: Raspberry Pi + camera module → computer vision pipeline → assistive
+    interface output. Edge inference for real-time visual processing.
+  data: Visual scene datasets annotated for accessibility-relevant features.
+  limitations: Pi compute limits model complexity. Currently vision-only — no audio
+    or haptic output.
+  results: Real-time visual assistance running on Raspberry Pi hardware.
 project_leader: ''
 room: ''
 tags:

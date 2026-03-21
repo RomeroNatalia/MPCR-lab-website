@@ -8,10 +8,20 @@ description: AgriSpectraVision uses AI to simulate hyperspectral imaging from st
   running — bringing precision agriculture to consumer hardware.
 email: ''
 github: ''
-image: /uploads/project-cards/AgriSpectraVision.jpg
+image: /uploads/project-cards/AgriSpectraVision.svg
 instagram: ''
 linkedin: ''
 members: []
+model_card:
+  architecture: 'RGB camera → AI model simulates hyperspectral bands (NIR, SWIR).
+    Augmented with real sensor array: soil moisture, temperature, humidity. Edge inference
+    on embedded hardware.'
+  data: Lab tomato plant imagery with paired sensor readings. RGB images annotated
+    with ground-truth spectral data.
+  limitations: Spectral simulation accuracy degrades under variable lighting. Currently
+    validated on tomatoes only — needs broader crop testing.
+  results: Successfully simulates hyperspectral information from consumer RGB cameras.
+    Live monitoring system running in lab.
 project_leader: ''
 room: Sandbox
 tags:

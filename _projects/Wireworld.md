@@ -8,10 +8,20 @@ description: Wireworld uses a minimal four-state cellular automaton as a substra
   local rules.
 email: ''
 github: ''
-image: /uploads/project-cards/Wireworld.jpg
+image: /uploads/project-cards/Wireworld.svg
 instagram: ''
 linkedin: ''
 members: []
+model_card:
+  architecture: Four-state cellular automaton (empty, wire, electron head, electron
+    tail). Simple neighbor rules produce computational circuits. Interactive simulation
+    using Golly.
+  data: Circuit designs encoded as Wireworld grid patterns.
+  limitations: Circuit design is manual — no automated synthesis. Simulation speed
+    limits circuit complexity.
+  reproducibility_code: https://github.com/williamedwardhahn/Wireworld
+  results: Built a working prime number generator. Demonstrates Turing-complete computation
+    from minimal rules.
 project_leader: ''
 room: ''
 tags:

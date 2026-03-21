@@ -8,10 +8,19 @@ description: The Stochastic Computing Group implements a complete ALU using stoc
   operations.
 email: ''
 github: ''
-image: /uploads/project-cards/Stochastic-Computing-Group.jpg
+image: /uploads/project-cards/Stochastic-Computing-Group.svg
 instagram: ''
 linkedin: ''
 members: []
+model_card:
+  architecture: Complete ALU implemented with stochastic bit streams. Numbers encoded
+    as probabilities in random binary sequences. Multiplication = AND gate. Addition
+    = MUX. Software library implementation.
+  data: Arithmetic test suites comparing stochastic vs conventional results.
+  limitations: Precision limited by bit stream length. Correlation between streams
+    can introduce systematic errors.
+  results: 'Functional stochastic ALU with all basic operations. Trade-off: radical
+    circuit simplicity for bounded precision.'
 project_leader: ''
 room: ''
 tags:
