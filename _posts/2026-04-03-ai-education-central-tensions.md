@@ -1,6 +1,7 @@
 ---
 title: "AI in Education: Central Tensions — MPCR Round Table Debate"
 image: "news-pictures/2026-04-03-ai-education-central-tensions.png"
+image_full: true
 categories: [news, events]
 tags: [AI, education, debate, round-table, community]
 hidden: false

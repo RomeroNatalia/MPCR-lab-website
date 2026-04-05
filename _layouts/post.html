@@ -12,10 +12,14 @@ layout: default
 
   {% if page.image %}
   <div class="uk-container uk-container-small uk-margin-large-bottom">
+    {% if page.image_full %}
+    <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}" alt="{{ page.title }}" style="width:100%;height:auto;">
+    {% else %}
     <div class="uk-cover-container">
       <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}" alt="{{ page.title }}" data-uk-cover>
       <canvas width="1000" height="500"></canvas>
     </div>
+    {% endif %}
   </div>
   {% endif %}
 
