@@ -20,7 +20,7 @@ images:
 <div class="uk-text-center uk-margin-large-bottom">
   <h1 class="article-title-font" style="font-size:2.2rem;margin-bottom:0.5rem;">Machine Perception and Cognitive Robotics</h1>
   <p class="uk-text-lead" style="max-width:800px;margin:0 auto;">
-    We investigate the frontiers of natural computing and complex systems — from large language models and artificial life to swarm intelligence, quantum computing, and the foundations of computation itself. Housed in the <a href="https://www.fau.edu/sandbox/">Rubin and Cindy Gruber AI Sandbox</a> at Florida Atlantic University.
+    We are investigating the frontiers of natural computing and complex systems — from large language models and artificial life to swarm intelligence, quantum computing, and the foundations of computation itself. Housed in the <a href="https://www.fau.edu/sandbox/">Rubin and Cindy Gruber AI Sandbox</a> at Florida Atlantic University.
   </p>
 </div>
 
